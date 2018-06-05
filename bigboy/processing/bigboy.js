@@ -8,7 +8,7 @@ left/right to rotate
 
 var rotSpeed = 180; // degrees per sec
 var scaSpeed = 2; // % (out of 1) per sec
-var scaStep = 0.05; // % (out of 1) that it scales for each scroll delta (a delta of 3 per scroll tick is common)
+var scaStep = 0.15; // % (out of 1) that it scales for each scroll delta (a delta of 3 per scroll tick is common)
 var minVertPercScale = 0.33333333; // % (out of 1) that image height scale can be relative to window height
 var borderLimit = 0.25; // border in % of the window height that the image must remain on the window, horizontally and vertically
 var speed = 500; //  px/sec that image will move using WASD or arrow keys
@@ -203,10 +203,14 @@ function mouseWheel(event)
 		sca = minVertPercScale * windowHeight / img.height;
 	}
 	
-	if(!(sca * (1 - (event.delta * scaStep)) < minVertPercScale * windowHeight / img.height))
+	if(!(sca * (1 - (event.delta/Math.abs(event.delta) * scaStep)) < minVertPercScale * windowHeight / img.height))
 	{
-		sca *= 1 - (event.delta * scaStep);
-		posX += (event.delta * scaStep)*(mouseX - posX);
-		posY += (event.delta * scaStep)*(mouseY - posY);
+		sca *= 1 - (event.delta/Math.abs(event.delta) * scaStep);
+		posX += (event.delta/Math.abs(event.delta) * scaStep)*(mouseX - posX);
+		posY += (event.delta/Math.abs(event.delta) * scaStep)*(mouseY - posY);
 	}
+	
+	print(event.delta);
+	
+	return false;
 }

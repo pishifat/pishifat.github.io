@@ -1,0 +1,2003 @@
+sent?,avoid?,user_id,date,values,username,country,influence1,influence2,influence3,none_DS dev,alt_name,chronology,count
+,big,2,2007-10-07 1:46:31,1,peppy,AU,,,,,,1,1
+x,dead,10984521,,0,McxD,RU,,,,,,2,0
+x,dead,677,2007-10-07 21:19:10,3,FFFanatic,SG,,,,,,3,3
+x,dead,555,2007-10-08 6:16:55,0,Extor,AR,,,,iNiS,,4,0
+x,dead,94,,0,chan,AU,,,,,,5,0
+x,dead,6682641,,0,HolyCOW,US,,,,,,6,0
+x,dead,61,,0,tsububu,AU,,,,,,7,0
+x,dead,488,,0,Kylecito,CL,,,,,,8,0
+x,dead,59,,0,Lumino,AU,,,,,,9,0
+x,dead,3080435,,0,Shin,US,,,,,,10,0
+x,dead,88,2007-10-08 14:20:29,1,eyup,AU,,,,,,11,1
+x,,410,2007-10-08 14:26:57,9,Starrodkirby86,US,Echo,DaRRi,Nharox,,,12,10
+x,dead,352,,0,JacoPOP,IT,,,,,,13,0
+x,dead,602,2007-10-08 23:47:45,1,Hitoshirenu Shourai,US,,,,,,14,1
+x,dead,159,,0,meyou22,CA,,,,,,15,0
+x,dead,301,,0,IcePagoda,US,,,,,,16,0
+x,dead,95,,0,Elmo_old,AU,,,,,,17,0
+x,dead,57,,0,Ellesime,CA,,,,,,18,0
+x,dead,2830851,,0,level-up,CN,,,,,,19,0
+x,,106,2007-10-09 2:38:49,1,Behonkiss,US,m980,mtmcl,Larto,,,20,1
+x,dead,108,,0,ZZT the Fifth,US,,,,,,21,0
+x,dead,904,,0,Donryu,CA,,,,,,22,0
+x,dead,857,,0,KiraCatgirl,US,,,,,,23,0
+x,dead,431,2007-10-13 22:56:47,4,Echo,NZ,,,,,,24,4
+x,dead,424,,0,caelus,US,,,,,,25,0
+x,dead,819,2007-10-16 16:43:00,0,Loginer,SE,,,,none,,26,0
+x,dead,946,,0,GuardianHX,CA,LuigiHann,,,,,27,0
+x,dead,274,2007-10-21 16:11:13,0,Oddbrother,US,eyup,LuigiHann,,,,28,0
+,big,55,,0,Zallius,HM,,,,,,29,0
+x,,452,2007-10-22 20:54:46,1,Kharl,TH,,,,,,30,1
+x,dead,2237,,0,Egg1991,US,,,,,,31,0
+x,dead,1686849,,0,Jay,AU,,,,,,32,0
+x,,2363,2007-10-25 20:35:50,37,DJPop,TH,,,,none,,33,37
+x,dead,2486,,0,Jean_old,CA,,,,,,34,0
+x,dead,2592,,0,Bonesnake,NL,,,,,,35,0
+x,dead,1006,,0,DS-Deluxe,DE,,,,,,36,0
+x,dead,2271,2007-10-29 17:46:47,0,Fraeon,FI,LuigiHann,awp,Ryumaru-MG,,,37,0
+x,dead,1432,,0,Puffles,US,,,,,,38,0
+x,dead,2646,,0,elvana,TH,,,,,,39,0
+x,dead,2596,,0,RatherDashing42,US,,,,,,40,0
+x,dead,501,,0,qudfo9,KR,,,,,,41,0
+x,dead,2154,,0,K-S-O,US,,,,,,42,0
+x,dead,2542,,0,sixtysevenfrogs,CA,,,,,,43,0
+x,dead,1961,,0,Leniad,AR,,,,,,44,0
+x,dead,1598,,0,flakmonkey,DE,,,,,,45,0
+x,dead,1332,,0,Aliento,US,,,,,,46,0
+x,dead,2527,,0,advancechao,US,,,,,,47,0
+x,dead,2740,,0,Shadowtje,NL,,,,,,48,0
+x,dead,2650,2007-11-09 2:03:56,4,awp,CA,,,,,,49,4
+x,dead,10533,,0,zzt,US,,,,,,50,0
+x,dead,2024,2007-11-11 16:40:43,0,EiJi,US,,,,none,,51,0
+x,dead,2355,,0,Homestarrunner,US,,,,,,52,0
+x,dead,739,,0,Gilrad,US,,,,,,53,0
+x,dead,2583,,0,Fox,DE,,,,,,54,0
+x,dead,1733,,0,Tapdancingmetroid,US,DaRRi,Starrodkirby86,awp,,,55,0
+x,dead,3562,,0,Machu_old,US,,,,,,56,0
+x,dead,2348,,0,Manabeast,US,,,,,,57,0
+x,dead,2233,2007-11-28 17:57:38,1,Cecilthemos,US,,,,,,58,1
+x,dead,2859,,0,Impossible_old,CA,,,,,,59,0
+x,dead,2905,,0,darkbluetornado,US,,,,,,60,0
+x,dead,3736,2007-12-03 14:20:53,0,wiicademan,US,,,,iNiS,,61,0
+x,dead,3004,2007-12-09 16:53:08,0,Gunzil,US,,,,iNiS,,62,0
+x,dead,4254,2007-12-11 5:19:21,1,MaxwellDemon,GB,,,,,,63,1
+x,dead,4011365,,0,Lancer,CN,,,,,,64,0
+x,dead,2560,2007-12-23 16:49:34,0,hadoken_zero,AU,m980,,,,,65,0
+x,dead,1728,,0,Headbang,US,,,,,,66,0
+x,dead,2778,,0,Zyid,US,,,,,,67,0
+x,dead,5096,,0,Enok Walker,US,,,,,,68,0
+x,,4249,2008-01-21 7:11:38,2,Mifune24,US,Rolled,Sinistro,Echo,,,69,2
+x,dead,5243,2008-01-23 0:07:26,9,Rolled,US,,,,,,70,9
+x,dead,5220,,0,flyboy87,US,,,,,,71,0
+x,dead,5268,,0,Phrygian,US,,,,,,72,0
+x,dead,5725,,0,Slezak,US,,,,,,73,0
+x,dead,4220,2007-12-23 16:49:34,0,CheEZ_old,CA,,,,,,74,0
+x,dead,2934,,0,Kimichi,US,,,,,,75,0
+x,,5960,2008-02-05 15:33:34,3,mtmcl,US,Mifune24,Cecilthemos,Rolled,,,76,3
+x,dead,5530,2008-02-06 10:06:26,1,Sinistro,GR,Echo,mtmcl,MaxwellDemon,,,77,1
+x,dead,5807,,0,Maythius,US,,,,,,78,0
+x,dead,2930,,0,kennyloo69,US,,,,,,79,0
+x,,5728,2008-02-13 6:59:44,26,James,PH,,,,none,,80,26
+,,3936,2008-02-13 6:59:44,,Card N'FoRcE,,Al-Azif,happy30,Starrodkirby86,,,80.5,3
+x,dead,4696,,0,Zweihander,PH,,,,,,81,0
+x,dead,5940,,0,MetalSonic3,FI,,,,,,82,0
+x,dead,6477,,0,Terrapin,CA,,,,,,83,0
+x,,3288,2008-02-28 18:29:01,6,m980,AU,Echo,DaRRi,mm201,iNiS,,84,6
+x,dead,4537,,0,Kai,MX,awp,machol30,LuigiHann,,,85,0
+x,dead,6566,,0,ProF,RU,,,,,,86,0
+x,dead,4934,,0,mattyu007,CA,,,,,,87,0
+x,dead,4271,,0,eirrol,US,,,,,,88,0
+x,dead,1079,2008-04-09 13:52:51,8,LuigiHann,US,,,,,,89,8
+x,dead,6659,,0,Maximum,US,,,,,,90,0
+x,dead,6057,,0,P-Drogan,CA,,,,,,91,0
+x,dead,6537,,0,aquabluu,MY,,,,,,92,0
+x,dead,6825,,0,Vic,PL,,,,,,93,0
+x,dead,7186,2008-04-27 22:56:50,4,Duoprism,AU,,,,,,94,4
+x,dead,7900,,0,Dranoel,US,,,,,,95,0
+x,dead,8950,2008-05-10 10:46:24,0,MOOMANiBE,US,,,,iNiS,,96,0
+x,dead,586,,0,TiZ,US,,,,,,97,0
+x,dead,71,,0,diela,HK,,,,,,98,0
+x,dead,10441,,0,Dakeyrus,CA,,,,,,99,0
+x,,10028,,0,vytalibus,PH,,,,,,100,0
+x,dead,11738,,0,BluePaladin25,US,,,,,,101,0
+x,dead,9415,,0,Kasada,US,,,,,,102,0
+x,dead,8614,,0,bitor,US,,,,,,103,0
+x,dead,6529,,0,YoshiKart,US,Starrodkirby86,,,iNiS,,104,0
+x,,9934,2008-07-02 3:09:39,3,kingcobra52,US,,,,,,105,3
+x,dead,7365,,0,Gemi,FI,,,,,,106,0
+x,dead,12506,,0,lukewarmholiday,US,,,,,,107,0
+x,dead,11593,2008-07-10 6:40:19,0,ash,US,Rolled,James,LuigiHann,,,108,0
+x,,10863,,0,Pong_old,US,,,,,,109,0
+x,dead,14823,,0,bironist,JP,,,,,,110,0
+x,,612,,0,RemmyX25,US,,,,,,111,0
+x,dead,4646,,0,Agent BA8 Rookbie,GB,,,,,,112,0
+x,dead,6794,2008-07-18 7:00:58,3,Nharox,DE,,,,,,113,3
+x,dead,8505,,0,ichikam,AU,,,,,,114,0
+x,dead,7824,2008-07-20 17:40:02,2,deepsea,TW,tsuka,Rolled,DJPop,,,115,2
+x,dead,8643,2008-07-23 9:26:52,0,MaybeLater_x,GB,,,,none,,116,0
+x,dead,15064,2008-07-25 1:43:17,0,Utena,BR,mtmcl,LuigiHann,Behonkiss,,,117,0
+x,dead,9251,,0,altruisticcrono,US,,,,,,118,0
+x,dead,9631,,0,silasw,US,,,,,,119,0
+x,,12437,,0,Qwertyuiop_old,KR,,,,,,120,0
+x,dead,4970,,0,Neo@lex,GB,,,,,,121,0
+x,dead,9018,,0,jmaeshawn,US,,,,,,122,0
+x,dead,15038,,0,Silvuh,US,,,,,,123,0
+x,,9199,2008-08-07 3:58:24,0,Remco32,NL,Larto,,,,,124,0
+x,,17695,2008-08-07 4:13:48,10,Mafiamaster,US,saymun,Natteke,alvisto,,,125,10
+x,dead,8399,,0,DawnII,US,,,,,,126,0
+x,,19835,2008-08-09 4:43:53,1,Lissette,DO,James,Alace,Shinxyn,,,127,1
+x,dead,22263,,0,gamerrox,US,,,,,,128,0
+x,dead,8012,,0,Pokebis,US,,,,,,129,0
+x,dead,10158,,0,emj,US,,,,,,130,0
+x,dead,9072,2008-08-24 8:40:57,1,CheeseWarlock,CA,,,,,,131,1
+x,dead,12328,2008-08-26 4:23:36,31,Larto,DE,Rolled,Seibei4211,RandomJibberish,,,132,31
+x,dead,11361,,0,Cmdt_Carpenter,US,,,,,,133,0
+x,dead,32453,,0,ogicu8abruok,US,,,,,,134,0
+x,,18589,,0,Cyclone,US,,,,,,135,0
+x,dead,16977,,0,Donjo,US,,,,,,136,0
+x,dead,6499,,0,LeMoonwalker,FR,,,,,,137,0
+x,dead,30655,2008-09-22 7:50:11,5,mm201,CA,,,,,,138,5
+x,dead,5726,,0,pokedigi,CN,,,,,,139,0
+x,dead,5287,2008-09-09 2:13:40,0,Drezus,BR,,,,iNiS,,140,0
+x,dead,8358,,0,adam2046,AU,,,,,,141,0
+x,dead,31537,2008-09-11 10:02:22,1,Seibei4211,US,CheeseWarlock,FFFanatic,m980,,,142,1
+x,,60294,2008-09-14 8:14:14,14,DaRRi,CN,,,,,,142.5,14
+x,dead,17938,,0,Ekaru,US,,,,,,143,0
+x,dead,8649,,0,Tri-Edge,US,,,,,,144,0
+x,dead,14583,2008-09-24 22:00:34,0,luke0719,TW,James,Alace,deepsea,,,145,0
+x,dead,593,,0,yuching,HK,,,,,,146,0
+x,dead,7013,,0,mrtn,NL,,,,,,147,0
+x,dead,12213,,0,uzushika,SG,,,,,,148,0
+x,dead,19883,,0,foulcoon,US,,,,,,149,0
+x,dead,23062,2008-10-02 7:32:21,6,Gens,MX,Larto,RandomJibberish,Rolled,,,150,6
+x,dead,2675,,0,TheManCalledNo,US,,,,,,151,0
+x,dead,11866,,0,tom800510,TW,,,,,,152,0
+x,dead,19173,,0,himydanny,CN,,,,,,153,0
+x,dead,2316,,0,K2J,US,,,,,,154,0
+x,dead,13920,,0,Symbolic,NL,,,,,,155,0
+x,dead,21870,,0,taktaktak,HK,,,,,,156,0
+x,,12248,2008-10-16 16:59:54,16,kioukiou,TW,,,,,,157,16
+x,dead,43345,2008-10-19 18:31:47,0,Pasonia,SG,m980,Kharl,deepsea,,,158,0
+x,dead,33646,,0,AgentSieg,ES,,,,,,159,0
+x,,25999,2008-10-27 2:14:29,3,Diasios,PE,Card N'FoRcE,lepidopodus,Andrea,,xxheroxx,160,3
+x,dead,13007,,0,Ema Skye,FR,,,,,,161,0
+x,,25993,2008-11-01 21:07:09,22,Alace,TW,,,,,,162,22
+x,dead,22343,,0,antony11,HK,,,,,,163,0
+x,dead,11648,,0,shindrgon,TW,,,,,,164,0
+x,,21961,2008-11-04 20:53:42,9,Al-Azif,HK,James,FFFanatic,DaRRi,,,165,10
+x,dead,43677,,0,Takuma,US,,,,,,166,0
+x,dead,10542,,0,Metroid,US,,,,,,167,0
+x,dead,35074,,0,TheRagnarok,US,,,,,,168,0
+x,dead,44776,,0,sunfantasy,CN,,,,,,169,0
+x,,23326,2008-11-23 7:44:40,6,GladiOol,NL,Lesjuh,James,Rolled,,,170,6
+x,,47270,2008-12-10 9:03:07,0,Jeffro,NL,DJPop,James,Mafiamaster,,,171,0
+x,dead,31343,,0,Hara,SE,,,,,,172,0
+x,,27343,2008-12-14 21:11:41,7,ignorethis,CN,FFFanatic,DJPop,Alace,,,173,7
+x,,19488,2008-12-16 7:15:50,3,Dangaard,DE,James,happy30,DJPop,,,174,3
+x,dead,17470,,0,EVA-X,CN,,,,,,175,0
+x,,27767,2008-12-31 12:37:23,33,happy30,NL,James,Al-Azif,DJPop,,,176,35
+x,dead,21970,2009-01-01 5:27:08,0,Lizbeth,DO,James,Alace,Rolled,,,177,0
+x,dead,50829,,0,FolkFolk,PH,,,,,,178,0
+x,dead,16978,2009-01-04 15:37:12,2,James2250,US,,,,,,179,2
+x,dead,32931,,0,Ace of Trades,US,,,,,,180,0
+x,dead,38836,,0,An64fan,CA,,,,,,181,0
+x,,5352,,0,eee,US,,,,,,182,0
+x,dead,19819,,0,EEeee,US,,,,,,183,0
+x,,33599,2009-01-12 0:00:00,30,Andrea,IT,Gero,Sure,Card_N'FoRcE,,osuplayer111,184,30
+x,dead,44867,2009-02-02 10:23:59,3,Crazy Jay,CN,,,,,,185,3
+x,,40998,2009-02-08 10:11:51,0,Real1,SE,Gens,Larto,Starrodkirby86,,,186,0
+x,dead,10560,,0,-SiN-,ID,,,,,,187,0
+x,dead,57724,,0,evilc,GB,,,,,,188,0
+x,dead,39872,2009-02-10 3:57:03,0,Sir Minelli,EC,Larto,,,,,189,0
+x,hard,22966,2009-02-14 9:43:07,0,Ruduen,US,Larto,,,,,190,0
+x,,44308,2009-02-15 4:09:04,32,Lesjuh,NL,James,DaRRi,Rolled,,,191,32
+x,dead,31803,2009-02-21 16:11:57,0,Skyripper,US,James,awp,peppy,,,192,0
+x,dead,38408,,0,moonstar,TW,,,,,,193,0
+x,,13103,,0,abalee,CN,,,,,,194,0
+x,dead,46872,,0,spiky_meteorite,PH,,,,,,195,0
+x,,14053,2009-02-25 23:36:46,1,tobebuta,JP,,,,,,196,1
+x,,9207,2009-02-26 11:46:56,2,minyeob,KR,,,,,,197,2
+x,dead,39355,,0,Exilon,PT,,,,,,198,0
+x,dead,26551,,0,Hikato,GB,,,,,,199,0
+x,dead,41761,,0,lele94,IT,,,,,,200,0
+x,,6347,2009-03-09 8:53:13,9,ztrot,US,,,,,,201,9
+x,dead,19404,,0,Weinmagier,DE,,,,,,202,0
+x,dead,26366,2009-03-13 5:52:38,1,Luxary,IT,,,,,,203,1
+x,dead,12217,,0,xxcz111,TW,,,,,,204,0
+x,dead,36189,,0,Yumiko,IT,,,,,,205,0
+x,dead,682,,0,Detective Tuesday,US,,,,,,206,0
+x,dead,42585,,0,SteRRuM,PL,,,,,,207,0
+x,dead,43938,,0,yanki,HK,,,,,,208,0
+x,dead,52071,,0,Kyocciola,IT,,,,,,209,0
+x,,56708,,0,0_o,CA,,,,,,210,0
+x,dead,47060,2009-03-22 18:12:54,5,v2b,CN,,,,,,211,5
+x,dead,22684,,0,cesc,IT,,,,,,212,0
+x,dead,80937,,0,beatmastermap,IT,,,,,,213,0
+x,dead,35199,,0,Zatoichi,US,,,,,,214,0
+x,dead,16956,,0,Aeon,PT,,,,,,215,0
+x,dead,35341,,0,fufe,US,,,,,,216,0
+x,dead,25425,2009-04-06 2:49:46,0,HarryOrunitia,IT,Al-Azif,Mystearica,v2b,,,217,0
+x,,13996,2009-04-09 6:55:08,26,Shinxyn,CA,,,,,,218,26
+x,dead,21824,,0,lihokwan,HK,,,,,,219,0
+x,dead,52832,,0,v0xtrot,SE,,,,,,220,0
+x,dead,16040,,0,proseyu,TW,,,,,,221,0
+x,dead,64501,,0,Lybydose,US,,,,,,222,0
+x,dead,37335,,0,FluffRat,US,,,,,,223,0
+x,dead,57057,2009-04-21 5:43:39,1,Gabi,SE,,,,,,224,1
+x,,51994,2009-04-21 7:30:06,0,whymeman,US,Luigihann,Gens,Starrodkirby86,,,225,0
+x,hard,9879,,0,nullset,MX,,,,,,226,0
+x,dead,41278,,0,RedFox,TW,,,,,,227,0
+x,dead,32856,,0,Wojjan,BE,,,,,,228,0
+x,,36222,,0,lthefuryl,IT,,,,,,229,0
+x,,20865,2009-05-23 0:17:54,2,blissfulyoshi,US,val0108,SapphireGhost,Garven,,,230,2
+x,dead,3335,,0,AlexanderPD,IT,,,,,,231,0
+x,dead,37964,,0,CheZDa,FI,,,,,,232,0
+x,dead,36749,,0,Zekira,PH,,,,,,233,0
+x,dead,92873,,0,merimeri,JP,,,,,,234,0
+x,,24269,2009-06-02 22:23:36,3,DeadAlready,TW,,,,,,235,3
+x,,89619,2009-06-03 21:26:23,10,tieff,RU,James,Al-Azif,happy30,,,236,11
+x,,57526,2009-06-04 9:22:48,2,Nexy,US,James,Al-Azif,DaRRi,,,237,2
+x,,12143,,0,f0012979,TW,,,,,,238,0
+x,dead,57046,,0,Ryuukun,DE,,,,,,239,0
+x,dead,18605,,0,dumpsterdiver,US,,,,,,240,0
+x,dead,44074,,0,RaisTF,RU,,,,,,241,0
+x,dead,98758,,0,PandaCath,US,,,,,,242,0
+x,dead,37224,,0,The_Priest_In_Yellow,SE,,,,,,243,0
+x,dead,76262,,0,Paulo8624,BR,,,,,,244,0
+x,dead,85235,,0,thepianist,US,,,,,,245,0
+x,,16989,2009-06-25 0:58:11,0,Guu,CN,Hollow Wings,Streliteela,,,,246,0
+x,dead,84726,2009-06-26 0:44:29,0,BananasGoMoo,US,Lesjuh,Larto,,,,247,0
+x,dead,7114,,0,avira0922,JP,,,,,,248,0
+x,,42460,,0,Sleep Powder,US,,,,,,249,0
+x,dead,53940,2009-06-30 5:56:54,1,Ultimate,NL,,,,,,250,1
+x,,71611,2009-07-02 2:41:32,1,KIA,RU,DJPop,Cyril Scarlet,Andrea,,,251,1
+x,dead,71142,,0,Amodeus,RU,,,,,,252,0
+x,dead,75322,,0,chel007,RU,,,,,,253,0
+x,,60574,,0,azuki,JP,,,,,,254,0
+x,,77537,2009-07-09 2:26:45,3,Breeze,CN,Alace,alvisto,v2b,,,255,3
+x,,36556,,0,Zodiark1020,IT,,,,,,256,0
+x,,83268,2009-07-16 19:34:25,0,Matma Rex,PL,Larto,,,,,257,0
+x,dead,66125,,0,Rawrgasmitron,AU,,,,,,258,0
+x,hard,64137,,0,Yaahh,DE,galvenize,Monstrata,Sotarks,,,259,0
+x,,56917,2009-07-22 9:31:00,0,fartownik,PL,DaRRi,Hollow Wings,handsome,,,260,0
+x,dead,41568,2009-07-23 6:07:20,0,nullPointLOL,AR,,,,none,,261,0
+x,,27896,2009-07-25 11:11:14,1,al2e10,HK,,,,,,262,1
+x,,71756,2009-07-30 0:53:46,0,Mukku,FI,Nharox,val0108,Gens,,,263,0
+x,,105902,2009-07-30 8:14:14,2,Armin,IT,DJPop,Diasios,Larto,,,264,2
+x,dead,5402,,0,Soaprman,US,,,,,,265,0
+x,dead,112302,2009-08-01 9:00:29,1,Yes_old,FI,,,,,,266,1
+x,dead,38763,,0,Senbon,US,,,,,,267,0
+x,dead,127949,,0,Echona,JP,,,,,,268,0
+x,dead,95480,2009-08-08 3:58:24,2,alvisto,MY,,,,,,269,2
+x,dead,54178,,0,Z-Ramm,US,,,,,,270,0
+x,,101399,2009-08-14 22:19:18,9,MoonFragrance,KR,Sure,kioukiou,yeahyeahyeahhh,,,271,9
+x,,81939,2009-08-18 3:19:42,0,illuminist,TH,DJPop,Al-Azif,kioukiou,,,272,0
+x,dead,11556,,0,x2652300,TW,,,,,,273,0
+x,dead,111252,,0,Film11,GB,,,,,,274,0
+x,dead,77221,,0,kino77,CN,,,,,,275,0
+x,,58042,2009-08-19 22:51:43,2,yeahyeahyeahhh,US,,,,,,276,2
+x,dead,123491,,0,Teara,ZA,,,,,,277,0
+x,,133288,,0,HolyBoy,GI,,,,,,278,0
+x,,102682,2009-08-22 1:38:57,1,Furawa,CN,,,,,,279,1
+x,,98661,2009-08-23 23:26:49,1,Xgor,SE,Larto,DJPop,mm201,,,280,1
+x,,43383,,0,Eddycted,NL,,,,,,281,0
+x,dead,104700,,0,gdeath,CN,,,,,,282,0
+x,dead,118446,,0,alan_629_6,MY,,,,,,283,0
+x,,62856,,0,CrazyBanana,PL,,,,,,284,0
+x,dead,117369,,0,rust45,US,,,,,,285,0
+x,dead,99748,,0,vincerio,TH,,,,,,286,0
+x,,108066,2009-09-05 9:25:14,15,Cyril Scarlet,AR,kioukiou,Alace,Shinxyn,,,287,15
+x,,63829,2009-09-05 23:38:53,0,Bass,PL,DJPop,tsuka,Lesjuh,,,288,0
+x,dead,46538,,0,WyndII,PH,,,,,,289,0
+x,,104827,,0,orioncomet,TH,,,,,,290,0
+x,,84841,2009-09-13 10:07:15,1,CXu,NO,kioukiou,Charles445,NatsumeRin,,,291,1
+x,dead,98768,,0,Vibty99,TW,,,,,,292,0
+,big,102335,,0,Ephemeral,AU,,,,,,293,0
+x,dead,14137,2009-09-22 0:54:27,1,Inozuma,FR,,,,,,294,1
+x,,100324,2009-09-24 3:49:23,1,miccoliasms,JP,,,,,,295,1
+x,dead,94258,,0,zerosyn,CN,,,,,,296,0
+x,,73453,,0,taka1235,JP,,,,,,297,0
+x,dead,2793922,,0,leimiliya,TW,,,,,,298,0
+x,dead,39129,,0,ShaggoN,PL,,,,,,299,0
+x,,951,2009-10-12 22:39:39,0,MegaManEXE,US,Al-Azif,Alace,James,,,300,0
+x,,124455,2009-10-17 17:04:18,0,NoHitter,PH,DJPop,Larto,,,,301,0
+x,dead,17446,,0,sesito71,ES,,,,,,302,0
+x,dead,113058,,0,Bibendum,JP,,,,,,303,0
+x,,70863,,0,La Valse,KR,,,,,,304,0
+x,dead,145557,,0,Nekomiya Nono,CN,,,,,,305,0
+x,dead,45683,,0,AdvanceBoy,VE,,,,,,306,0
+x,,34044,2009-10-20 8:05:30,0,xierbaliti,CN,DJPop,,,,,307,0
+x,dead,113646,,0,arken1015,KR,,,,,,308,0
+x,dead,6709091,,0,Cyborg,US,,,,,,309,0
+x,,70730,2009-10-23 0:29:38,8,Sure,KR,James,DJPop,kioukiou,,,309.5,8
+x,,19048,2009-10-24 10:30:56,17,Mismagius,BR,Lesjuh,Charles445,Duoprism,,,310,17
+x,,139493,2009-10-28 17:22:07,1,ouranhshc,US,,,,,,311,1
+x,,150488,,0,Shulin,GB,,,,,,312,0
+x,dead,98460,,0,Kytoxid,CA,,,,,,313,0
+x,dead,45360,,0,JamesLeao,CN,,,,,,314,0
+x,dead,78227,,0,Ex Boy,CN,,,,,,315,0
+x,,74017,,0,GbL,BR,,,,,,316,0
+x,,107485,2009-11-05 16:20:10,0,pieguyn,US,NatsumeRin,,,,,316.5,0
+x,dead,54716,,0,nazenaze,PL,,,,,,317,0
+x,dead,43468,2009-11-11 3:46:35,0,bmin11,KR,yeahyeahyeahhh,MoonFragrance,happy30,,,318,0
+x,,128370,2009-11-12 20:57:43,0,deadbeat,NZ,,,,none,,319,0
+x,,88904,2009-11-13 3:11:53,2,jericho2442,GB,,,,,,320,2
+x,,57976,,0,Eirene,FR,,,,,,321,0
+x,dead,117865,,0,Vanmonky,ID,,,,,,322,0
+x,dead,34281,,0,naruti,NL,,,,,,323,0
+x,dead,74505,,0,Ichigo-Sora,CA,,,,,,324,0
+x,dead,93319,,0,sohuhard,CN,,,,,,325,0
+x,dead,126198,2009-11-27 23:39:38,0,statementreply,NL,Alace,kioukiou,DeadAlready,,,326,0
+x,dead,63401,,0,haisha_,AU,,,,,,327,0
+x,dead,95637,,0,NachoPiggy,PH,,,,,,328,0
+x,,45259,2009-12-04 11:45:25,0,Nerv_Mario,CL,James,DJPop,,,,329,0
+x,dead,52934,2009-12-05 8:11:13,0,Stickly Man,US,Cyril Scarlet,Andrea,kingcobra52,,,330,0
+x,dead,157400,,0,Tanmak,KR,,,,,,331,0
+x,dead,6136,2009-12-08 15:21:49,0,varq,US,James,Al-Azif,Alace,,,332,0
+x,dead,24334,,0,Jerrysr,TW,,,,,,333,0
+x,,119134,2009-12-19 6:02:45,1,Leorda,ID,Cyril Scarlet,MoonFragrance,NatsumeRin,,,334,1
+x,dead,58197,2009-12-26 12:01:28,0,Lilac,AU,Larto,ztrot,Lesjuh,,,335,0
+x,dead,85468,2009-12-28 10:35:31,0,Encrypto,DE,,,,none,,336,0
+x,dead,140188,2009-12-28 14:58:39,3,saymun,AU,,,,,,337,3
+x,dead,157879,2009-12-28 17:27:51,7,RandomJibberish,GB,mm201,m980,Larto,,,338,7
+x,hard,58710,,0,H1ko,UY,,,,,,339,0
+x,dead,100497,,0,beat4you,HK,,,,,,340,0
+x,,79616,2010-01-02 12:51:41,0,Leeg,ES,Louis Cyphre,Lesjuh,Dangaard,,,341,0
+x,,91501,,0,aesopl19193,HK,,,,,,342,0
+x,,25615,,0,Jarby,AU,,,,,,343,0
+x,dead,104401,2010-01-09 5:34:19,14,AngelHoney,CN,Alace,ignorethis,Lesjuh,,,344,14
+x,,115291,,0,Vicho,CL,,,,,,345,0
+x,,28052,2010-01-13 22:05:15,0,Kuroneko-sHerald,IT,Armin,blissfulyoshi,Card N'FoRcE,,,346,0
+x,dead,63671,2010-01-20 4:47:36,0,Lokamp,IT,,,,iNiS,,347,0
+x,dead,109282,,0,Thunderstorm,RU,,,,,,348,0
+x,dead,179133,,0,Aakiha,CN,,,,,,349,0
+x,,128799,,0,Tonoko,CN,,,,,,350,0
+x,dead,103666,2010-01-24 11:24:19,1,simplistiC,CA,,,,,,351,1
+x,dead,73480,,0,Hanyuu,AT,,,,,,352,0
+x,,11771,2010-01-28 2:46:57,4,Sonnyc,KR,minyeob,Sure,MoonFragrance,,,353,4
+x,dead,123790,,0,DiamondCrash,GB,,,,,,354,0
+x,dead,94534,,0,VitaminB6,US,,,,,,355,0
+x,,57448,2010-01-31 4:54:49,2,Lanttu,FI,Cyril Scarlet,Natteke,,,,356,2
+x,dead,150296,,0,[Ghost],CN,,,,,,357,0
+x,dead,145343,,0,ccbp,AU,,,,,,358,0
+x,dead,42579,,0,Malar,PL,,,,,,359,0
+x,dead,126859,,0,Dusty,US,,,,,,360,0
+x,dead,172707,,0,Kecco,IT,,,,,,361,0
+x,,67953,,0,Ain053,ID,,,,,,362,0
+x,dead,72290,,0,frost-b-spec,JP,,,,,,363,0
+x,,226171,2010-02-18 3:43:28,0,soulfear,CN,tsuka,,,,,364,0
+x,,133783,2010-02-20 3:49:53,1,MeLLoN,JP,,,,,,365,1
+x,,185422,2010-02-21 0:20:15,1,Sallad4ever,ID,Krisom,SapphireGhost,Dangaard,,,366,1
+x,,103929,2010-02-21 5:06:27,0,yongtw123,TW,Alace,ignorethis,DeadAlready,,,367,0
+x,,151679,2010-02-22 4:21:46,57,NatsumeRin,CN,100pa-,Shinxyn,Colin Hou,,,368,57
+x,,256907,,0,iDwarf,RU,,,,,,369,0
+x,dead,113027,2010-03-05 19:43:36,1,TKiller,RU,,,,,,370,1
+x,dead,158848,,0,LaunchedthousandShip,US,,,,,,371,0
+x,dead,50666,,0,Sun and Lunar,ID,,,,,,372,0
+x,dead,99782,,0,Chacha17,PH,,,,,,373,0
+x,dead,195335,,0,dlguiga,BR,,,,,,374,0
+x,dead,177116,,0,SamiPale,CN,,,,,,375,0
+x,,84964,,0,termerys,TH,,,,,,376,0
+x,,150768,2010-03-14 4:27:25,18,LKs,CN,tsuka,Natteke,100pa-,,,377,18
+x,dead,135567,2010-03-14 8:50:58,0,lzy,CN,James,,,,,378,0
+x,dead,46605,,0,Astom,CL,Andrea,Mafiamaster,Thite,,,379,0
+x,,69114,2010-03-18 4:02:50,0,YGOkid8,AU,Lesjuh,GladiOol,Aenna,,,380,0
+x,dead,280362,,0,AtemiskKun,US,,,,,,381,0
+x,dead,99284,,0,Kotomi-chan,CL,,,,,,382,0
+x,,31610,,0,climbb65588,HK,,,,,,383,0
+x,,74937,2010-03-28 2:58:37,10,kiddly,CN,tsuka,RLC,happy30,,,384,10
+x,,133618,,0,jockeytiyan,PH,,,,,,385,0
+x,,196614,2010-03-30 19:49:52,6,Colin Hou,CN,NatsumeRin,Mafiamaster,Breeze,,,386,6
+x,dead,50163,,0,yaya,FR,,,,,,387,0
+x,dead,107857,,0,gfbrd,US,,,,,,388,0
+x,dead,155648,,0,Arusha Shuna,ID,,,,,,389,0
+x,dead,122623,,0,Fuuko,BR,,,,,,390,0
+x,,7401,2010-04-09 23:46:43,1,wmfchris,HK,James,DaRRi,Saturio,,,391,1
+x,dead,179520,,0,Clare,CN,,,,,,392,0
+x,,160158,,0,_llkey_18,ES,,,,,,393,0
+x,dead,207340,2010-04-25 0:16:39,5,Pokie,HK,happy30,La Cataline,No_Gu,,,394,5
+x,dead,223168,2010-04-28 13:12:02,1,wanhyrzh,CN,,,,,,395,1
+x,,186243,2010-04-29 7:50:19,7,Louis Cyphre,RU,,,,,,396,7
+x,dead,290738,,0,Frill,JP,,,,,,397,0
+x,dead,15370,,0,Cheery,CA,,,,,,398,0
+x,dead,92300,,0,Asutarotto,RU,,,,,,399,0
+x,,147515,2010-05-02 15:32:14,1,Rucker,TW,DJPop,Asphyxia,,,,400,1
+x,dead,79249,,0,lcclarke,CN,,,,,,401,0
+x,,253969,,0,sico91212,CN,,,,,,402,0
+x,dead,214933,,0,owl13,HK,,,,,,403,0
+x,dead,132438,,0,skranger,CN,,,,,,404,0
+x,dead,57603,2010-05-20 10:04:09,1,Vikon,HK,,,,,,405,1
+x,dead,88346,,0,skyflying,CN,,,,,,406,0
+x,,131918,2010-05-24 21:10:46,0,Luvdic,VE,ignorethis,Larto,GladiOol,,,407,0
+x,,103282,,0,Shinde,US,,,,,,408,0
+x,dead,99269,2010-05-27 2:54:05,17,Krisom,CL,Larto,Yes_old,narakucrimson,,,409,17
+x,dead,443998,,0,tq04t46,CN,,,,,,410,0
+x,dead,141824,,0,Death the Kid,TW,,,,,,411,0
+x,,244216,2010-05-31 3:35:19,4,Garven,US,Natteke,RandomJibberish,mm201,,,412,4
+x,dead,117022,,0,youngdow,KR,,,,,,413,0
+x,dead,262824,,0,_lolipop,CN,,,,,,414,0
+x,dead,61466,,0,sebastiangl,EC,,,,,,415,0
+x,dead,194807,2010-06-08 5:15:44,1,lepidopodus,KR,,,,,,416,1
+x,,208440,2010-06-09 12:51:07,6,IceBeam,RU,James,Larto,Glass,,,417,6
+x,dead,1924318,,0,Lena,KR,,,,,,418,0
+x,dead,133302,,0,uranuss8600,CN,,,,,,419,0
+x,,50265,2010-06-10 22:33:42,0,hvick225,TW,Laurier,Nathan,Rizia,,,420,0
+x,,237733,2010-06-11 6:25:00,3,Gonzvlo,PE,,,,,,421,3
+x,dead,47458,,0,digiaria,CN,,,,,,422,0
+x,dead,297086,,0,Sunny Holic,KR,,,,,,423,0
+x,,122231,,0,kodomonoyume,CN,,,,,,424,0
+x,dead,190292,,0,DJ Remilia,US,,,,,,425,0
+x,,352804,2010-06-24 21:50:25,1,Licnect,TW,,,,,,426,1
+x,dead,112265,,0,klubek,PL,,,,,,427,0
+x,,178775,2010-06-25 21:31:34,0,roflninja,CA,Hitoshirenu Shourai,James,Al-Azif,,,428,0
+x,,102976,2010-06-26 1:18:24,4,eveless,CN,Shinxyn,tieff,100pa-,,,429,4
+x,dead,359004,2010-06-27 3:49:09,1,Neethime,CN,,,,,,430,1
+x,dead,204190,2010-06-27 6:00:53,1,regenz,TH,,,,,,431,1
+x,,219282,,0,qinche,CA,,,,,,432,0
+x,dead,123636,2010-07-07 4:45:30,1,banvi,JP,,,,,,433,1
+x,dead,18404,2010-07-10 0:09:22,1,Saturio,HK,,,,,,434,1
+x,,197682,,0,Haneii,CA,,,,,,435,0
+x,dead,252936,,0,xinhe,MO,,,,,,436,0
+x,dead,232601,2010-07-12 22:43:25,0,Fight69,FR,Cyril Scarlet,Neethime,Pokie,,,437,0
+x,dead,250808,,0,brikel,KR,,,,,,438,0
+x,,187858,2010-07-15 7:51:13,0,EvianBubble,CA,,,,none,,439,0
+x,dead,276786,,0,vivicat,CN,,,,,,440,0
+x,dead,132966,,0,xBubu,TW,,,,,,441,0
+x,,28458,2010-07-20 23:50:51,0,Blatzk,DE,Nharox,DJPop,James,,,442,0
+x,,200304,,0,Neo Adonis,MX,,,,,,443,0
+x,dead,115674,,0,a2823282,TW,,,,,,444,0
+x,,153323,2010-07-29 3:56:28,18,Muya,JP,DJPop,ignorethis,LKs,,,445,18
+x,,163639,,0,manten,JP,,,,,,446,0
+x,dead,246186,,0,Bikko,KR,,,,,,447,0
+x,dead,183201,,0,Sumeragi Amane,CN,,,,,,448,0
+x,,119933,2010-08-07 0:49:10,0,Kert,RU,happy30,DJPop,Lesjuh,,,449,0
+x,dead,185561,,0,Phyrearms,US,,,,,,450,0
+x,,93813,,0,Hamuko,BR,,,,,,451,0
+x,dead,37529,,0,hawkzor,ZA,,,,,,452,0
+x,,252527,2010-08-11 2:45:01,2,kazumikos,VN,galvenize,happy30,tieff,,,453,2
+x,dead,125326,2010-08-11 2:53:45,0,BexXz,NL,Breeze,,,,,454,0
+x,,43108,2010-08-11 6:57:42,0,Sushi,FR,DaRRi,James,DJPop,,,455,0
+x,dead,41481,,0,Mashley,GB,,,,,,456,0
+x,dead,35536,,0,Mety,TW,,,,,,457,0
+x,dead,94203,,0,Nakata Yuji,US,,,,,,458,0
+x,,301279,2010-08-19 3:09:48,41,La Cataline,RU,Alace,tieff,Natteke,,,459,42
+x,,334198,2010-08-19 3:25:21,0,HoLoDrEaM,US,kioukiou,Andrea,happy30,,,460,0
+x,,93392,2010-08-19 17:17:51,1,y u c a,JP,James,,,,,461,1
+x,dead,164024,,0,quintessence,JP,,,,,,462,0
+x,,119404,2010-08-20 15:41:40,6,gowww,JP,Shiirn,ignorethis,Shinxyn,,,463,6
+x,dead,423007,,0,[Aramary],JP,,,,,,464,0
+x,dead,256869,,0,- S,AU,,,,,,465,0
+x,dead,162159,,0,NotShinta,GB,,,,,,466,0
+x,dead,270333,,0,zyqzyq,CN,,,,,,467,0
+x,,107426,2010-08-24 19:56:04,4,KanbeKotori,CN,happy30,Lesjuh,Doomsday,,,468,4
+x,dead,215835,,0,Clemaister,FR,,,,,,469,0
+x,dead,159023,,0,Mok,IT,,,,,,470,0
+x,dead,261529,,0,Selee,US,,,,,,471,0
+x,,157177,2010-08-30 3:01:06,23,Natteke,GB,tieff,happy30,Skystar,,,472,23
+x,,291211,2010-09-05 7:44:37,0,h3k1ru,RU,cRyo[iceeicee],Hinacle,,,,473,0
+x,dead,2881294,,0,Ignacio,CL,,,,,,474,0
+x,dead,216195,,0,nante,PL,,,,,,475,0
+x,dead,207979,,0,Ashikabi,CA,,,,,,476,0
+x,dead,200498,,0,Saten ruiko,SE,,,,,,477,0
+x,dead,179449,,0,Powerdrone,CA,,,,,,478,0
+x,,65152,2010-09-16 21:37:46,0,Faust,SG,Muya,tsuka,NatsumeRin,,,479,0
+x,dead,317802,,0,[Shalon],KR,,,,,,480,0
+x,dead,262482,2010-10-02 5:23:42,0,kiririn_,CN,eveless,NatsumeRin,tsuka,,,481,0
+x,,55096,,0,lovhin456,PE,,,,,,482,0
+x,,2296,,0,gyt,RU,,,,,,483,0
+x,dead,329616,,0,Magicphoenix,DE,,,,,,484,0
+x,,106767,2010-10-16 20:13:42,25,tsuka,CN,DaRRi,James,DJPop,,,485,25
+x,,18983,2010-10-17 6:12:43,1,Doomsday,GB,Gabi,Larto,v2b,,,486,1
+x,dead,580243,,0,tsunamayo,CN,,,,,,487,0
+x,,227717,2010-10-20 23:59:30,7,rustbell,CN,Lesjuh,tsuka,happy30,,spro,488,7
+x,,275686,2010-10-23 0:02:07,0,The 08 team_Bourdon,MY,Natsu,Natteke,meiikyuu,,,489,0
+x,,395591,,0,Kochiya Sanae,CN,,,,,,490,0
+x,dead,204736,,0,PSPDS Eddie,JP,,,,,,491,0
+x,dead,121337,,0,Roddie,US,,,,,,492,0
+x,std,155707,,0,aabc271,HK,Hinacle,alacat,Misure,,,493,0
+x,dead,45961,,0,thekillerhjkhjk,AU,DJPop,Card N'FoRcE,Lesjuh,,,494,0
+x,dead,110904,,0,Mr Gaddy,PL,,,,,,495,0
+x,dead,179314,,0,-Xero-,DE,,,,,,496,0
+x,,199540,2010-11-03 19:47:10,3,Holoaz,JP,Shinxyn,Lesjuh,,,,497,3
+x,,310747,2010-11-04 3:05:48,1,KanaRin,HK,,,,,,498,1
+x,dead,496632,,0,Kalypso_old,US,,,,,,499,0
+x,,126664,,0,indyinyou,TH,,,,,,500,0
+x,,134572,2010-11-10 22:04:33,4,Kite,DE,happy30,val0108,Shinxyn,,,501,4
+x,dead,120265,,0,Blazevoir,US,,,,,,502,0
+x,dead,85000,2010-11-15 5:54:10,9,Charles445,US,Larto,Natteke,Muya,,,503,9
+x,,230432,2010-11-16 11:06:45,0,Darcsol,US,Lesjuh,AngelHoney,kioukiou,,,504,0
+x,dead,158989,,0,ayey,ID,,,,,,505,0
+x,dead,104751,,0,Kiddo-Kun,CA,,,,,,506,0
+x,,381444,2010-11-22 7:58:39,19,galvenize,FR,Mafiamaster,tieff,Starrodkirby86,,,507,19
+x,,78552,2010-11-25 0:46:15,8,Aenna,JP,,,,,,508,8
+x,,369956,2010-11-28 6:23:21,0,AndreasHD,NO,happy30,Shinyxn,,,,509,0
+x,dead,127014,,0,Shinkuu,CN,,,,,,510,0
+x,dead,313072,2010-12-04 21:26:18,3,JauiPlaY,CN,Tkiller,Disoy,Pokie,,,511,3
+x,dead,493192,,0,Aria,SG,,,,,,512,0
+x,,39658,,0,Mianki,FI,,,,,,513,0
+x,dead,347691,,0,Zelos,US,,,,,,514,0
+x,,275300,2010-12-09 9:58:07,0,wring,JP,Shinxyn,miccoliasms,rustbell,,,515,0
+x,,94364,,0,Rusty,JP,,,,,,516,0
+x,dead,367741,,0,FireballFlame,DE,,,,,,517,0
+x,,394326,2010-12-14 3:33:30,2,kanpakyin,HK,Cyril Scarlet,NatsumeRin,kioukiou,,,518,2
+x,dead,226221,,0,Wuiss,RU,,,,,,519,0
+x,,287468,2010-12-17 1:55:25,3,narakucrimson,UY,Krisom,RandomJibberish,Larto,,,520,3
+x,,285756,2010-12-17 2:30:58,0,eldnl,CL,NatsumeRin,val0108,Krisom,,,521,0
+x,dead,234799,2010-12-17 11:14:10,0,Mystica,CN,LKs,NatsumeRin,Pokie,,,522,0
+x,,29089,2010-12-24 14:27:40,0,Sutsuka,FI,GladiOol,Cyril Scarlet,Lanttu,,,523,0
+x,,67211,2010-12-25 4:17:41,0,Weez,CA,DJPop,Mafiamaster,Dangaard,,,524,0
+x,dead,342856,,0,lkp,HK,,,,,,525,0
+x,dead,491754,2010-12-28 15:48:42,2,Sandpig,CN,,,,,,526,2
+x,dead,160442,,0,Hitomi May,BY,tieff,happy30,La Cataline,,,527,0
+x,dead,118360,2010-12-29 0:15:18,0,Adarin,AU,Shinxyn,Nexy,kioukiou,,,528,0
+x,,231631,2010-12-29 6:17:38,4,100pa-,JP,,,,,,529,4
+x,dead,501851,,0,theMikeAG,US,,,,,,530,0
+x,dead,334369,,0,morphina,RU,,,,,,531,0
+x,,154400,2011-01-07 8:45:48,4,dkun,US,ztrot,GladiOol,Nexy,,,532,4
+x,,276444,,0,Anto,IT,,,,,,533,0
+x,,100037,,0,Kitsunemimi,CA,,,,,,534,0
+x,,26507,2011-01-14 21:09:04,2,Kotone,HK,,,,,karenying,535,2
+x,dead,210135,,0,Sekuyi,DE,,,,,,536,0
+x,,372256,,0,ArzatoRx,CN,,,,,,537,0
+x,,228532,2011-01-18 15:40:32,5,Glass,CA,happy30,La Cataline,IceBeam,,,538,5
+x,dead,150978,2011-01-19 14:41:05,0,AdRon Zh3Ro,BR,simplistiC,Duoprism,Ultimate,,,539,0
+x,dead,198779,,0,scarlethana,CN,,,,,,540,0
+x,,23459,,0,daniel32333,TW,,,,,,541,0
+x,,126927,,0,Dragvon,BR,,,,,,542,0
+x,dead,396542,,0,Sharp,JP,,,,,,543,0
+x,dead,187250,,0,HakuNoKaemi,IT,,,,,,544,0
+x,,243917,2011-01-24 17:24:12,36,val0108,JP,Muya,Zapy,Starrodkirby86,,,545,36
+x,,360176,2011-01-26 2:14:44,1,Aleks719,RU,,,,none,,546,1
+x,,190088,2011-01-28 23:47:53,0,Giorgos,RU,kingcobra52,Mystearica,Louis Cyphre,,,547,0
+x,,209664,2011-01-29 8:20:57,0,fabriciorby,BR,Krisom,RandomJibberish,galvenize,,,548,0
+x,,161091,2011-01-29 12:30:47,1,Backstep,TH,,,,,,549,1
+x,,466126,2011-01-30 4:54:31,0,Gcode,US,DJPop,Starrodkirby86,Mafiamaster,,,550,0
+x,,197876,,0,Cute Bunny,NO,,,,,,551,0
+x,,431791,2011-02-01 21:27:24,2,Suzully,JP,Shinxyn,MoonFragrance,Aenna,,,552,2
+x,,232898,2011-02-03 2:57:17,0,ziin,US,DJPop,Starrodkirby86,Shiirn,,,553,0
+x,dead,446548,,0,Zorlok_,RU,,,,,,554,0
+x,,393318,2011-02-04 1:47:17,0,wowshakhov,RU,tieff,Natteke,Reiji-RJ,,,555,0
+x,,114017,,0,KRZY,KR,,,,,,556,0
+x,,343490,2011-02-17 5:19:26,0,Samah,AU,Andrea,Natteke,La Cataline,,,557,0
+x,dead,298267,,0,y u z u k i,JP,,,,,,558,0
+x,,71917,,0,swish,JP,,,,,,559,0
+x,dead,460431,2011-02-18 21:25:30,0,Lightgazer,AT,LuigiHann,James2250,wanhyrzh,,,560,0
+x,,197974,2011-02-18 22:05:38,4,spboxer3,TW,Alace,Sumisola,LKs,,,561,4
+x,,305389,2011-02-20 20:11:18,7,Reiji-RJ,RU,IceBeam,La Cataline,,,,562,7
+x,dead,503033,,0,Tenshi-nyan,DE,,,,,,563,0
+x,dead,370548,,0,gkana,SE,,,,,,564,0
+x,,298471,2011-02-22 3:17:11,3,bakabaka,TW,,,,,,565,3
+x,,266596,2011-02-24 3:37:17,10,-kevincela-,IT,DJPop,kiddly,Skystar,,,566,10
+x,,276993,2011-02-25 0:31:41,1,Disoy,TW,,,,,,567,1
+x,dead,265700,,0,m i z u k i,JP,,,,,,568,0
+x,,227881,,0,poisonchan,BR,,,,,,569,0
+x,dead,291696,,0,iMuffin,US,,,,,,570,0
+x,dead,388602,2011-02-27 17:58:20,6,SapphireGhost,US,,,,,,571,6
+x,,111011,2011-02-28 1:25:37,0,Ra-s,KR,Nakagawa-Kanon,LKs,Muya,,,572,0
+x,dead,382221,2011-03-01 13:57:41,6,Sumisola,CN,NatsumeRin,Shinxyn,,,,573,6
+x,,270328,2011-03-02 3:34:09,3,winber1,US,NatsumeRin,Skystar,Hollow Wings,,,574,3
+x,,444506,2011-03-03 9:30:57,12,Saten,GR,Andrea,val0108,Crazy Jay,,,575,12
+x,,137168,2011-03-06 23:59:21,5,Patchouli,JP,Shinxyn,Muya,Crazy Jay,,,576,5
+x,,171021,2011-03-07 0:57:01,3,Beren,CN,Kiiwa,tobebuta,fanzhen0019,,,577,3
+x,dead,373999,2011-03-07 20:28:07,0,Cirno,CN,phoebechoi1130,Duoprism,DJPop,,,578,0
+x,,188248,2011-03-11 21:49:53,2,Vass_Bass,RU,La Cataline,IceBeam,Reiji-RJ,,,579,2
+x,,131270,2011-03-13 20:04:07,1,S o r d a,JP,,,,,,580,1
+x,dead,20680,,0,DeeN,CN,,,,,,581,0
+x,dead,219057,,0,Gomo Psivarh,CN,,,,,,582,0
+x,std,578401,2011-03-18 18:22:07,1,lolcubes,HR,Shinxyn,Furawa,,,,583,1
+x,,465126,2011-03-23 11:15:49,15,Shiirn,US,La Cataline,galvenize,Charles445,,,584,15
+x,,489103,2011-03-24 1:55:55,0,-Lennox-,AT,Lesjuh,val0108,DJPop,,,585,0
+x,,601990,2011-03-24 22:56:32,7,Nymph,CN,Sumisola,KanaRin,kioukiou,,,586,7
+x,,75515,,0,ElxBeta,CL,,,,,,587,0
+x,dead,538604,,0,Fluorine,KR,,,,,,588,0
+x,dead,177045,,0,Lalarun,JP,,,,,,589,0
+x,,49329,2011-03-31 20:14:53,0,rEdo,PL,Kite,Frostmourne,Sure,,,590,0
+x,dead,163474,,0,NanaDesu,TW,,,,,,591,0
+x,dead,323677,2011-04-02 11:32:44,0,Shino,KR,,,,none,,592,0
+x,dead,306700,,1,Thite,JP,,,,,,593,1
+x,dead,420622,2011-04-07 10:52:44,6,Hinacle,JP,,,,,,594,6
+x,,198574,2011-04-14 2:59:25,0,Rorry,JP,AngelHoney,Colin Hou,v2b,,,595,0
+x,dead,191499,,0,Apriy,JP,,,,,,596,0
+x,,170501,2011-04-23 0:01:03,4,Snowy Dream,CN,cRyo[iceeicee],DJPop,Lesjuh,,,597,4
+x,,332555,2011-04-26 19:41:19,0,HeatKai,MY,jericho2442,kioukiou,Louis Cyphre,,,598,0
+x,,409957,2011-04-30 9:51:35,0,KSHR,JP,Kitsuneko,eveless,yf_bmp,,,599,0
+x,,376831,2011-05-03 2:55:05,3,wcx19911123,CN,NatsumeRin,happy30,Crazy Jay,,,600,3
+x,,382840,,0,Chocopikel,JP,,,,,,601,0
+x,,167050,,0,Kenezz,MX,,,,,,602,0
+x,std,318565,2011-05-12 9:48:20,1,Deif,ES,Shinxyn,val0108,Mafiamaster,,,603,1
+x,,464889,2011-05-13 2:57:10,1,MoodyRPG,CL,James2250,kingcobra52,Mifune24,,,604,1
+x,,194294,2011-05-17 22:43:03,0,Mara,FI,Larto,Krisom,Zapy,,,605,0
+x,,210658,2011-05-20 0:00:32,2,S h i a,CN,Alace,La Cataline,y u c a,,,606,2
+x,,701726,,0,Katsuri,BR,,,,,,607,0
+x,dead,576800,,0,akrolsmir,US,,,,,,608,0
+x,,101521,,0,vivere,AR,,,,,,609,0
+x,,231111,2011-05-29 15:33:55,9,Kiiwa,NZ,NatsumeRin,Cyril Scarlet,tieff,,,610,9
+x,dead,494970,,0,ShadowSoul,DE,,,,,,611,0
+x,,198394,,0,quo,JP,,,,,,612,0
+x,dead,320098,,0,Shiki,CN,,,,,,613,0
+x,,355278,,0,Takos,HK,,,,,,614,0
+x,dead,185417,,0,ShiroKitty,PL,,,,,,615,0
+x,,229595,2011-06-25 21:19:04,0,_Kiva,AU,AngelHoney,NatsumeRin,KanbeKotori,,,616,0
+x,dead,304103,2011-06-27 2:32:29,0,senaya,MD,cRyo[iceeicee],kusano,,,,617,0
+x,,323929,,0,HellDawn,TR,,,,,,618,0
+x,,160558,2011-06-30 14:38:43,1,hoLysoup,CA,cRyo[iceeicee],Sumisola,Kotone,,,619,1
+x,,335784,,0,Hellzero,RU,,,,,,620,0
+x,dead,475816,,0,Nooko,CN,,,,,,621,0
+x,,296492,2011-07-08 11:08:24,0,Komeiji Yuki,TW,Cyril Scarlet,Shinxyn,,,,622,0
+x,dead,109249,,0,Kanon,CN,,,,,,623,0
+x,,362851,,0,Hyguys,BR,,,,,,624,0
+x,,154234,2011-07-23 9:36:46,0,Hinagiku,CN,Mystearica,AngelHoney,gowww,,,625,0
+x,,697649,2011-07-27 11:46:47,0,C R E A M,KR,Nakagawa-Kanon,Shinxyn,Suzully,,,626,0
+x,dead,306018,2011-07-29 8:58:36,0,Neptunus,CN,Alace,Charles445,Starrodkirby86,,,627,0
+x,,660622,2011-08-01 7:12:59,0,Elly-chan,US,Ayu,those,Shiirn,,,628,0
+x,dead,312215,2011-08-01 11:46:50,0,SiU_LeAf,HK,wmfchris,Vikon,al2e10,,,629,0
+x,,10641,,0,Miu Matsuoka,HK,,,,,,630,0
+x,,404169,,0,Tony,RO,,,,,,631,0
+x,,498862,2011-08-12 0:00:00,1,DsG,JP,,,,,,632,1
+x,dead,338901,,0,Nekoroll,US,,,,,,633,0
+x,,27489,2011-08-12 14:17:32,1,loveFantasy,TW,,,,,,634,1
+x,,233271,,0,zsr123,CN,,,,,,635,0
+x,,546991,2011-08-17 0:37:18,5,tutuhaha,US,NatsumeRin,AngelHoney,Beren,,,636,5
+x,dead,421286,,0,JoJo,CN,,,,,,637,0
+x,,418699,2011-09-02 20:26:37,38,fanzhen0019,CN,Alace,DaRRi,Nakagawa-Kanon,,,638,38
+x,,596298,,0,Kawayi Rika,KR,,,,,,639,0
+x,,408461,,0,cmn_891127,CN,,,,,,640,0
+x,,467860,2011-09-10 15:40:57,7,Lan wings,CN,DsG,Scorpiour,loveFantasy,,,641,7
+x,,398760,2011-09-18 10:59:24,0,Raging Bull,GU,Krisom,,,,,642,0
+x,dead,579512,,0,biwako,JP,,,,,,643,0
+x,,427076,,0,Dark_Ai,DE,,,,,,644,0
+x,,551125,2011-09-28 19:58:41,1,BounceBabe,AT,Andrea,ztrot,jericho2442,,,645,1
+x,,260733,2011-10-02 2:17:43,0,mercury2004,TH,happy30,regenz,Skystar,,,646,0
+x,dead,593215,2011-10-02 13:50:12,1,merchat7,BE,,,,,,647,1
+x,,617323,2011-10-03 8:00:17,0,Chewin,IT,NatsumeRin,Hinacle,Lesjuh,,,648,0
+x,dead,1674091,,0,Shadowlord,AR,,,,,,649,0
+x,dead,575846,2011-10-07 10:15:35,0,Megurine Luka,CN,Shinxyn,bakabaka,kioukiou,,,650,0
+x,,126823,2011-10-08 11:14:12,0,Crimmi,US,Larto,ouranhshc,Andrea,,,651,0
+x,,700887,2011-10-19 13:00:11,0,Sekaii,PL,Andrea,Gero,Sure,,,651.5,0
+x,,373918,,0,Kuma-san,RU,,,,,,652,0
+x,,537084,2011-10-11 10:59:05,0,DoKito,DE,,,,,,653,0
+x,,439845,2011-10-13 21:41:42,0,S h i o n,CN,NatsumeRin,wcx19911123,No_Gu,,,654,0
+x,dead,352967,,0,Ch1ka,RU,,,,,,655,0
+x,,116078,2011-10-14 5:46:47,1,Cyclohexane,FR,,,,,,656,1
+x,,364051,2011-10-14 22:51:07,0,Shinki,CN,JauiPlaY,tsuka,fanzhen0019,,,657,0
+x,,353821,2011-10-24 2:47:24,1,Ryafuka,JP,NatsumeRin,xsrsbsns,Sumisola,,,658,1
+x,,611174,2011-10-31 1:20:57,2,Gamu,JP,NatsumeRin,RLC,No_Gu,,-Gamu-,659,2
+x,,87065,2011-11-02 4:36:55,19,Nakagawa-Kanon,KR,minyeob,tsuka,happy30,,,660,19
+x,,537344,2011-11-06 9:13:53,2,Pereira006,PT,Leorda,DaxMasterix,Monstrata,,,661,2
+x,,368955,,0,Barney Stinson,IT,,,,,,662,0
+x,,438547,,0,Apricot,JP,,,,,,663,0
+x,,414427,2011-11-08 12:40:27,10,xsrsbsns,MY,NatsumeRin,Alace,,,,664,10
+x,dead,66004,2011-11-11 15:18:39,0,MathiasXII,CA,Xgor,Krisom,dkun,,,665,0
+x,,852705,,0,AIR315,TW,,,,,,666,0
+x,,102152,2011-11-14 22:35:57,1,terametis,JP,kioukiou,Shinxyn,Muya,,,667,1
+x,std,465153,2011-11-15 13:57:55,0,OzzyOzrock,US,SapphireGhost,val0108,NatsumeRin,,,668,0
+x,,275246,,0,Noob Man,FR,,,,,,669,0
+x,,1077845,2011-11-27 0:08:22,3,Melophobia,JP,kusano,Aenna,xsrsbsns,,,670,3
+x,,803440,,0,Andruchon,DE,,,,,,671,0
+x,,589550,,0,Mercurius,JP,,,,,,672,0
+x,,74313,2011-12-05 17:28:18,0,rui,JP,val0108,Kitsuneko,NatsumeRin,,,673,0
+x,dead,220939,,0,ertyukjh010,HK,,,,,,674,0
+x,,303929,2011-12-05 22:29:32,1,MiLu,JP,,,,none,,675,1
+x,,835998,2011-12-11 4:28:38,37,cRyo[iceeicee],CN,xsrsbsns,NatsumeRin,ProfessionalBox,,,676,37
+x,std,98985,2011-12-12 19:11:30,1,DarkDunskin,DE,,,,,,677,1
+x,,700010,2011-12-13 16:26:48,27,Laurier,JP,,,,none,,678,27
+x,dead,353437,2011-12-15 21:35:41,3,DarknessAngel,TW,,,,,,679,3
+x,dead,808639,,0,Lucy-Kaede,AU,,,,,,680,0
+x,std,71366,2011-12-18 21:20:36,0,Loctav,DE,p3n,grumd,lolcubes,,,681,0
+x,,791387,2011-12-20 7:27:57,1,D33d,GB,RandomJibberish,m980,mm201,,,682,1
+x,dead,870522,,0,Maya-kira,ID,,,,,,683,0
+x,,855209,,0,kosiga,JP,,,,,,684,0
+x,dead,322004,,0,AoiX,CN,,,,,,685,0
+x,dead,537015,,0,sirjuyt,TW,,,,,,686,0
+x,dead,550523,,0,phonic,JP,,,,,,687,0
+x,dead,909167,,0,Miya,ID,,,,,,688,0
+x,,360437,2012-01-01 13:52:44,2,bossandy,TW,Krisom,MoonFragrance,spboxer3,,,689,2
+x,,989563,2012-01-01 20:51:51,1,[CSGA]Ar3sgice,CN,,,,,,690,1
+x,dead,707980,,0,Akemi_Homura,KR,,,,,,691,0
+x,,654883,2012-01-03 18:23:49,11,No_Gu,CN,Lan Wings,kanpakyin,NatsumeRin,,,692,11
+x,,379423,,0,mochi,CA,,,,,,693,0
+x,,9520488,,0,R a r e,KR,,,,,,694,0
+x,,5162056,2012-01-05 6:18:22,0,Melan Blue,CL,BCI,Louis Cyphre,DarkDunskin,,,695,0
+x,,597310,2012-01-08 9:09:11,0,Cubex,DE,Phish,Kyshiro,fanzhen0019,,,696,0
+x,,870584,2012-01-09 4:41:36,3,Mirage,US,,,,,Maddy,697,3
+x,,767003,2012-01-13 14:24:44,0,Mixagji,JP,saymun,KanbeKotori,Shinxyn,,,698,0
+x,,264914,2012-01-14 12:49:46,1,DaxMasterix,CL,Shiirn,Louis Cyphre,Mafiamaster,,,699,1
+x,,515967,2012-01-15 21:13:09,7,nold_1702,HK,Duoprism,AngelHoney,LKs,,Ulysses,700,7
+x,,197805,2012-01-16 10:42:20,13,Niva,ID,Nakagawa-Kanon,Muya,Reiji-RJ,,,701,13
+x,,60604,2012-01-17 1:19:14,0,theowest,SE,Lesjuh,rustbell,Nakagawa-kanon,,,702,0
+x,dead,596535,,0,Neko_Lover,AU,,,,,,703,0
+x,,540992,,0,Piscis,JP,,,,,,704,0
+x,,138985,,0,silklash,US,,,,,,705,0
+x,,682935,2012-01-21 1:15:37,13,Nyquill,CA,happy30,La Cataline,gowww,,,706,13
+x,dead,910169,,0,yanguoke,CN,,,,,,707,0
+x,,426495,2012-01-24 15:12:03,0,hackSL,RU,La Cataline,RLC,Jounzan,,,708,0
+x,,389236,2012-01-24 21:18:17,3,Star Stream,KR,val0108,winber1,Garven,,,709,3
+x,dead,297551,,0,Kotya,RU,,,,,,710,0
+x,dead,201785,,0,Kurosanyan,FR,,,,none,,711,0
+x,,539873,2012-01-29 22:57:01,1,sherrie__fay,CN,,,,,,712,1
+x,,360207,,0,remy11,JP,,,,,,713,0
+x,,425997,,0,IchiGUN,RU,,,,,,714,0
+x,,982308,2012-02-09 14:30:23,1,L_P,MY,,,,,,715,1
+x,dead,342372,,0,Takuya,IT,,,,,,716,0
+x,dead,1090377,2012-02-13 2:15:15,1,-Baby Strawberry-,CA,,,,,,717,1
+x,,346677,2012-02-13 13:24:54,0,Kei,UY,Vass_Bass,La Cataline,,,,718,0
+x,,273649,,0,MoonShade,DE,,,,,,719,0
+x,dead,378377,,0,Verdisphena,CL,,,,,,720,0
+x,,623027,2012-02-19 11:19:24,0,RobotoRaccoon,AU,Larto,SapphireGhost,Krisom,,,721,0
+x,,137964,,0,Ruish,CA,,,,,,722,0
+x,,417551,2012-02-22 4:06:51,7,Rue,RU,La Cataline,Natteke,Shinxyn,,,723,7
+x,,917786,,0,Asgard,KR,,,,,,724,0
+x,dead,1190491,,0,Minos2012,CN,,,,,,725,0
+x,,5400545,2012-02-25 14:35:54,1,Cygnus,CA,AngelHoney,Nakagawa-Kanon,,,Philippines,726,1
+x,,806921,,0,Sync,US,,,,,,727,0
+x,,1078989,2012-02-27 9:45:29,0,Frozen Child,BR,La Cataline,Alace,Rue,,,728,0
+x,,199669,2012-03-03 0:44:22,22,Frostmourne,TH,Shinxyn,Cyril Scarlet,Patchouli,,,729,22
+x,hard,537454,,0,Yucali,IT,,,,,,730,0
+x,dead,152264,,0,TTTTTTTTTTTT,PH,,,,,,731,0
+x,,405008,,0,eikkaleyd,CN,,,,,,732,0
+x,,123703,2012-03-05 0:03:39,1,p3n,DE,Shinxyn,Aenna,galvenize,,,733,1
+x,,393190,,0,SakiK,JP,,,,,,734,0
+x,,1110548,2012-03-11 13:30:52,0,-HaRuNa-,TW,Sure,DarknessAngel,bossandy,,,735,0
+x,,74517,,0,eXseeD,JP,,,,,,736,0
+x,,419795,2012-03-15 12:43:00,2,kusano,JP,happy30,Shinxyn,Aenna,,,737,2
+x,,597957,2012-03-15 20:32:09,14,Bakari,RU,Larto,grumd,Mao,,,738,14
+x,,607288,,0,Reisyth,JP,,,,,,739,0
+x,,530913,2012-03-18 21:14:51,11,grumd,UA,Cyril Scarlet,,,,,740,11
+x,,672931,2012-03-19 7:13:49,1,TicClick,RU,tieff,,,,,741,1
+x,,1027860,2012-03-23 18:06:49,2,LunarSakuya,US,Vass_Bass,jonathanlfj,Nyquill,,,742,2
+x,,867259,2012-03-25 20:55:35,2,Scorpiour,NZ,tsuka,NatsumeRin,La Cataline,,,743,2
+x,dead,1333167,,0,Hazelz,HK,,,,,,744,0
+x,dead,213961,,0,Ylinestra44,DE,,,,,,745,0
+x,,159590,2012-04-02 23:20:39,0,Nanakase Gizumo,JP,Aenna,Kiiwa,Irreversible,,,746,0
+x,,304513,2012-04-04 16:28:45,1,CSY the corrupt,CN,,,,,,747,1
+x,,5331484,,0,Blove,CN,,,,,,748,0
+x,dead,1044280,,0,0x57CB36,CN,,,,,,749,0
+x,,579428,2012-04-07 10:38:04,4,Jenny,DE,rustbell,Glass,kiddly,,,750,4
+x,,409347,2012-04-07 20:46:01,0,Evil_Twilight,TW,Lesjuh,GladiOol,Glass,,,751,0
+x,,484670,,0,Genkishi,PH,,,,,,752,0
+x,dead,501221,,0,Mura_77,AU,,,,,,753,0
+x,,398633,,0,Serval,FR,,,,,,754,0
+x,,570042,,0,Darksonic,AR,,,,,,755,0
+x,,467487,2012-04-18 13:48:11,0,Love,US,MMzz,NatsumeRin,Charles445,,,756,0
+x,,1103522,2012-04-20 15:35:09,0,BeatofIke,US,Andrea,Sure,Mafiamaster,,,757,0
+x,dead,365280,,0,R a i n,JP,,,,,,758,0
+x,,557166,2012-04-21 2:59:52,3,those,CA,Holoaz,GladiOol,galvenize,,,759,3
+x,,1083002,2012-04-23 11:14:50,0,Ayakura Mei,CN,Lesjuh,NatsumeRin,Sandpig,,,760,0
+x,,759860,2012-04-25 5:41:18,3,popner,CN,,,,none,,761,3
+x,,384802,2012-05-07 18:38:26,2,Kitsuneko,JP,,,,,,762,2
+x,,624345,,0,Jupiter,JP,,,,,,763,0
+x,,77089,2012-05-12 16:09:20,0,Kurai,FR,kioukiou,Mystearica,Inozuma,,,764,0
+x,,640611,2012-05-14 9:49:27,8,Kyshiro,NL,Lesjuh,Mismagius,,,,765,8
+x,,735289,2012-05-17 2:08:19,4,Mythol,CA,cRyo[iceeicee],xsrsbsns,Nyquill,,,766,4
+x,dead,352616,,0,Pastel,JP,,,,,,767,0
+x,,685229,2012-05-20 23:37:56,3,W h i t e,KR,,,,,,768,3
+x,dead,570715,,0,Kirino Kousaka,PH,,,,,,769,0
+x,,976963,2012-05-21 22:39:07,0,Low,US,Hollow Wings,tsuka,fanzhen0019,,,769.5,0
+x,,278862,2012-05-21 13:55:03,2,TheVileOne,US,,,,,,770,2
+x,,654108,2012-05-22 0:14:05,0,Gabe,CA,Niva,La Cataline,Andrea,,,771,0
+x,,605540,2012-05-22 23:45:24,0,NewRulerNA,JP,DJPop,happy30,Andrea,,,772,0
+x,,697843,,0,PainSinger,LT,,,,,,773,0
+x,,869782,2012-05-25 22:35:10,6,alacat,JP,Melophobia,La Cataline,NatsumeRin,,,774,6
+x,std,128993,2012-05-26 13:57:48,1,MMzz,US,Nakagawa-Kanon,Lesjuh,MoonFragrance,,,775,1
+x,,351560,,0,Yasora,ID,,,,,,776,0
+x,,511286,2012-05-30 2:34:58,0,GiNa,US,Suzully,S o r d a,bakabaka,,,777,0
+x,dead,523712,,0,kurohana,DE,,,,,,778,0
+x,,1404615,2012-06-06 18:10:46,2,Sieg,KZ,Aleks719,mancuso_JM_,,,,779,2
+x,,419954,2012-06-06 20:47:31,2,Regou,HK,happy30,Nakagawa-Kanon,rrtyui,,,780,2
+x,,232942,2012-06-10 14:56:49,0,Reisen Udongein,KR,Niva,Nakagawa-Kanon,Muya,,,781,0
+x,dead,248268,,0,Doodley,US,,,,,,782,0
+x,,936631,,0,Midasmens,CN,,,,,,783,0
+x,dead,27973,2012-06-15 16:10:01,0,kyuten,CN,tsuka,Heatherfield,ignorethis,,,784,0
+x,,352740,2012-06-16 17:21:57,0,Quilt,JP,S h i a,Patchouli,Rue,,,785,0
+x,,90775,,0,Mei_coN,CN,,,,,,786,0
+x,dead,420798,2012-06-24 16:40:48,0,-saku-,JP,val0108,gowww,Patchouli,,,787,0
+x,,91738,2012-06-30 11:35:38,23,Guy,JP,xsrsbsns,cRyo[iceeicee],iyasine,,,788,23
+x,,1043627,2012-07-02 14:28:37,3,meiikyuu,US,LunarSakuya,,,,,789,3
+x,dead,1074928,,0,Lizsig,JP,,,,,,790,0
+x,,903686,2012-07-06 6:24:26,0,Tshemmp,DE,Cyril Scarlet,happy30,Shiirn,,,791,0
+x,dead,238361,,0,shenpei310,CN,,,,,,792,0
+x,,519978,2012-07-07 22:11:46,0,Strawberry,CN,tsuka,AngelHoney,LKs,,,793,0
+x,,918297,2012-07-10 7:00:22,0,Realazy,FR,Nakagawa-Kanon,Mirage,Skystar,,,793.5,0
+x,,826170,2012-07-14 7:39:37,0,Fionana,CN,Hinacle,MiLu,Aenna,,,794,0
+x,,1148830,2012-07-15 20:02:50,0,raririn,CN,Snowy Dream,eveless,Nymph,,,795,0
+x,,1170595,2012-07-16 22:30:06,0,maaagic,JP,Sumisola,xsrsbsns,bakabaka,,,796,0
+x,dead,296087,2012-07-21 12:20:27,1,Heatherfield,CN,DaRRi,happy30,Alace,,,797,1
+x,,870067,,0,Kuria,ID,,,,,,798,0
+x,,564790,2012-07-23 21:05:27,0,jamxx,JP,cRyo[iceeicee],Patchouli,terametis,,,799,0
+x,,858254,,0,EmPao,TW,,,,,,800,0
+x,dead,666051,,0,x847606653,CN,,,,,,801,0
+x,,1399551,2012-08-04 13:47:25,0,Elfin,KR,RLC,val0108,,,Underflow,802,0
+x,,576368,,0,h-728,JP,,,,,,803,0
+x,,113005,2012-08-12 1:08:36,2,Shiro,FR,ztrot,Shinxyn,Holoaz,,,804,2
+x,,180241,2012-08-13 17:42:50,3,ezek,US,Krisom,SapphireGhost,Gens,,,805,3
+x,dead,719683,,0,jesse7419,TW,,,,,,806,0
+x,dead,661420,,0,shikyu,ID,,,,,,807,0
+x,,639751,,0,DeathBlood,JP,,,,,,808,0
+x,dead,294856,,0,eg91022a71w,JP,,,,,,809,0
+x,,686389,2012-08-31 20:46:42,0,Makar,US,Nyquill,Charles445,,,,810,0
+x,,686209,2012-09-07 6:55:35,1,RikiH_,IT,tsuka,AngelHoney,Hollow Wings,,,811,1
+x,,873961,2012-09-07 14:43:35,98,Skystar,HK,LKs,NatsumeRin,nold_1702,,Amamiya Yuko,812,98
+x,,838877,2012-09-09 22:16:34,0,vipto,DE,Mismagius,AngelHoney,,,,813,0
+x,,328615,2012-09-12 9:18:17,0,pimpG,BR,DJPop,TheVileOne,Diasios,,,814,0
+x,,352328,2012-09-12 17:20:03,14,rrtyui,JP,,,,,,815,14
+x,dead,817211,,0,Nidert,SE,,,,,,816,0
+x,,522188,2012-09-13 22:19:04,0,Naryuga,JP,Gamu,Andrea,,,,817,0
+x,,270377,2012-09-15 16:40:38,33,jonathanlfj,CA,happy30,Nyquill,RLC,,,818,33
+x,dead,232574,,0,GamerX4life,DE,,,,,,819,0
+x,dead,1215910,,0,Tur00,CO,,,,,,820,0
+x,dead,641823,2012-09-20 2:10:50,0,athiota33,ID,Niva,NatsumeRin,gowww,,,821,0
+x,,795235,2012-09-20 19:32:37,0,donpen,JP,Aenna,Melophobia,MeLLoN,,,822,0
+x,,1446085,2012-09-23 20:20:27,0,Konei,DE,No_Gu,DarkAngel,Loneight,,,823,0
+x,,694267,2012-09-23 22:04:12,0,Zejky,VN,Andrea,wcx19911123,Sumisola,,,824,0
+x,,261621,2012-09-29 0:04:27,0,Athena Tennos,CN,100pa-,NatsumeRin,Nymph,,,825,0
+x,,1104066,2012-10-01 0:48:37,0,Pink Agate,CN,Breeze,kazumikos,-Baby Strawberry-,,,826,0
+x,,527469,2012-10-05 1:16:18,0,SkyDevil,NL,gowww,NatsumeRin,DJPop,,,827,0
+x,,1108866,,0,JudgeTheDude,FR,,,,,,828,0
+x,dead,850361,,0,banbar,JP,,,,,,829,0
+x,,727012,,0,Sonico Makaron,RU,,,,,,830,0
+x,,511947,2012-10-14 8:25:33,0,Mikarunoel131,DE,,,,none,,831,0
+x,,261694,,0,BinJip,KR,,,,,,832,0
+x,dead,1379385,,0,Wreath,US,,,,,,833,0
+x,,648885,2012-10-21 16:10:15,1,Sun Rainbow,CN,Andrea,,,,,834,1
+x,dead,645109,,0,Mikan,JP,,,,,,835,0
+x,,717228,,0,Dark Fang,KR,,,,,,836,0
+x,,610988,,0,P o M u T a,JP,,,,,,837,0
+x,dead,528181,,0,PROGUY,MY,,,,,,838,0
+x,,1238716,2012-10-30 6:59:27,1,Fumika,TH,No_Gu,NatsumeRin,Colin Hou,,,839,1
+x,,1063857,2012-11-05 5:02:26,0,Milkshake,IL,Pokie,Kiiwa,Beren,,,840,0
+x,std,626907,2012-11-06 17:22:41,0,Stefan,AT,DJPop,Larto,,,,841,0
+x,,798743,2012-11-07 22:35:08,5,HelloSCV,KR,NatsumeRin,RLC,,,,842,5
+x,,587361,2012-11-09 4:25:25,0,Azure,TW,No_Gu,LKs,hoLysoup,,,843,0
+x,,1352672,2012-11-10 1:12:30,1,Moway,US,,,,,,844,1
+x,,1033017,2012-11-10 15:40:04,4,Flower,AU,LKs,Rue,kiddly,,,845,4
+x,,645486,2012-11-12 6:54:52,0,[Yue],PE,Gero,Xincrin,,,,846,0
+x,,959763,2012-11-12 12:34:34,0,Flask,TW,Skystar,No_Gu,Fumika,,,847,0
+x,,1011056,2012-11-13 21:31:17,0,Nichiyouki,TH,alacat,Shad0w1and,Momochikun,,,848,0
+x,,1041833,2012-11-15 0:53:05,0,Roxas,IT,RLC,La Cataline,Skystar,,,849,0
+x,,807817,,0,kajiyatta,JP,,,,,,850,0
+x,dead,1623200,,0,Deni,DE,,,,,,851,0
+x,,1428609,,0,Arnold0,FR,,,,,,852,0
+x,std,966210,2012-12-04 11:59:34,0,mintong89,MY,No_Gu,Colin Hou,Autumn,,,853,0
+x,dead,928520,,0,Aoko,PH,Saten,meiikyuu,KanbeKotori,,,854,0
+x,,1331447,2012-12-08 20:06:46,1,XinCrin,PE,Gonzvlo,Krisom,Kryptogram,,,855,1
+x,,608261,2012-12-09 4:42:24,0,phoon,JP,Natteke,cRyo[iceeicee],Laurier,,,856,0
+x,,247937,2012-12-12 6:50:40,3,lkx_Shore,CN,tsuka,Lesjuh,NatsumeRin,,,857,3
+x,dead,940961,,0,congaan,JP,,,,,,858,0
+x,dead,604131,,0,wantuole,CN,,,,,,859,0
+x,,1262490,2012-12-22 7:43:03,0,Lally,IT,Andrea,Bakari,Gero,,,860,0
+x,,6352251,,0,Koisuru,PL,,,,,,861,0
+x,,567153,,0,yanlu,TW,,,,,,862,0
+x,,1267151,2012-12-28 22:11:41,2,Ayu,NL,La Cataline,Natteke,Kyshiro,,,863,2
+x,dead,551805,,0,Banana,CN,,,,,,864,0
+x,,1361697,,0,inverness,ID,,,,,,865,0
+x,,251395,2013-01-01 0:00:00,4,Zapy,FI,,,,,,866,4
+x,,1778050,2013-01-10 10:40:21,1,UnitedWeSin,US,,,,,,867,1
+x,,1587460,,0,MerryGate,JP,,,,,,868,0
+x,,1953876,2013-01-26 8:40:32,17,Natsu,SV,DarkRingSystem,JauiPlaY,val0108,,,869,17
+x,,879200,2013-01-30 10:35:45,1,BCI,RU,,,,,,870,1
+x,,88588,,0,Sagisawa-Yukari,CN,,,,,,871,0
+x,,1204034,2013-01-31 3:14:18,1,LQA20Ans,KR,,,,,,872,1
+x,,1065180,2013-02-03 20:28:23,3,Smoothie,DE,Frostmourne,val0108,cRyo[iceeicee],,,873,3
+x,,873758,2013-02-04 19:07:06,0,IntellectualBoy,KR,RLC,Skystar,alacat,,Gloria Guard,874,0
+x,dead,1893883,,0,Kaburagi Kotetsu,KR,,,,,,875,0
+x,dead,1187890,,0,bl801,CN,,,,,,876,0
+x,,229654,2013-02-08 15:30:40,0,Bless,CN,Cyril Scarlet,Frostmourne,cRyo[iceeicee],,,877,0
+x,,1123082,,0,Rotte,CN,,,,,,878,0
+x,dead,2132741,,0,SuperMoutarde,FR,,,,,,879,0
+x,,930405,,0,Revy,IT,,,,,,880,0
+x,hard,691222,2013-02-19 4:46:48,0,bomber34,DE,Larto,MoonFragrance,MoodyRPG,,,881,0
+x,,1467715,2013-02-20 6:29:45,16,Gero,MX,Andrea,Krisom,Gonzvlo,,,882,16
+x,std,480689,,0,Kin,FR,Star Stream,Frostmourne,La Cataline,,,883,0
+x,dead,817044,,0,AsprikaQ,DE,,,,,,884,0
+x,,1742622,2013-02-24 22:22:21,0,scanter,KR,K i A i,Startrick,,,,885,0
+x,,888955,2013-02-26 10:56:58,1,Wafu,CZ,Nymph,grumd,Cyril Scarlet,,,886,1
+x,,1047883,2013-02-26 21:24:44,89,RLC,US,Nakagawa-Kanon,La Cataline,happy30,,,887,89
+x,,1446665,2013-03-03 10:08:38,0,Lanturn,CA,Glass,Andrea,DeadAlready,,,888,0
+x,,445907,2013-03-03 21:53:16,0,Rare,JP,Patchouli,Natteke,Muya,,,889,0
+x,,1635091,2013-03-05 6:30:38,0,Nemis,IT,La Cataline,,,,,890,0
+x,,1867887,2013-03-10 20:15:06,1,Cancel,NL,Larto,Foreverends,Smoothie,,,891,1
+x,,663131,2013-03-10 20:39:23,4,Loneight,TW,Licnect,LKs,DarknessAngel,,,892,4
+x,,1974436,2013-03-20 20:34:44,4,HabiHolic,KR,,,,,,893,4
+x,,10893469,,0,Kiyro,CL,,,,,,894,0
+x,,1521445,2013-04-01 19:41:32,2,Xinely,ID,Hinsvar,blissfulyoshi,jonathanlfj,,,895,2
+x,,836434,2013-04-03 20:33:32,1,Melt,CN,NatsumeRin,spboxer3,LKs,,,896,1
+x,,1661227,2013-04-03 20:57:54,7,Satellite,JP,RLC,jonathanlfj,Rizia,,,897,7
+x,,531224,,0,qkenan,CN,,,,,,898,0
+x,,930165,2013-04-09 23:03:27,0,Mystyk,HU,Gens,dkun,,,,899,0
+x,dead,353453,,0,MineC24,KR,,,,,,900,0
+x,,1371514,2013-04-12 18:48:15,2,buhei,CN,Scorpiour,sherrie__fay,Snowy Dream,,,901,2
+x,,478023,2013-04-14 19:57:05,0,Haya,DE,Smoothie,spboxer3,Monstrata,,,902,0
+x,,1287964,2013-04-15 4:44:17,15,Irreversible,CH,Kiiwa,HanzeR,fanzhen0019,,,903,15
+x,hard,776257,,0,shARPII,FR,,,,,,904,0
+x,,626873,,0,DingGGu,KR,,,,,,905,0
+x,,1545289,2013-04-25 11:54:14,0,Makyu,CO,RLC,La Cataline,SapphireGhost,,,906,0
+x,,1343783,2013-04-25 18:38:56,0,pw384,CN,narakucrimson,Armin,,,384059043,907,0
+x,,1779172,,0,Tari,US,,,,,,908,0
+x,,314318,2013-04-26 20:52:49,0,Dai,ID,Sallad4ever,Niva,Andrea,,,909,0
+x,dead,1025207,,0,Betsuto,TH,,,,,,910,0
+x,,190768,2013-04-28 23:28:44,0,nanda2009,ID,Krisom,Andrea,RLC,,,911,0
+x,,132098,2013-04-29 23:29:06,0,jogfi2002,CN,DJPop,NatsumeRin,LQA20Ans,,,912,0
+x,dead,1202819,,0,blackabyss,ID,,,,,,913,0
+x,,1425253,2013-05-05 10:33:56,0,DakeDekaane,MX,Krisom,Andrea,those,,,914,0
+x,,1491415,,0,etc,US,,,,,,915,0
+x,,631530,2013-05-06 0:05:29,2,Leader,IT,RLC,La Cataline,Natteke,,,916,2
+x,,1822830,2013-05-08 18:26:57,1,Zero__wind,CN,NatsumeRin,Frostmourne,cRyo[iceeicee],,,917,1
+x,,507282,2013-05-09 19:52:07,0,N E K O,CN,Frostmourne,,,,,918,0
+x,dead,619514,,0,Sherry,JP,,,,,,919,0
+x,,1285234,,0,P A N,TH,,,,,,920,0
+x,,1574070,2013-05-16 21:28:28,6,Kloyd,JP,v2b,Mystearica,LKs,,,921,6
+x,dead,1866926,,0,shankishiro,AR,,,,,,923,0
+x,,2075222,2013-06-08 0:06:10,2,Umi,FR,,,,,-Umi-,924,2
+x,,167453,2013-06-09 1:26:32,3,cheesiest,US,RandomJibberish,Nakagawa-Kanon,fanzhen0019,,,925,3
+x,,2209412,2013-06-09 22:52:28,0,Oyatsu,VN,Laurier,Fycho,KantoKun,,,926,0
+x,,1249323,2013-06-13 19:21:35,1,Hinsvar,ID,Niva,Jounzan,Kalibe,,,927,1
+x,,689266,2013-06-17 13:30:55,0,Verlaren,RU,cRyo[iceeicee],merchat7,CXu,,,928,0
+x,,787542,2013-06-17 23:19:00,2,Chloe,CN,Skystar,,,,,929,2
+x,,1762954,2013-06-22 11:14:26,0,Raose,US,Narcissu,jonathanlfj,cRyo[iceeicee],,,930,0
+x,,1876867,2013-06-22 12:11:25,26,Fycho,CN,cRyo[iceeicee],Lami,Skystar,,,931,26
+x,,1458069,2013-06-22 22:07:49,0,koreapenguin,KR,Sonnyc,pishifat,Sure,,,932,0
+x,dead,1157075,,0,Origami_Munchkin,US,,,,,,933,0
+x,,1331937,2013-06-30 18:11:43,6,iyasine,JP,Jounzan,RLC,La Cataline,,,934,6
+x,,1629059,2013-07-01 10:36:32,5,Broccoly,US,,,,,,935,5
+x,,968756,2013-07-01 13:22:46,2,Foreverends,HK,nold_1702,HanzeR,val0108,,,936,2
+x,,1385760,2013-07-03 7:37:52,0,luxoDeh,IT,tutuhaha,Andrea,jonathanlfj,,,937,0
+x,,343624,2013-07-04 1:26:06,2,pkhg,CL,pishifat,,,,,938,2
+x,dead,1699726,,0,Cobra,US,,,,,,939,0
+x,,1026491,2013-07-04 9:59:42,0,xChippy,NL,jonathanlfj,cRyo[iceeicee],Skystar,,,940,0
+x,,1177149,2013-07-04 15:00:39,1,Autumn,CN,val0108,S h i a,NatsumeRin,,,941,1
+x,,324768,2013-07-05 14:44:59,0,happy623,HK,nold_1702,Bakari,dkun,,,942,0
+x,hard,1357150,2013-07-05 20:20:59,0,Senbonzakura,KR,Star Stream,val0108,Nakagawa Kanon,,,943,0
+x,dead,1225588,,0,TrigonometrY,UA,,,,,,944,0
+x,,682919,,0,ryuu,RU,,,,,,945,0
+x,,937761,2013-07-13 19:24:26,0,[ Zzz ],KR,Andrea,Gero,,,,946,0
+x,,1592447,2013-07-16 5:11:43,11,HanzeR,US,Skystar,fanzhen0019,cRyo[iceeicee],,,947,11
+x,,1921587,2013-07-20 13:04:11,0,Jemmmmy,CN,Muya,ktgster,Nakagawa-Kanon,,,948,0
+x,dead,567285,,0,1PSA,CN,,,,,,949,0
+x,,2159014,2013-07-22 10:20:59,0,Sarasa,US,cRyo[iceeicee],Mythol,Skystar,,,950,0
+x,,2032824,2013-08-04 15:55:42,3,Momochikun,ID,No_Gu,Kotone,kanpakyin,,,951,3
+x,,1603923,2013-08-06 22:56:29,7,Delis,JP,DarkRingSystem,xsrsbsns,happy30,,,952,7
+x,,1211737,2013-08-10 13:41:09,2,Zweib,CN,Saten,L_P,Jounzan,,,953,2
+x,,1514083,2013-08-10 16:22:00,3,sjoy,CN,jonathanlfj,RLC,Nyquill,,,954,3
+x,hard,2217336,2013-08-10 20:49:15,0,Heanday,FR,Frostmourne,Laurier,Ryafuka,,,955,0
+x,dead,865132,,0,Reat,KR,,,,,,956,0
+x,dead,140490,,0,Genshin,IT,,,,,,957,0
+x,,2087439,2013-08-16 0:46:24,0,Snaggletooth,AT,val0108,tutuhaha,,,Rainmon,958,0
+x,,1715720,2013-08-18 2:29:48,5,Asphyxia,FI,RLC,Kyshiro,handsome,,,959,5
+x,,1546760,2013-08-18 19:19:08,2,jyc-Binggan,CN,DaRRi,100pa,,,,960,2
+x,,416662,2013-08-20 5:18:35,33,Hollow Wings,CN,Lesjuh,Shinxyn,,,,961,33
+x,hard,2005843,,0,[Epicz],DE,,,,,,962,0
+x,,1275900,,0,Itachi_Uchiha,DE,,,,,,963,0
+x,,69333,,0,Jinxy,SG,,,,,,964,0
+x,,2782104,2013-08-25 15:59:22,2,Startrick,KR,Frostmourne,,,,,965,2
+x,,1481684,,0,S o a p,CN,,,,,,966,0
+x,,1280801,2013-08-31 21:22:40,2,KantoKun,TH,No_Gu,captin1,Guy,,,967,2
+x,,120823,2013-09-02 2:57:22,0,ZLOdeuka-,RU,KIA,DMBee,IceBeam,,,968,0
+x,,895581,2013-09-02 23:53:34,0,-GN,NO,Shiirn,Nakagawa-Kanon,Lesjuh,,,969,0
+x,,2702161,2013-09-03 17:48:12,0,Unsfamiliar,AU,jonathanlfj,11t,Fycho,,,970,0
+x,,989377,2013-09-06 19:13:08,3,Damnae,FR,Natteke,La Cataline,Rue,,,971,3
+x,,1948827,,0,Alarido,BR,,,,,,972,0
+x,,1895678,2013-09-09 3:19:03,0,AnreFM,ID,Kiiwa,Irreversible,,,,973,0
+x,,1848318,2013-09-09 18:42:03,34,Jounzan,RU,Rue,happy30,tsuka,,EvilElvis,974,34
+x,,1870602,2013-09-13 21:43:50,0,CET 6,CN,Melt,lkx_Shore,,,,975,0
+x,dead,553656,,0,Sey,DE,,,,,,976,0
+x,,961752,2013-09-29 17:10:36,0,Kayano,CN,LKs,fanzhen0019,kiddly,,,977,0
+x,,521568,2013-10-02 13:00:06,2,mancuso_JM_,UY,Krisom,Gonzvlo,narakucrimson,,,978,2
+x,,1867171,2013-10-04 23:05:14,0,Kinomi,AU,tsuka,[CSGA]Ar3sgice,DarknessAngel,,Tsukuyomi,979,0
+x,,2470093,2013-10-05 4:28:33,0,zlfence,CN,,,,none,,980,0
+x,,2061922,2013-10-06 11:11:19,0,Sephibro,IT,meiikyuu,galvenize,7odoa,,,981,0
+x,,1360278,,0,Yumih,BR,,,,,,982,0
+x,,1142692,,0,TaMul,KR,,,,,,983,0
+x,dead,2112092,2013-10-13 22:39:54,3,11t,US,,,,,,984,3
+x,dead,1617530,,0,Zexion,CL,,,,,,985,0
+x,,1149962,2013-10-19 11:38:58,0,bigfrog,TW,Fycho,moph,celerih,,,986,0
+x,dead,1499299,,0,ReySHeL,JP,,,,,,987,0
+x,,1470352,2013-10-25 6:28:02,0,Trust,CA,LunarSakuya,Nyquill,jonathanlfj,,,988,0
+x,,1746675,2013-10-27 9:38:35,1,Urushi38,JP,fanzhen0019,Cyclohexane,La Cataline,,,989,1
+x,,838176,2013-10-30 16:38:33,0,ts8zs,CN,DJPop,NatsumeRin,Skystar,,,990,0
+x,,1280641,2013-11-02 6:08:42,0,Liiraye,SE,galvenize,RLC,Saten,,,991,0
+x,,2433507,2013-11-06 0:30:36,2,Koiyuki,CN,popner,Skystar,Nymph,,Minakami Yuki,992,2
+x,,1145984,2013-11-08 0:39:54,0,Alumetorz,AT,RLC,Skystar,,,,993,0
+x,,689997,2013-11-11 4:57:49,7,captin1,US,Skystar,Laurier,RLC,,,994,7
+x,,2445027,2013-11-14 5:05:44,0,AlexaBM,MD,jonathanlfj,Reiji-RJ,Satellite,,,995,0
+x,,2023932,,0,Azails,TW,,,,,,996,0
+x,,444223,,0,UnderminE,TR,,,,,,997,0
+x,,2001716,,0,Shilkey,SE,,,,,,998,0
+x,,1927544,,0,ritsu-tanaika,HK,,,,,,999,0
+x,,53378,2013-11-24 8:29:17,3,ktgster,CA,Alace,James,Al-Azif,,,1000,3
+x,,2185631,,0,- Melody,DE,,,,,,1001,0
+x,,1617206,,0,Tsumetaku,TW,,,,,,1002,0
+x,,2426126,2013-12-03 14:17:59,1,Rakuen,MY,alacat,Rizia,jonathanlfj,,,1003,1
+x,,2316951,,0,Lust,US,,,,,,1004,0
+x,,1243669,2013-12-09 1:14:23,11,yf_bmp,CN,MoonFragrance,NatsumeRin,fanzhen0019,,,1005,11
+x,,770590,2013-12-13 9:13:29,1,litoluna,JP,Satellite,Colin Hou,Laurier,,,1006,1
+x,,1156742,2013-12-16 6:43:02,7,Cherry Blossom,FR,,,,,,1007,7
+x,,1380253,2013-12-20 21:23:47,0,Awaken,CN,RLC,Skystar,Nymph,,,1008,0
+x,,243049,2013-12-25 9:18:11,1,smallboat,TW,Saten,Skystar,Lami,,,1009,1
+x,,1476203,,0,Lecana,JP,,,,,,1010,0
+x,,2155578,2014-01-11 11:02:12,0,Azer,CA,RLC,jonathanlfj,dsco,,,1011,0
+x,,1596078,2014-01-11 15:42:08,3,Karia,KR,Fycho,Skystar,winber1,,,1012,3
+x,,1622450,2014-01-11 21:02:14,0,Sharlo,CN,Lan Wings,jonathanlfj,,,,1013,0
+x,,678794,2014-01-12 1:42:14,0,10nya,ID,Laurier,Frostmourne,Lasse,,,1014,0
+x,,1380956,2014-01-14 19:22:12,0,Pandiar,JP,xsrsbsns,LKs,cRyo[iceeicee],,,1015,0
+x,,2701868,,0,Oriance,US,,,,,,1016,0
+x,,858416,,0,meetmeetdee,HK,,,,,,1017,0
+x,,951893,,0,kamisamaaa,CN,,,,,,1018,0
+x,,762487,2014-01-28 15:22:24,0,Saturnalize,ID,Niva,fanzhen0019,Shiirn,,,1019,0
+x,,520957,2014-01-30 13:22:19,1,Irie Miyuki,CN,NatsumeRin,La Cataline,Cyril Scarlet,,,1020,1
+x,,2195646,2014-02-02 2:02:10,0,Kyubey,RU,happy30,Jounzan,Muya,,,1021,0
+x,,1710462,,0,LexiaLovesU,US,,,,,,1022,0
+x,,1504456,,0,Oracle,CN,,,,,,1023,0
+x,,2114779,2014-02-10 5:42:32,0,Ami,DE,Kyshiro,Irreversible,Asphyxia,,,1024,0
+x,,1340650,,0,Tear,PL,,,,,,1025,0
+x,,2243053,,0,Luerxa,JP,,,,,,1026,0
+x,,1416484,2014-02-13 0:42:23,0,Aldwych,FR,,,,none,,1027,0
+x,,1008962,2014-02-15 4:42:24,1,Lortus,JP,,,,,,1028,1
+x,,1565739,2014-02-20 18:02:14,1,ZZHBOY,CN,Hollow Wings,Nymph,Skystar,,,1029,1
+x,,2859670,,0,Lari,KR,,,,,,1030,0
+x,,2308676,2014-02-21 17:22:17,0,Fatfan Kolek,DE,Mismagius,fanzhen0019,val0108,,,1031,0
+x,,383807,2014-02-22 5:42:30,1,Alternative,JP,,,,,,1032,1
+x,,3281474,,0,Nepu,CN,,,,,,1033,0
+x,,80594,,0,Kazey,FR,,,,,,1034,0
+x,,2202645,2014-02-26 3:02:26,2,Myxomatosis,DE,Larto,Lesjuh,tieff,,Desperate-kun,1035,2
+x,,3044645,2014-02-27 3:22:14,3,Momoka,US,Fycho,Star Stream,cRyo[iceeicee],,No Dap,1036,3
+x,,1444683,2014-02-28 11:02:09,0,emmy,US,11t,Alternative,Hollow Wings,,,1037,0
+x,,556012,,0,Forseen,LV,,,,,,1038,0
+x,,1632431,,0,Losertic,KR,,,,,,1039,0
+x,,1856463,2014-03-02 7:02:41,5,IamKwaN,HK,RLC,jonathanlfj,,,,1040,5
+x,,2241286,2014-03-03 22:43:23,0,AllStar12,US,Nyquill,Natteke,NatsumeRin,,,1041,0
+x,,1142651,,0,Main Black,KR,,,,,,1042,0
+x,,2198472,2014-03-07 1:22:55,7,Avena,IL,fanzhen0019,La Cataline,Mirage,,Priti,1043,7
+x,,2168923,,0,Ikaros_F,TW,,,,,,1044,0
+x,,3395780,,0,Akabato,CN,,,,,,1045,0
+x,,1572001,2014-03-09 3:03:33,1,wa_,PL,banvi,RLC,Kiiwa,,,1046,1
+x,,1103893,,0,Katyusha,CR,,,,,,1047,0
+x,,1206417,,0,Gomo Pslvarh,KR,,,,,,1048,0
+x,,2204515,2014-03-13 3:02:47,3,Mao,DE,La Cataline,Larto,fanzhen0019,,,1049,3
+x,,1758523,2014-03-15 1:02:31,1,Atrue,CN,jyc-Binggan,lkx_Shore,Fycho,,,1050,1
+x,,1433656,2014-03-16 11:02:22,0,rinsukir,CN,Fycho,NatsumeRin,Mei,,,1051,0
+x,not standard,2083612,,0,Vhy,ID,,,,,,1052,0
+x,,1654186,2014-03-25 2:42:28,0,ColdTooth,US,ztrot,TheVileOne,Irreversible,,,1053,0
+x,not standard,2575684,,0,YunoFanatic,PH,,,,,,1054,0
+x,,1367674,,0,wmtokok,HK,,,,,,1055,0
+x,not standard,743282,2014-03-29 6:02:14,0,Tidek,PL,grumd,,,,,1056,0
+x,,1074710,,0,El SolarBeam,ID,,,,,,1057,0
+x,,1309717,,0,ecdonald,JP,,,,,,1058,0
+x,,409292,2014-04-01 9:22:13,0,Dariano,DO,Lissette,Krisom,ztrot,,,1059,0
+x,,286740,2014-04-01 21:22:23,0,Koalazy,TW,val0108,Frostmourne,Rucker,,,1060,0
+x,,1074648,2014-04-03 15:42:08,0,moonlightleaf,CN,cRyo[iceeicee],Fycho,SnowNiNo_,,,1061,0
+x,,832084,2014-04-08 0:42:17,0,Neta,KR,Laurier,Nathan,,,,1062,0
+x,,2439246,2014-04-09 17:02:13,0,Asagi,PH,UnitedWeSin,cRyo[iceeicee],HelloSCV,,,1062.5,0
+x,,1367570,2014-04-11 18:02:28,27,Rizia,HK,Guy,xsrsbsns,Skystar,,Kawaiwkyik,1063,27
+x,,2189372,2014-04-13 9:42:32,0,AnimeStyle,DE,Silleth,BounceBabe,smallboat,,,1064,0
+x,,2208964,2014-04-14 5:02:35,1,Secretpipe,FR,grumd,Jounzan,pishifat,,,1065,1
+x,,3193504,2014-04-23 8:02:10,12,Kibbleru,CA,Fycho,Skystar,RLC,,,1066,12
+x,,1131446,,0,lightr,CN,,,,,,1067,0
+x,,2459589,2014-04-28 0:42:21,0,F D Flourite,CN,Fycho,Chloe,HabiHolic,,,1068,0
+x,,1891192,2014-04-28 18:42:24,1,Sylith,KR,,,,,,1069,1
+x,,1603608,,0,keeeeeeko,JP,,,,,,1070,0
+x,,1561995,2014-05-03 10:42:17,0,neonat,SG,Snowy Dream,Guy,,,,1071,0
+x,,1964251,2014-05-09 9:02:09,0,[Twinkle],CN,AngelHoney,RLC,Skystar,,,1072,0
+x,,2108620,,0,Lach,AU,,,,,,1073,0
+x,,1823446,2014-05-27 7:22:12,2,Giralda,CA,Nyquill,jonathanlfj,Laurier,,,1074,2
+x,,573722,2014-05-27 8:22:09,0,samplefish,US,Rizia,Bearizm,Kalibe,,,1075,0
+x,,2041350,2014-05-27 12:42:23,1,Kamio Misuzu,CN,,,,,,1076,1
+x,,1826598,2014-05-29 19:02:29,3,Narcissu,CN,jonathanlfj,Asahina Momoko,Skystar,,,1077,3
+x,,623236,2014-06-03 15:02:08,0,DexFrild,MD,Andrea,ztrot,Bakari,,,1078,0
+x,,1437117,,0,Zare,DE,,,,,,1079,0
+x,,1473106,2014-06-11 15:42:43,2,N a s y a,JP,Guy,Rizia,Haruru,,,1080,2
+x,std,1570876,,0,mingmichael,ID,,,,,,1081,0
+x,,1525538,2014-06-21 13:22:22,0,Raiku,GB,La Cataline,val0108,fanzhen0019,,,1082,0
+x,,3076909,2014-06-25 11:42:10,3,Regraz,CN,Nyquill,HabiHolic,ZZHBOY,,,1083,3
+x,,1422149,,0,CakiP,JP,,,,,,1084,0
+x,,1965066,,0,Selisi,CN,,,,,,1085,0
+x,,1347489,2014-06-29 11:02:12,1,Streliteela,CN,,,,,,1086,1
+x,,1307553,2014-07-04 1:22:15,0,Aka,UA,Nyquill,RLC,iyasine,,,1087,0
+x,,3250792,2014-07-04 2:22:15,24,ProfessionalBox,FI,RLC,Skystar,byfar,,,1088,24
+x,,649494,,0,YoshinoSakura,CN,,,,,,1089,0
+x,,2421275,2014-07-06 2:22:19,0,Metal,US,cheesiest,Frostmourne,,,,1090,0
+x,,1070575,,0,Teru21,ID,,,,,,1091,0
+x,,1478292,2014-07-08 4:02:18,3,Krfawy,PL,Diasios,Luxary,Larto,,,1092,3
+x,,2128920,2014-07-11 0:22:19,1,LeaK,DE,[Luanny],cheesiest,Mismagius,,Timorisu,1093,1
+x,,3552507,2014-07-14 6:42:12,0,Kinshara,US,captin1,Skystar,jonathanlfj,,,1094,0
+x,,2484123,2014-07-15 2:42:15,0,Kihhou,US,Skystar,jonathanlfj,nold_1702,,,1095,0
+x,,587737,2014-07-17 6:22:11,1,Zetera,DE,Lesjuh,La Cataline,-kevincela-,,Sala-,1096,1
+x,,3034880,2014-07-17 9:22:12,0,xxdeathx,US,Fycho,wcx19911123,Skystar,,,1097,0
+x,std,3498251,2014-07-19 7:02:12,0,-[ Asuna ]-,ID,Xinely,Saten,jonathanlfj,,,1098,0
+x,,1482243,2014-07-19 8:42:10,1,Mei,CN,Laurier,cRyo[iceeicee],Satellite,,,1099,1
+x,,1612624,2014-07-22 12:02:15,9,GoldenWolf,BE,happy30,Muya,,,,1100,9
+x,dead,2440936,,0,Maeglwn,US,,,,,,1101,0
+x,dead,2121032,,0,Caffe_[Latte],KR,,,,,,1102,0
+x,,2207976,,0,Don,NL,,,,,,1103,0
+x,,1138027,2014-07-31 16:20:07,0,sheela,CA,RLC,Lan Wings,NatsumeRin,,,1103.5,0
+x,,898306,2014-08-13 9:42:14,0,Yauxo,DE,RLC,jonathanlfj,Avena,,,1104,0
+x,,1929729,2014-08-20 9:42:15,0,apaffy,US,Nakagawa-Kanon,RLC,Cherry Blossom,,,1105,0
+x,,1807125,2014-08-24 9:42:24,0,[Vincent],AU,Skystar,val0108,rrtyui,,,1106,0
+x,,3430690,2014-09-05 4:22:17,0,truonant,CA,11t,alacat,,,,1107,0
+x,,2687320,2014-09-09 5:42:11,1,Kazuya,HU,,,,,,1108,1
+x,,3178418,2014-09-09 10:42:12,69,pishifat,US,handsome,Monstrata,deetz,,,1109,69
+x,,729632,,0,DevilA1r,JP,,,,,,1110,0
+x,,745494,2014-09-13 0:02:52,6,Shadren,RU,fergas,,,,,1111,6
+x,,1400208,,0,smallbeans,TW,,,,,,1112,0
+x,,654516,2014-09-16 3:22:21,0,Seikatu,RU,LKs,tsuka,Holoaz,,,1113,0
+x,,733878,,0,B e N i,JP,,,,,,1114,0
+x,,3364931,2014-09-23 22:22:49,0,Sellenite,CN,Rizia,Delis,Satellite,,,1115,0
+x,,1576498,2014-09-27 8:24:28,0,Cloudchaser,CL,Bakari,NatsumeRin,Garven,,,1116,0
+x,,3003978,2014-09-27 10:03:01,0,Maruyu,PT,Fycho,Bakari,Guy,,Yuzu-,1117,0
+x,,1409012,2014-09-28 21:02:12,1,CelsiusLK,TH,Skystar,Kibbleru,RLC,,,1118,1
+x,,2683648,2014-09-30 9:02:10,5,Gaia,CA,cRyo[iceeicee],Kibbleru,iyasine,,,1119,5
+x,,1052994,2014-09-30 19:42:15,4,Milan-,CL,appleeaterx,HelloSCV,,,,1120,4
+x,,2377881,2014-10-05 10:20:41,0,Yales,FR,Jounzan,JauiPlaY,NatsumeRin,,,1121,0
+x,,2697284,2014-10-06 6:00:41,4,Kuron-kun,BR,Mismagius,RLC,Saten,,Near,1122,4
+x,,805629,,0,KokoroStudiox3,MX,,,,,,1123,0
+x,,2613342,2014-10-11 11:20:37,0,Knotts,US,Laurier,jonathanlfj,RLC,,,1124,0
+x,,3620525,2014-10-11 23:22:17,5,pkk,CA,Kibbleru,Momoka,val0108,,,1125,5
+x,,1686709,2014-10-12 13:40:55,0,Chirony,JP,Guy,Laurier,,,,1126,0
+x,,1841032,2014-10-12 20:21:06,0,jyu,ID,La Cataline,Loneight,Natteke,,AlpacaCokelat,1127,0
+x,,4219034,2014-10-14 12:20:33,1,kakifly,CA,,,,,,1128,1
+x,,2404120,,0,Hard,DE,,,,,,1129,0
+x,,2123087,2014-10-17 20:00:41,35,handsome,SG,Skystar,Hollow Wings,rrtyui,,,1130,35
+x,,2248417,2014-10-17 23:01:07,0,KaedekaShizuru,CN,Fycho,Nymph,,,,1131,0
+x,,2495509,2014-10-19 11:40:45,0,TT Mouse,CN,yf_bmp,ProfessionalBox,jonathanlfj,,,1132,0
+x,,2047666,2014-10-20 4:20:49,0,tomhet65,RU,La Cataline,TicClick,grumd,,,1133,0
+x,,1913736,2014-10-21 2:00:55,0,theramdans,ID,tutuhaha,val0108,Frostmourne,,,1134,0
+x,,3624692,2014-10-21 3:01:00,2,Pho,DE,Frostmourne,cRyo[iceeicee],,,,1135,2
+x,,2439822,2014-10-24 23:21:26,0,Rtyzen,SG,caren_sk,Skystar,handsome,,,1136,0
+x,,568761,2014-10-28 1:40:45,0,[Mahua],CN,kiddly,eveless,val0108,,,1137,0
+x,,2279351,2014-10-30 14:20:30,0,Janssen,MX,Saten,Lesjuh,Monstrata,,Atsuro,1138,0
+x,,3621552,2014-10-29 0:20:44,2,Chaoslitz,HK,kiddly,,,,,1139,2
+x,,260933,,0,Kurokami,HU,,,,,,1140,0
+x,,3683084,2014-11-06 23:00:55,0,pandorawindy,CN,Damnae,alacat,Garven,,,1141,0
+x,,3080783,2014-11-12 8:20:59,0,Pappy,PL,Monstrata,Bakari,Kuron-kun,,,1142,0
+x,,1604016,,0,Setsurei,ID,,,,,,1143,0
+x,,1947052,2014-11-14 4:41:06,0,Sakaue Nachi,CN,Guy,sjoy,Rizia,,,1144,0
+x,hard,2260598,,0,Nickelony,PL,,,,,,1145,0
+x,,3789302,2014-11-21 17:20:32,1,eINess,KR,Sonnyc,Rizia,IamKwaN,,,1146,1
+x,,2407160,2014-11-23 4:41:20,12,appleeaterx,NL,Jounzan,Irie Miyuki,RLC,,,1147,12
+x,,1990890,,0,Kaguya Hourain,GR,,,,,,1148,0
+x,,329205,,0,[Hijiri Byakuren],CN,,,,,,1149,0
+x,,337102,2014-11-28 23:03:55,1,Haruru,JP,Skystar,RLC,,,,1150,1
+x,,3144542,2014-11-29 2:42:04,3,fergas,RU,Sieg,Jounzan,Lan Wings,,,1151,3
+x,,1083407,2014-11-30 13:21:07,2,sionKotori,JP,fanzhen0019,ProfessionalBox,-kevincela-,,,1152,2
+x,dead,3537738,2014-11-30 22:27:23,0,Moo-Chan,US,pishifat,HanzeR,CiiyusMiapah,,,1153,0
+x,,1587999,2014-12-03 22:01:11,0,Mira-san,PH,Rizia,Skystar,cRyo[iceeicee],,,1154,0
+x,,1441635,2014-12-04 4:21:05,1,Yoeri,NL,cheesiest,D33d,Kyshiro,,,1155,1
+x,,2241849,2014-12-08 19:21:48,0,MirinH,CA,Nyquill,CiiyusMiapah,Fycho,,,1156,0
+x,,2554967,2014-12-14 19:22:07,0,liangv587,CN,popner,jonathanlfj,Flower,,,1157,0
+x,,3143784,2014-12-16 21:21:42,6,Karen,CN,popner,handsome,Skystar,,,1158,6
+x,std,1806962,2014-12-20 20:22:12,0,Yumeno Himiko,CN,IamKwaN,Fycho,Skystar,,examination,1159,0
+x,,3001783,,0,-Nanaka-,JP,,,,,,1160,0
+x,,2091463,2014-12-23 4:23:27,0,Squichu,DE,,,,none,,1161,0
+x,,695678,2014-12-25 12:01:10,0,Frey,CN,galvenize,Natteke,La Cataline,,,1162,0
+x,,913249,,0,Breadhunter,RU,,,,,,1163,0
+x,std,2420987,2014-12-26 7:21:17,1,Julie,CA,,,,,,1164,1
+x,,2716981,2014-12-28 1:47:26,1,Nozhomi,FR,Kazuya,Okoratu,Cherry Blossom,,,1165,1
+x,,1293097,,0,-Nya-,ZA,,,,,,1166,0
+x,,2499198,,0,Spring Roll,CN,,,,,,1167,0
+x,,662561,,0,Xinchii,TW,,,,,,1168,0
+x,,2818699,,0,SoGa,CN,,,,,,1169,0
+x,,3165798,2015-01-07 10:01:07,0,Setz,US,Mythol,Guy,,,,1170,0
+x,,759439,2015-01-10 14:41:04,3,jieusieu,KR,Nakagawa-Kanon,Muya,caren_sk,,,1171,3
+x,,3905740,2015-01-10 18:41:05,0,340,RU,Niva,Louis Cyphre,,,,1172,0
+x,,4098393,2015-01-10 22:42:58,0,Tarrasky,BR,Kuron-kun,nold_1702,Mismagius,,,1173,0
+x,,3513559,2015-01-15 4:01:22,2,deetz,CA,kazumikos,La Cataline,Charles445,,,1174,2
+x,,3436326,2015-01-19 0:21:23,0,ByBy,RO,N a s y a,Gero,Monstrata,,ByBy_chan,1175,0
+x,,1703474,2015-01-19 10:41:02,0,Luna-,MX,captin1,Laurier,jonathanlfj,,Dark Accelerator,1176,0
+x,,2317431,,0,Raisa12,EC,,,,,,1177,0
+x,,1480622,2015-01-21 5:21:10,0,Pururut,CN,cRyo[iceeicee],Snowy Dream,Jounzan,,,1178,0
+x,,3813800,,0,LucyS,BR,,,,,,1179,0
+x,,23636,,0,Gelbana,AU,,,,,,1180,0
+x,,1653858,,0,Your Good Self,SG,,,,,,1181,0
+x,,3323762,2015-01-24 0:21:17,0,Aerous,CA,Guy,captin1,Rizia,,,1182,0
+x,,1131716,2015-01-25 4:01:17,2,Come[Back]Home,DE,dkun,Natteke,galvenize,,,1183,2
+x,,3826105,,0,kristi71111,SI,,,,,,1184,0
+x,std,1255920,2015-01-26 21:21:19,0,Lost The Lights,AR,Gero,mancuso_JM_,Saten,,,1185,0
+x,,4028934,2015-01-27 16:20:48,2,Meyrink,MA,Silky,,,,,1186,2
+x,,2805457,2015-01-27 21:41:11,10,CiiyusMiapah,ID,,,,,,1187,10
+x,,1259391,2015-01-28 20:41:04,0,Eyenine,PH,Shiirn,grumd,LKs,,,1188,0
+x,,358287,2015-01-30 13:00:57,0,PEPOTTI,JP,Ekoro,RLC,Sylith,,,1189,0
+x,,1646397,2015-01-30 21:01:11,0,Crystal,CN,Skystar,RLC,Laurier,,,1190,0
+x,,637635,,0,Citrus,CN,,,,,,1191,0
+x,,3529515,,0,Skyhmer,CA,,,,,,1192,0
+x,,2693954,2015-02-02 1:01:31,0,[ Joey ],US,Broccoly,Skystar,ProfessionalBox,,,1193,0
+x,,3048059,2015-02-10 3:01:25,0,Neil Watts,FR,Kite,Cherry Blossom,Ekoro,,,1194,0
+x,,2689933,2015-02-12 5:01:19,0,Jethh,FR,grumd,galvenize,Frostmourne,,,1195,0
+x,,284905,2015-02-13 5:41:21,4,Ekoro,FR,Muya,RLC,Lesjuh,,,1196,4
+x,,3799202,2015-02-13 7:01:10,3,Saut,DE,,,,,,1197,3
+x,,3650145,2015-02-17 0:01:41,2,Asahina Momoko,JP,Skystar,fanzhen0019,Cherry Blossom,,,1198,2
+x,,670365,2015-02-17 16:40:44,1,Frobe,KR,Nakagawa-Kanon,NatsumeRin,val0108,,,1199,1
+x,,3720242,2015-02-21 8:40:14,2,guineaQ,KR,galvenize,Frostmourne,Deif,,,1200,2
+x,,1269067,2015-02-22 11:40:15,3,PinkHeart,CN,,,,none,,1201,3
+x,,2070688,2015-02-23 5:20:14,1,AIR,CN,tsuka,LKs,ignorethis,,,1202,1
+x,std,1740102,,0,Manuxz,AR,,,,,,1203,0
+x,,1572385,2015-03-01 13:00:14,0,Nhawak,BR,Kuron-kun,Skystar,ProfessionalBox,,,1204,0
+x,dead,3283689,,0,Winek,SN,,,,,,1205,0
+x,,487668,2015-03-05 0:20:14,1,ShiraKai,JP,,,,,,1206,1
+x,,3549204,,0,Haneure,US,,,,,,1207,0
+x,,887358,,0,Ranger,KR,,,,,,1208,0
+x,,482120,,0,Homura-,JP,,,,,,1209,0
+x,,1482115,2015-03-07 19:00:14,0,CSAQ,TW,Alace,RLC,fanzhen0019,,,1210,0
+x,,2345078,2015-03-08 15:40:15,1,Krimek,DE,Smoothie,-Famous-,Avena,,,1211,1
+x,,2675027,2015-03-12 13:00:14,0,CSLM,VE,jonathanlfj,Jounzan,-kevincela-,,,1212,0
+x,,614413,2015-03-12 23:00:15,0,YellowManul,EE,Ayu,Birdy,Bakari,,,1213,0
+x,,2907237,2015-03-16 2:40:15,0,Marmowka,RU,fergas,Bakari,Shadren,,,1214,0
+x,,1205412,2015-03-10 1:01:20,2,Fushimi Rio,CN,Hinacle,PinkHeart,lkx_Shore,,,1214.5,2
+x,,2706438,2015-03-21 8:40:15,92,Monstrata,CA,,,,,,1215,92
+x,hard+,3255055,,0,Arcubin,ID,Frostmourne,HelloSCV,Bakari,,,1216,0
+x,,3896865,2015-03-22 0:20:16,1,Euny,KR,Natsu,HabiHolic,nold1702,,,1217,1
+x,,4453280,2015-03-24 5:40:16,2,Aiceo,LT,Asphyxia,RLC,handsome,,,1218,2
+x,,1741295,2015-03-25 0:20:15,0,kunka,JP,P A N ,Umi,Momochikun,,kunkakunkakunkakunka,1219,0
+x,,2942381,2015-03-30 0:40:15,10,Mazzerin,LT,pishifat,GoldenWolf,Skystar,,,1220,10
+x,,542498,2015-03-31 0:20:14,6,caren_sk,JP,val0108,gowww,galvenize,,,1221,6
+x,,2003950,,0,Adol Christin,GB,,,,,,1222,0
+x,,4063598,2015-04-05 0:20:15,0,-[Hikari]-,CN,Guy,IamKwaN,Flower,,,1223,0
+x,,5241661,,0,zj0924,CN,,,,,,1224,0
+x,,3262377,2015-04-10 13:40:14,0,Ipas,ID,Laurier,Niva,Rizia,,NewIpas,1225,0
+x,,2730086,2015-04-11 0:20:14,3,Naitoshi,US,Rue,La Cataline,Jounzan,,,1226,3
+x,,939316,2015-04-14 17:20:14,0,FlobuFlobs,DE,Niva,tsuka,,,,1228,0
+x,,3748189,2015-04-18 5:00:14,0,Nekomata,CA,Giralda,Shadren,Irreversible,,,1229,0
+x,,1623405,2015-04-19 8:00:14,7,Okoratu,DE,La Cataline,grumd,Reiji-RJ,,,1230,7
+x,,4323406,2015-04-20 0:20:15,4,VINXIS,CA,dsco,deetz,RLC,,,1231,4
+x,,2304063,2015-04-21 2:20:17,1,CrystilonZ,TH,P A N ,KantoKun,Left,,,1232,1
+x,,580925,2015-04-23 13:40:13,0,BluOxy,JP,RLC,Nakagawa-Kanon,Snow Note,,,1233,0
+x,,2633955,,0,Peachtrees,DE,,,,,,1234,0
+x,,1843939,2015-05-04 0:20:16,0,wendao,ID,Kloyd,-kevincela-,Muya,,,1235,0
+x,,4458550,,0,Del05,ID,,,,,,1236,0
+x,,3610934,,0,nadapan,SE,,,,,,1238,0
+x,,1686145,2015-05-01 0:40:15,2,Len,KR,,,,,,1239,2
+x,,3592149,2015-05-11 21:00:15,1,Kocari,US,Andrea,Umi,,,,1240,1
+x,,1776055,,0,JJburstOwO,AU,,,,,,1241,0
+x,,2202163,2015-05-21 12:00:14,2,-Mo-,GB,Satellite,Skystar,Hollow Wings,,,1242,2
+x,,1855540,2015-05-22 4:20:14,1,Theaceae,US,fanzhen0019,yf_bmp,ProfessionalBox,,Smoothie World,1243,1
+x,,684433,2015-05-26 4:40:15,0,taku,NL,fanzhen0019,HanzeR,Skystar,,,1244,0
+x,,3109248,2015-05-28 6:20:14,0,lit120,ID,Andrea,Natsu,Monstrata,,,1245,0
+x,,986714,2015-06-03 14:00:14,0,sodarose,CN,Laurier,Fycho,IamKwaN,,,1246,0
+x,,1231762,2015-06-03 22:40:14,1,ak74,CN,nold_1702,rrtyui,fanzhen0019,,ak74qbz95xm8,1247,1
+x,,2732340,2015-06-07 1:40:14,12,Taeyang,KR,Rugure,Aqo,Amai Chocolate,,,1248,12
+x,,5682273,,0,AsakuraNe,PH,,,,,,1249,0
+x,,3158845,,0,4anke,CN,,,,,,1250,0
+x,,2121386,,0,Danny,US,,,,,,1251,0
+x,,1945090,2015-06-15 23:20:14,4,DreaM117er,TW,Fycho,Rizia,Sandpig,,,1252,4
+x,,1501974,2015-06-17 6:00:14,0,Rukaru,ID,Glass,Fycho,cRyo[iceeicee],,,1253,0
+x,,3528699,2015-06-30 7:20:14,0,Blizs,ID,RLC,Prayer,jonathanlfj,,Fantastica,1254,0
+x,std,4879508,,0,JBHyperion,GB,W h i t e,MrSergio,sjoy,,,1255,0
+x,,4785223,2015-07-04 1:55:25,14,Nathan,US,Laurier,RLC,,,,1256,14
+x,,3597118,2015-07-06 5:40:14,1,XeroiZi HD,ID,Charles445,Natteke,fanzhen0019,,,1257,1
+x,dead,2558570,,0,A Mystery,BE,,,,,,1258,0
+x,,1957638,2015-07-21 23:20:14,0,-Sh1n1-,PE,Monstrata,HabiHolic,appleeaterx,,,1259,0
+x,,1375520,,0,Sister Jude,TR,Bakari,Mao,Natsu,,,1260,0
+x,,3178411,2015-07-23 10:00:14,9,Kencho,HK,,,,,,1261,9
+x,,3962668,2015-07-23 18:40:14,2,Modem,ID,Monstrata,pishifat,Kalibe,,,1262,2
+x,,4360287,2015-07-24 23:00:16,0,Enjoy,TW,Skystar,Rizia,happy30,,,1263,0
+x,,2848604,2015-07-28 11:40:15,7,toybot,US,RLC,winber1,Jounzan,,,1264,7
+x,,3280555,,0,Hakurei Yoru,CN,,,,,,1265,0
+x,,4674054,2015-08-06 0:20:14,8,byfar,US,Skystar,Bonzi,handsome,,,1266,8
+x,,3495259,2015-08-08 0:40:14,9,Bearizm,ID,Guy,Fycho,Mythol,,,1267,9
+x,,1872496,2015-08-19 17:20:14,7,Meg,JP,iyasine,cRyo[iceeicee],Fycho,,,1268,7
+x,,5139042,2015-08-21 1:20:15,0,MkGuh,BR,Andrea,Gero,,,,1269,0
+x,hard+,3800920,,0,Lethargy,CZ,,,,,,1270,0
+x,,317494,,0,Mikkuri,TH,,,,,,1271,0
+x,,2500099,2015-08-22 17:20:14,0,Rokkea,SG,Niva,Jounzan,toybot,,,1272,0
+x,,4581039,,0,Lama Poluna,RU,,,,,,1273,0
+x,,2396290,2015-08-27 8:40:13,0,BrianTheDrummer,NL,Silverboxer,val0108,pishifat,,,1274,0
+x,,2046893,2015-09-03 22:20:50,2,Doyak,KR,guineaQ,Taeyang,Sonnyc,,,1275,2
+x,,3850859,2015-09-08 17:21:05,0,Lavender,CN,Skystar,RLC,fanzhen0019,,,1276,0
+x,,1407516,2015-09-09 22:20:20,0,-N a n a k o-,HK,DJPop,Mismagius,Snow Note,,,1277,0
+x,,5400261,2015-09-11 5:00:25,0,Lumael,BR,Hollow Wings,pkhg,pishifat,,,1278,0
+x,,1787171,2015-09-15 1:00:38,2,Rumia-,MY,Skystar,Nathan,RLC,,,1279,2
+x,,3117313,2015-09-15 9:00:44,0,Squigly,US,Guy,Jenny,Flower,,,1280,0
+x,,2233878,2015-09-18 7:40:53,4,moph,NZ,RLC,Skystar,Kloyd,,,1281,4
+x,,1949710,2015-09-26 1:00:25,1,Misure,CN,Karen,Koiyuki,Shad0w1and,,,1282,1
+x,,987334,2015-09-30 2:40:15,0,Bonsai,AT,Mismagius,,,,,1283,0
+x,,3821342,2015-10-01 3:00:16,0,Yoges,IE,,,,none,,1284,0
+x,,2773526,2015-10-10 19:00:06,3,Xexxar,US,RLC,Broccoly,caren_sk,,,1285,3
+x,,1816779,2015-10-13 14:40:14,0,z1085684963,CN,Skystar,ak74,,,,1286,0
+x,,2849992,2015-10-13 14:40:38,1,Garden,CN,Karia,Koiyuki,ShiraKai,,,1287,1
+x,,2043401,2015-10-14 1:21:09,0,Enon,KR,Startrick,jieusieu,Nakagawa-Kanon,,,1288,0
+x,,4761930,,0,Spaghetti,AR,,,,,,1289,0
+x,,1475828,2015-10-19 16:41:10,2,walaowey,MY,Monstrata,Taeyang,Meg,,,1290,2
+x,,2533040,2015-10-20 17:00:16,1,Bara-,NL,val0108,Gero,,,baraatje123,1291,1
+x,,2353313,,0,Sangzin,KR,,,,,,1292,0
+x,,3935174,2015-10-26 14:21:22,0,Depths,US,Skystar,cRyo[iceeicee],RLC,,,1293,0
+x,,3087506,2015-10-26 19:01:07,0,JeZag,US,fanzhen0019,RLC,sionKotori,,,1294,0
+x,hard+,1966909,,0,DropTimes,KR,,,,,,1295,0
+x,,2226083,,0,arronchu1207,TW,,,,,,1296,0
+x,,5384962,2015-10-31 20:40:14,0,Lily Bread,CN,jonathanlfj,Karen,Xinely,,,1297,0
+x,,1313969,2015-11-01 21:00:43,2,Bonzi,IT,Skystar,Mirage,byfar,,,1298,2
+x,,3565813,2015-11-01 21:01:26,0,Kyle Y,HK,Starfy,Walaowey,Firus Mistlud,,,1299,0
+x,,3860376,,0,SrSkyPlayer,BR,,,,,,1300,0
+x,,405449,2015-11-07 12:20:20,1,BOUYAAA,FR,pishifat,Irreversible,kiddly,,,1301,1
+x,,3626063,2015-11-07 23:00:35,1,Beomsan,KR,Taeyang,Morinaga,handsome,,,1302,1
+x,,3583061,2015-11-08 4:20:41,2,Alheak,FR,GoldenWolf,Akali,Avena,,,1303,2
+x,dead,3518735,,0,Kuki,NZ,,,,,,1304,0
+x,,896613,2015-11-13 0:40:33,17,Lasse,DE,PinkHeart,Skystar,,,,1305,17
+x,,2212938,,0,-Maruk-,JP,,,,,,1306,0
+x,,1545563,,0,Anze,BR,,,,,,1307,0
+x,,3315647,,0,Wing My Way,CN,Skystar,,,,,1308,0
+x,,1118341,2015-11-16 15:20:36,0,Jonimay,DE,Monstrata,Guy,Rizia,,,1309,0
+x,,1124144,2015-11-18 2:20:42,0,phaZ,DE,KanbeKotori,galvenize,NatsumeRin,,,1310,0
+x,,798668,2015-11-18 7:40:27,2,Shad0w1and,CN,Laurier,jonathanlfj,DreaM117er,,,1311,2
+x,,1916181,2015-11-20 8:20:24,0,BoatKrab,TH,W h i t e,RLC,toybot,,,1312,0
+x,,3683794,2015-11-21 3:20:10,0,Zerss,FR,Shadren,-M4x,Hula,,,1313,0
+x,,2971837,2015-11-22 3:40:09,2,Strategas,LT,pishifat,Monstrata,Skystar,,,1314,2
+x,,3056732,2015-11-22 3:40:35,0,Rizen,NZ,Silleth,moph,Broccoly,,,1315,0
+x,,4341302,2015-11-23 4:00:27,1,HootOwlStar,MY,HelloSCV,Luanny,Bakari,,,1316,1
+x,,2594097,2015-11-23 9:20:05,0,Zectro,NL,Jounzan,Avena,RLC,,,1317,0
+x,,4841608,2015-11-24 4:20:13,0,ReFaller,PL,Kyshiro,La Cataline,Reiji-RJ,,,1318,0
+x,hard+,5525001,2015-11-24 9:40:11,0,George,US,Larto,Mismagius,Cancel,,,1319,0
+x,,5591315,2015-11-24 15:20:20,0,CaffeAmericano,KR,eINess,Frostings,mr tribble,,,1320,0
+x,,4075595,2015-11-28 11:00:12,0,Yohanes,ID,Frostmourne,Delis,Satellite,,,1321,0
+x,,899031,2012-08-04 19:20:43,4,Lami,KR,Rizia,Monstrata,Fycho,,,1322,4
+x,hard+,4201807,2015-11-30 20:00:30,0,TheOnlyLeon,CA,Hollow Wings,Irreversible,[ Scarlet ],,,1323,0
+x,,2522275,2015-12-01 20:20:07,1,Voli,NL,ProfessionalBox,Irreversible,Raikozen,,,1324,1
+x,,3442339,2015-12-06 8:20:15,0,Side,MX,fanzhen0019,buhei,AngelHoney,,,1325,0
+x,,2175201,2015-12-07 22:20:58,1,-Faded-,GB,,,,,,1326,1
+x,,4715762,2015-12-10 21:40:12,2,FCL,RU,fergas,RLC,Aiceo,,,1327,2
+x,,6701398,2015-12-11 1:00:08,1,Marianna,BR,,,,,,1328,1
+x,,4452992,2015-12-14 5:00:38,14,Sotarks,FR,Okoratu,appleeaterx,Kalibe,,,1329,14
+x,,1557955,2015-12-14 11:20:16,0,Nerova Riuz GX,TW,,,,,,1330,0
+x,,3492472,,0,Aia,FI,,,,,,1331,0
+x,,3230571,2015-12-18 6:20:17,4,Doormat,CA,Little,Nathan,Rizia,,,1332,4
+x,,5780125,,0,Aihuro,ZA,,,,,,1333,0
+x,,3716999,2015-12-18 23:00:04,0,Arf,US,Frostmourne,saymun,Lesjuh,,,1334,0
+x,,3206945,2015-12-19 0:20:24,2,Rohit6,IN,Jenny,fanzhen0019,RLC,,,1335,2
+x,,4561368,2015-12-20 0:40:12,1,Anxient,ID,Akali,Xexxar,Shiro,,,1337,1
+x,hard+,4899898,2015-12-22 1:20:23,0,ayygurl,CH,StarrStyx,XeroiZi HD,,,,1338,0
+x,,4746949,2015-12-23 5:00:19,0,[C u r i],KR,Taeyang,Kalibe,Beomsan,,,1339,0
+x,,5392762,2015-12-25 5:40:11,1,Arphimigon,GB,Mismagius,Jenny,RLC,,,1340,1
+x,,3053382,2015-12-26 2:40:25,0,Fuccho,DK,Skystar,Jounzan,RLC,,,1341,0
+x,,1634445,2015-12-27 3:00:16,3,Morinaga,KR,N a s y a,RLC,Pokie,,Dailycare,1342,3
+x,,176044,2015-12-27 6:20:37,0,Axey,CN,kioukiou,Shinxyn,tieff,,,1343,0
+x,,4037545,2015-12-28 6:40:05,1,Battle,US,Guy,Frostmourne,HelloSCV,,,1344,1
+x,,5286213,2015-12-30 16:41:06,0,Deppyforce,TH,Axarious,CiiyusMiapah,Hollow Wings,,,1345,0
+x,,5069490,2016-01-04 4:20:33,4,Silky,JP,Meyrink,Morinaga,Rizia,,fuyuyu-,1346,4
+x,,3111087,2016-01-11 2:41:26,0,Asserin,PL,Krfawy,wa_,,,,1348,0
+x,,3971283,2016-01-13 8:40:24,0,Shiny-,US,,,,,,1349,0
+x,,5420611,2016-01-15 6:01:12,0,Rave-up,CA,,,,,,1350,0
+x,,4600383,2016-01-15 17:40:48,2,StarrStyx,HK,Skystar,yf_bmp,rrtyui,,,1351,2
+x,,6203841,2016-01-19 6:00:28,4,Kagetsu,CL,Guy,Rizia,Meyrink,,,1352,4
+x,,1869764,2016-01-22 13:20:25,0,ErunamoJAZZ,CO,Mafiamaster,La Cataline,Chaoslitz,,,1353,0
+x,dead,6653832,,0,BigEarsMau,ID,,,,,,1354,0
+x,,2954693,2016-01-23 5:20:44,0,Stjpa,DE,Come[Back]Home,Shiirn,Irreversible,,,1355,0
+x,,2919725,2016-01-29 4:20:46,0,Mazziv,AT,caren_sk,NatsumeRin,Shiirn,,,1356,0
+x,,874891,2016-01-29 12:20:34,0,gxytcgxytc,CN,Flower,Gamu,,,,1357,0
+x,,2581696,2016-02-01 7:01:14,4,MrSergio,IT,,,,none,,1358,4
+x,,4694602,2016-02-01 18:20:37,0,Down,KR,RLC,Skystar,Morinaga,,,1359,0
+x,,4571914,2016-02-05 20:40:49,1,Feb,DE,pishifat,Saut,Skystar,,,1360,1
+x,,3420746,2016-02-10 4:40:45,0,Vert,CN,Karen,Zweib,yf_bmp,,,1361,0
+x,,1014222,2016-02-11 0:41:29,0,eLy,JP,Kagetsu,Skystar,RLC,,,1362,0
+x,,1941130,2016-02-11 11:00:37,2,wasin,TH,W h i t e,Natsu,Milan-,,,1363,2
+x,,3107791,2016-02-11 10:00:48,0,Mikii,GB,RLC,Crier,toybot,,,1364,0
+x,,5248582,2016-02-13 21:00:28,0,Namki,EE,Sieg,Skystar,Kamio Misuzu,,,1365,0
+x,,2241058,2016-02-16 10:20:10,1,Hula,GB,galvenize,Luanny,,,,1366,1
+x,,3411824,2016-02-17 1:00:12,1,Maakkeli,FI,Mazzerin,pishifat,Okoratu,,,1367,1
+x,,2686293,2016-02-21 7:20:11,0,WORSTPOLACKEU,SE,Skystar,Lasse,Asphyxia,,,1368,0
+x,,2099102,2016-02-23 4:20:19,1,Little,CA,Laurier,cRyo[iceeicee],Rizia,,,1369,1
+x,,1367296,,0,Poggo,RU,,,,,,1370,0
+x,,6339790,2016-02-27 0:00:29,0,wajinshu,UA,Kiiwa,Beren,NatsumeRin,none,,1371,0
+x,,2013571,2016-03-01 12:00:18,0,KittyAdventure,ID,- Frontier -,Error-,SyraxAxoJaxco,,,1372,0
+x,,962837,,0,__Ag,CN,,,,,,1373,0
+x,,2140676,2016-03-02 12:20:24,0,Smokeman,DE,val0108,cRyo[iceeicee],dqs01733,,,1374,0
+x,,2075211,2016-03-02 23:20:38,0,Gear,US,Rizia,Guy,Monstrata,,,1375,0
+x,,4625954,2016-03-06 13:15:42,0,xDarxen,GR,Theaceae,ProfessionalBox,RLC,,,1376,0
+x,,443031,2016-03-10 2:00:39,4,09kami,CN,captin1,Kloyd,Hollow Wings,,,1377,4
+x,,6149313,2016-03-18 21:00:13,2,Pata-Mon,CN,,,,none,,1378,2
+x,,3656068,2016-03-20 0:21:10,0,ohad1881,IL,lahphnya,CiiyusMiapah,,,,1379,0
+x,,7380793,2016-03-20 13:40:41,0,Welpe,RU,RLC,Shadren,Nokris,,,1380,0
+x,,3376777,2016-03-21 16:40:23,9,Kalibe,PL,Delis,Mirash,Kibbleru,,,1381,9
+x,,814328,2016-03-24 17:00:37,1,-Famous-,DE,galvenize,RLC,Krimek,,,1382,1
+x,,3414541,2016-03-28 2:00:10,0,Vell,DE,RLC,Hollow Wings,,,,1383,0
+x,,3805795,,0,Slick,NO,,,,,,1384,0
+x,std,4598966,,0,Intelli,US,,,,,,1385,0
+x,,3996979,2016-04-07 22:40:34,0,- Milhofo -,PT,Guy,CiiyusMiapah,pishifat,,,1386,0
+x,,5504231,2016-04-10 13:20:40,0,Shmiklak,UZ,Slayed,Monstrata,handsome,,,1387,0
+x,,3638005,2016-04-13 3:00:04,0,Riven,GR,Laurier,Guy,Skystar,,,1388,0
+x,,2498731,2016-04-16 17:20:46,0,chucentry,AR,Laurier,Meg,cRyo[iceeicee],,,1389,0
+x,,2193723,2016-04-21 21:00:26,0,Moa,KR,guineaQ,Taeyang,Doyak,,,1390,0
+x,hard+,5816501,2016-04-25 8:00:17,0,Hpocks,US,,,,none,,1391,0
+x,std,3793769,2016-05-02 0:20:09,0,Prophecy,HK,Regraz,IamKwaN,Chaoslitz,,,1392,0
+x,,6485263,2016-05-03 17:20:26,0,Electoz,TH,Rakuen,09kami,,,,1393,0
+x,hard+,3959601,,0,Bathory Witch,PL,,,,,,1394,0
+x,,625988,2016-05-11 4:40:25,0,Yuria,KR,Lami,Momoka,Len,,,1395,0
+x,std,3620963,,0,liaoxingyao,CN,,,,,,1396,0
+x,,2116792,2016-05-19 6:00:39,1,FreeSongs,CA,Hollow Wings,tsuka,fanzhen0019,,,1397,1
+x,,3807986,2016-05-21 7:00:10,0,Shurelia,ID,Saten,Mir,Narcissu,,,1398,0
+x,hard+,4956938,2016-05-22 10:20:31,1,AmigoDoChroome,BR,,,,,,1399,1
+x,,5318910,2016-05-23 3:00:36,1,sahuang,AU,Shadren,Kencho,,,,1400,1
+x,,2506267,2016-05-24 0:20:26,2,SnowNiNo_,TW,Monstrata,Sotarks,Nathan,,,1401,2
+x,,849555,,0,Dino99,TW,,,,,,1402,0
+x,,1715876,2016-05-25 11:20:18,0,Zexous,US,RLC,val0108,Okoratu,,,1403,0
+x,,2217628,2016-06-08 19:20:49,0,xChorse,LT,CiiyusMiapah,Bearizm,FreeSongs,,,1404,0
+x,,6204933,,0,Janpai,PH,,,,,,1405,0
+x,,2339768,2016-06-13 6:40:12,5,Kroytz,US,,,,none,,1406,5
+x,,5062061,2016-06-13 21:40:14,8,Left,KR,Sonnyc,handsome,,,,1407,8
+x,,3772301,2016-06-14 0:00:13,0,Haruto,ID,Ichigaki,Julie,Monstrata,,,1408,0
+x,,6753180,2016-06-15 11:40:35,0,Underforest,MX,Doormat,Monstrata,Gero,,,1409,0
+x,,2652543,2016-06-20 15:20:33,2,Frostings,CA,Nyquill,RLC,EvilElvis,,,1410,2
+x,,6333728,2016-06-21 19:40:24,0,Binguo,CN,Narcissu,fanzhen0019,,,,1411,0
+x,,5572371,2016-06-22 13:01:48,1,Exa,GR,,,,,,1412,1
+x,,7379339,,0,WISPG_G,RU,,,,,,1413,0
+x,,4858573,2016-06-28 4:20:41,1,Syph,NL,Xexxar,Settia,Left,,,1414,1
+x,,4729546,2016-07-01 22:40:15,2,vick,AR,,,,,,1415,2
+x,hard,4534639,2016-07-02 6:20:06,0,Weegle,US,,,,none,,1416,0
+x,,4442006,,0,HappyRocket88,CO,,,,,,1417,0
+x,,2737871,2016-07-07 7:00:09,0,Momizi,CN,Skystar,Hollow Wings,09kami,,,1419,0
+x,,2601947,2016-07-12 16:00:20,0,MokouSmoke,US,cRyo[iceeicee],Laurier,Jounzan,,,1420,0
+x,,2286528,2016-07-13 9:00:52,1,- G I D Z -,HK,Skystar,Rizia,Nathan,,,1421,1
+x,,4287454,2016-07-13 10:00:12,0,DavidEd,SE,Kite,Damnae,galvenize,,,1422,0
+x,,1652478,2016-07-13 19:20:32,0,-Kanzaki,DE,Lan Wings,Natteke,Broccoly,,,1423,0
+x,hard,5164289,,0,Inversal,TH,Monstrata,Skystar,Backstep,,,1424,0
+x,,2139130,2016-07-16 19:20:25,0,[Kamiya],KR,Monstrata,ProfessionalBox,sahuang,,,1425,0
+x,,1244312,2016-07-17 0:20:08,0,Gust,CN,DaRRi,Alace,Hinacle,,Ultimate Madoka,1426,0
+x,,5156153,2016-07-17 13:00:53,1,DeRandom Otaku,PK,Monstrata,ProfessionalBox,Skystar,,,1427,1
+x,,3131236,2016-07-19 0:20:15,0,kanor,CN,Kencho,Hollow Wings,,,,1428,0
+x,,4754771,2016-07-19 14:00:49,12,-Laura-,PH,Guy,Rizia,Skystar,,Akitoshi,1429,12
+x,,2127359,2016-07-22 3:40:59,3,Akali,PL,rrtyui,Aqo,RLC,,,1430,3
+x,,2559349,,0,Exile-,PL,,,,,,1431,0
+x,,4607719,2016-08-02 16:40:14,1,-M4x,DE,Irreversible,HanzeR,,,,1432,1
+x,,2490770,,0,Cellina,KR,,,,,,1433,0
+x,,3099689,2016-08-03 17:00:24,0,Xilver,IL,Hollow Wings,NatsumeRin,Skystar,,,1434,0
+x,,747356,2016-08-05 2:20:02,1,K i A i,KR,,,,,,1435,1
+x,,7452237,2016-08-09 13:20:16,0,Pentori,AU,RLC,toybot,Kibbleru,,,1436,0
+x,,4299356,2016-08-09 18:40:07,0,_MiaoFUuU_,CN,Skystar,,,,,1437,0
+x,hard,6100837,2016-08-10 6:20:06,0,Imakuri,FR,Pereira006,Nozhomi,Irreversible,,,1438,0
+x,,8033748,,0,Moester,TW,,,,,,1439,0
+x,,4835997,2016-08-14 0:00:24,1,CookieBite,HK,ice08311,Gero,Natsu,,,1440,1
+x,,3653035,2016-08-14 22:00:10,0,Jonawaga,US,Andrea,ztrot,,,,1441,0
+x,,2345298,2016-08-14 22:40:10,0,Hanazawa Kana,CN,Asahina Momoko,Rumia-,Left,,,1442,0
+x,dead,879224,2016-08-16 0:20:17,0,Artavia,KR,Jounzan,Frobe,RLC,,,1443,0
+x,,3737694,2016-08-18 6:00:20,0,diraimur,TR,Arphimigon,Lan Wings,Skystar,,,1444,0
+x,,4369739,2016-08-24 1:01:21,0,Yunomi,CA,RLC,Skystar,Lasse,,,1445,0
+x,,5379679,2016-08-27 21:00:17,0,ProEzreal,KR,those,pishifat,,,,1446,0
+x,,2813864,2016-08-29 1:20:20,0,Girl,CA,VINXIS,RLC,Sing,,,1447,0
+x,,7989641,2016-09-01 12:20:20,0,Fanteer,RU,CiiyusMiapah,handsome,pishifat,,,1448,0
+x,,1886524,2016-09-05 17:20:09,0,Cerulean Veyron,AE,,,,,,1449,0
+x,,4668230,2016-09-07 1:20:33,0,Hazu-,CL,Kencho,Linada,Karia,,,1450,0
+x,,5334250,2016-09-07 17:20:13,0,6th,FR,fanzhen0019,Irreversible,Avena,,,1451,0
+x,,2528415,2016-09-08 18:00:42,0,Exote,BG,handsome,RLC,Avena,,,1452,0
+x,,3789276,2016-09-08 21:27:07,0,Hakura,NL,Mir,Damnjelly,LowComboFC,,HighTec,1453,0
+x,,4276114,2016-09-09 21:41:50,1,Kisses,GB,Rizia,Silky,DreaM117er,,,1454,1
+x,,6486831,2016-09-10 2:20:18,2,Yamicchi,VN,Regou,ProfessionalBox,handsome,,,1455,2
+x,,1360311,2016-09-11 18:40:23,0,Kasuga,ID,Niva,No_Gu,Natteke,,,1456,0
+x,,2427693,2016-09-11 22:20:11,0,[ -Scarlet- ],MY,Skystar,fanzhen0019,handsome,,,1457,0
+x,,3718151,2016-09-15 20:00:18,0,RVMathew,HK,MoonFragrance,Andrea,DJPop,,,1458,0
+x,,1380419,2016-09-15 20:20:52,0,Leaf,KR,Settia,jieusieu,Kagetsu,,,1459,0
+x,,4759935,2016-09-16 0:00:10,0,TheMefisto,RU,Bakari,FCL,,,,1460,0
+x,,5239047,2016-09-25 23:20:22,1,Linada,FR,Guy,Taeyang,,,,1461,1
+x,hard,6293158,2016-09-27 3:41:18,0,FailureAtOsu,US,pishifat,Monstrata,,,,1462,0
+x,,1945351,2016-09-28 8:20:47,0,Reol,KR,Muya,AngelHoney,NatsumeRin,,,1463,0
+x,,3919785,2016-09-30 0:40:10,0,iYiyo,CL,Bearizm,Monstrata,Natsu,,,1464,0
+x,hard,5087744,2016-10-02 1:40:39,0,Mapper,SE,Mazzerin,Mismagius,pishifat,,,1465,0
+x,,8144098,2016-10-03 5:40:10,0,Lilyanna,TN,ezek,Monstrata,Euny,,,1466,0
+x,,337485,2016-10-06 15:20:26,0,rs_fadeaway,CN,tsuka,kiddly,CSY the corrupt,,,1467,0
+x,,7371161,2016-10-08 15:40:28,1,N0thingSpecial,GB,Nathan,Monstrata,HanzeR,,,1468,1
+x,,3806893,2016-10-12 18:20:23,0,domSaur,PH,,,,none,,1469,0
+x,,8157492,2016-10-13 17:20:13,0,Hobbes2,US,appleeaterx,pkhg,Monstrata,,,1470,0
+x,,1888064,2016-10-15 19:20:35,0,Line-,KR,,,,,,1471,0
+x,,1799925,2016-10-16 19:40:15,0,Lazer,NL,Jounzan,fanzhen0019,sjoy,,,1472,0
+x,,3457553,2016-10-18 19:00:16,0,-NanoRIPE-,ID,-Laura-,Sotarks,Monstrata,,,1473,0
+x,,5174427,2016-10-27 1:40:15,0,DakiniBrave,AU,Starset,Taeyang,Monstrata,,,1474,0
+x,,3728904,2016-10-27 22:41:05,1,Cryptic,US,,,,,,1475,1
+x,,4541873,2016-10-28 22:20:32,0,Yukiyo,DE,Monstrata,,,,,1476,0
+x,,2959560,2016-10-31 1:20:06,0,Asaiga,VN,Rizia,Jounzan,sionKotori,,,1477,0
+x,hard,4230454,2016-11-01 15:41:03,0,Revialink,RU,-Laura-,Kencho,Kalibe,,,1478,0
+x,,3198109,2016-11-01 20:20:09,0,Ultima Fox,US,,,,,,1479,0
+x,,1603809,2016-11-02 2:00:26,0,CircleChu,UA,Louis Cyphre,Myxomatosis,pishifat,,,1480,0
+x,,2053450,2016-11-06 0:40:16,0,23konG,CN,Skystar,Hollow Wings,fanzhen0019,,,1481,0
+x,,2172778,2016-11-07 1:02:57,0,Cosmolade,CL,Gero,Natsu,Mir,,,1482,0
+x,,5999631,2016-11-16 3:20:20,1,Venix,PL,Taeyang,Lasse,Monstrata,,,1483,1
+x,,6480305,2016-11-17 22:40:12,0,MashaSG,RU,Monstrata,Kroytz,Sotarks,,,1484,0
+x,,4086497,2016-11-18 13:41:00,0,Hey lululu,TW,Skystar,RLC,pishifat,,,1485,0
+x,hard,6163744,2016-11-19 13:00:21,0,Togetic,US,Asphyxia,galvenize,pishifat,,,1486,0
+x,,1474421,2016-11-21 15:00:15,0,Kayne,IT,cRyo[iceeicee],La Cataline,happy30,,,1487,0
+x,,2225327,2016-11-22 13:20:10,0,Kaitjuh,NL,Mosntrata,Kencho,CrystilonZ,,,1488,0
+x,,2313166,2016-11-23 5:01:00,0,Kalindraz,BR,Cygnus,HanzeR,handsome,,,1489,0
+x,,6341262,2016-11-23 13:40:25,0,Logic Agent,US,Rizia,appleeaterx,Kagetsu,,,1490,0
+x,,1614839,2016-11-25 0:00:17,0,thzz,JP,Melophobia,cRyo[iceeicee],Rizia,,,1491,0
+x,,5115995,2016-11-25 7:40:29,1,A r M i N,DE,Monstrata,Sotarks,ztrot,,,1492,1
+x,,7149815,2016-11-25 11:21:15,1,Plaudible,US,Bearizm,Cryptic,ProfessionalBox,,,1493,1
+x,,6258586,2016-11-27 0:00:27,1,RyoKazuka,MY,Kyshiro,-kevincela-,Damnae,,,1494,1
+x,,5579871,2016-11-28 20:40:20,0,Agatsu,CA,Kalibe,Nevo,schoolboy,,,1495,0
+x,,3549913,2016-12-03 17:40:27,0,snowsign7,JP,iyasine,Jounzan,cRyo[iceeicee],,,1496,0
+x,,3533958,2016-12-04 17:01:22,0,fieryrage,US,pishifat,Mismagius,Kuron-kun,,,1497,0
+x,,1468261,2016-12-04 18:00:30,0,Eir,JP,Nanashima Asami,-Laura-,Silky,,,1498,0
+x,,6336713,2016-12-08 11:00:47,0,My Angel RangE,KR,Left,toybot,Len,,,1499,0
+x,,5580983,2016-12-09 9:00:14,0,FoxyGrandpa,US,ProfessionalBox,Monstrata,Battle,,,1500,0
+x,,2596942,2016-12-12 4:41:24,1,Kaifin,CA,fanzhen0019,yf_bmp,VINXIS,,,1501,1
+x,std,6410432,,0,Weber,AU,,,,,,1502,0
+x,,3795679,2016-12-25 12:40:22,2,Sing,CA,pishifat,handsome,rrtyui,,,1503,2
+x,,4732455,2016-12-28 9:00:29,0,Nuolong,US,Natsu,Pho,CiiyusMiapah,,,1504,0
+x,,2166762,2017-01-01 0:20:39,1,Silverboxer,US,Zapy,Aqo,Shiro,,,1505,1
+x,std,2931883,2017-01-05 18:01:29,0,Ascendance,US,captin1,Giralda,Slayed,,,1506,0
+x,,2589298,2017-01-06 2:00:25,0,deadpon3,PL,grumd,Mismagius,,,,1507,0
+x,hard,6181859,2017-01-11 10:00:20,0,100bit,RU,appleeaterx,Bakari,DTM9 Nowa,,,1508,0
+x,,1541323,2017-01-13 4:20:16,0,Noffy,US,Lanttu,Krisom,NatsumeRin,,,1509,0
+x,,5428909,2017-01-15 11:20:40,1,DTM9 Nowa,FI,HanzeR,Kaifin,val0108,,,1510,1
+x,,4378277,2017-01-27 11:40:21,0,Log Off Now,GB,Starset,Bearizm,Kibbleru,,,1511,0
+x,hard,1721120,2017-01-27 13:00:25,1,Renumi,PR,-kevincela-,iyasine,RLC,,,1512,1
+x,,5171995,2017-01-27 16:40:09,0,Ora,US,-kevincela-,handsome,Naitoshi,,,1513,0
+x,,4044376,2017-01-29 7:00:25,0,Toyosaki Aki,JP,Fycho,Skystar,,,,1514,0
+x,,5262493,,0,Worminators,FR,,,,,,1515,0
+x,,6066359,2017-01-30 12:40:45,0,_Yiiiii,CN,Jounzan,09kami,,,,1516,0
+x,hard,4119110,2017-01-31 7:40:09,1,SyraxAxoJaxco,ID,,,,,,1517,1
+x,std,1881639,2017-02-01 8:00:17,0,Chromoxx,JP,Monstrata,Lasse,Natsu,,,1518,0
+x,,4789626,,0,SeaRasp,US,,,,,,1519,0
+x,,4403937,2017-02-07 22:20:34,1,Irohas,FR,Karia,appleeaterx,Milan-,,,1520,1
+x,hard,6794612,2017-02-09 23:00:16,1,Firetruck,SE,wasin,LeaK,Natsu,,,1521,1
+x,,6151332,2017-02-14 21:01:08,2,squirrelpascals,US,Mismagius,Sharkie,Irreversible,,,1522,2
+x,,3475189,2017-02-14 21:01:08,2,BarkingMadDog,NO,Guy,caren_sk,ProfessionalBox,,,1523,2
+x,,1101704,2017-02-14 21:01:08,0,Wishkey,BE,Modem,Moway,Lortus,,,1524,0
+x,,2261651,2017-02-16 0:20:24,0,William K,ID,Monstrata,handsome,Kibbleru,,,1525,0
+x,,4349223,2017-02-21 12:20:20,1,Sharkie,US,pishifat,pkk,Monstrata,,,1526,1
+x,,5297826,2017-02-23 20:40:20,0,Astarte,VN,HootOwlStar,[ Drop ],,,,1527,0
+x,,1587976,2017-02-25 6:20:23,0,Kenterz,FR,Foreverends,val0108,Skystar,,,1528,0
+x,,2850983,2017-02-27 2:00:34,0,Pachiru,FR,Gero,Monstrata,Left,,,1529,0
+x,hard,5431196,2017-02-27 3:40:33,1,Nokashi,GR,Monstrata,appleeaterx,Exa,,,1530,1
+x,,4438154,2017-03-02 14:40:05,0,Ellyu,CN,CiiyusMiapah,Mismagius,RLC,,handsome muscle,1531,0
+x,,4826159,2017-03-05 7:40:18,0,Chalwa,PL,ezek,squirrelpascals,Venix,,,1532,0
+x,,5407943,2017-03-11 23:21:47,0,vanucik,RU,NeilPerry,Shadren,,,,1533,0
+x,,5364763,2017-03-13 18:00:06,1,Nao Tomori,US,Monstrata,handsome,Nathan,,,1534,1
+x,,3172714,2017-03-13 20:20:08,0,Ambient,AU,jonathanlfj,moph,Shiirn,,,1535,0
+x,,7905848,2017-03-17 1:00:54,0,Asuka_-,JP,Momochikun,Zweib,Mythol,,,1536,0
+x,,2433720,2017-03-22 21:20:51,0,Firis Mistlud,HK,rrtyui,Left,Moecho,,KuranteMelodii,1537,0
+x,hard,5851253,2017-03-27 19:00:19,0,Lyawi,DE,Mao,Feerum,Myxomatosis,,,1538,0
+x,,2100434,,0,Santtu,FI,,,,,,1539,0
+x,,2445897,2017-04-01 19:15:27,4,Settia,JP,Skystar,BarkingMadDog,Taeyang,,,1540,4
+x,hard,2282098,,0,Ovoui,FR,,,,,,1541,0
+x,,4830261,2017-04-02 2:02:39,0,Seni,HR,Doormat,Saut,Xexxar,,,1542,0
+x,,423548,2017-04-03 0:01:38,0,Yasaija 714,JP,Guy,LKs,Nathan,,,1543,0
+x,,8722791,2017-04-13 13:20:06,2,schoolboy,EE,appleeaterx,,,,Komore,1544,2
+x,,4330511,2017-04-14 6:40:27,4,dsco,US,,,,none,,1545,4
+x,,8688812,2017-04-14 22:40:13,5,Mir,DE,,,,none,,1546,5
+x,,5337374,2017-04-20 1:40:27,2,Kyuukai,FR,Karen,Nathan,Monstrata,,,1547,2
+x,,2841009,2017-04-20 20:40:17,4,Mirash,RU,Delis,Jounzan,Rue,,,1548,4
+x,,4116573,2017-04-23 12:00:06,2,bor,US,Chloe,Kiiwa,Hollow Wings,,,1549,2
+x,,2045914,2017-04-26 0:20:14,2,Starfy,HK,,,,,,1550,2
+x,,2320429,2017-05-04 2:40:20,0,Hysteria,SE,meikyuu,Hollow Wings,GoldenWolf,,,1551,0
+x,hard,3806179,2017-05-13 11:00:24,0,-Space-,GB,pishifat,Shiirn,-Faded-,,,1552,0
+x,,5297447,2017-05-23 0:20:56,0,Sulfur,UA,Kloyd,kiddly,VINXIS,,Su1fu7,1553,0
+x,,408088,2017-05-22 1:20:42,2,Silleth,UY,NatsumeRin,Saten,RLC,,,1554,2
+x,,4811275,2017-05-23 22:00:14,0,Hikaru Rose,NL,rrtyui,pishifat,Avena,,,1555,0
+x,,7024544,2017-05-26 20:22:07,0,MrKosiej,PL,Mazzerin,Maakkeli,pkk,,,1556,0
+x,,7322726,2017-05-26 20:22:07,1,LowComboFC,GR,pishifat,RLC,Regou,,,1557,1
+x,,643394,2017-05-26 20:22:07,2,Snow Note,HK,Zapy,BarkingMadDog,Saten,,,1558,2
+x,,2845588,2017-05-26 20:22:07,0,XVoIR,PL,Mismagius,Monstrata,Krfawy,,,1559,0
+x,,275450,2017-05-29 0:20:10,1,Akareh,ES,,,,none,,1560,1
+x,,2036217,,0,Sidetail,CA,,,,,,1561,0
+x,,7968702,,0,Hikan,VN,,,,,,1562,0
+x,,4574165,2017-06-01 8:40:06,1,hi-mei,UA,Akali,Shiirn,Mazzerin,,,1563,1
+x,,7777875,2017-06-11 2:40:10,0,Ryuusei Aika,CN,Muya,tsuka,kiddly,,,1564,0
+x,,2836455,2017-06-12 10:40:13,0,tokiko,RU,Reiji-RJ,Leader,jonathanlfj,,,1565,0
+x,,4598899,2017-06-13 6:40:13,2,Halfslashed,US,Hollow Wings,Jounzan,bor,,,1566,2
+x,,5099768,2017-06-14 23:57:49,1,Net0,BR,DJPop,happy30,NatsumeRin,,,1567,1
+x,,5875419,2017-06-19 18:40:27,1,newton-,PH,Monstrata,RLC,Atalanta,,,1568,1
+x,,3767927,2017-06-20 6:40:41,0,Kyle73,CA,- Yoshimaro - ,,,,,1569,0
+x,,8554786,2017-06-22 21:40:45,1,Mentai,US,Left,moph,Laurier,,,1571,1
+x,,4696296,2017-06-25 9:40:11,1,celerih,CA,jonathanlfj,Jounzan,-kevincela-,,,1572,1
+x,,4682629,2017-06-30 14:00:43,0,Yahuri,US,Monstrata,Modem,,,,1573,0
+x,,2018960,2017-07-01 4:40:13,0,Finshie,PH,Monstrata,Guy,dsco,,,1574,0
+x,,1857063,2017-07-02 6:40:13,0,Shiranai,ID,IceBeam,Lesjuh,Niva,,,1575,0
+x,,7262798,2017-07-14 16:00:25,2,LMT,VN,Pho,BOUYAAA,pishifat,,,1576,2
+x,,4260033,2017-07-16 11:40:45,0,Zer0-,SE,Monstrata,Aiceo,Skystar,,,1577,0
+x,,6029467,2017-07-17 4:01:41,1,gary00737,HK,DreaM117er,Monstrata,spboxer3,,,1578,1
+x,,1974797,,0,RepL4y,JP,,,,,,1579,0
+x,hard,3053670,2017-07-21 21:40:25,0,Reazen,PL,Hollow Wings,Monstrata,Krfawy,,,1580,0
+x,hard/loved,6270995,2017-07-25 12:40:22,0,EijiKuinbii,RU,handsome,rrtyui,NeilPerry,,,1581,0
+x,,2523533,2017-07-25 21:40:15,3,UndeadCapulet,US,Hollow Wings,kakifly,AIR,,,1582,3
+x,,5710809,2017-07-26 1:20:17,0,Sakurauchi Riko,DE,-Laura-,09kami,Natsu,,,1583,0
+x,,1233255,2017-07-26 7:20:16,0,PandaHero,RU,Jounzan,Mirash,La Cataline,,,1584,0
+x,hard,8469647,,0,Uber,US,,,,,,1585,0
+x,,4334976,2017-07-27 1:40:16,0,Aeril,US,Monstrata,Naitoshi,UndeadCapulet,,,1586,0
+x,,3700647,2017-08-01 1:01:31,0,Cheesecake,GB,Monstrata,RyoKazuka,pishifat,,,1587,0
+x,,7319843,2017-08-01 2:21:08,0,_DT3,DE,Bara-,Skystar,Lasse,,,1588,0
+x,,4102249,2017-08-02 6:00:21,0,Drummer,EE,Monstrata,pishifat,Lasse,,,1589,0
+x,,6221637,2017-08-06 11:40:41,0,InternalLight,UA,Skystar,RLC,Jounzan,,,1590,0
+x,hard,6563295,2017-08-07 3:41:16,0,Tae,GB,Bakari,Firetruck,Natsu,,,1591,0
+x,,6885942,2017-08-09 13:20:22,0,h4d0uk3n1,RU,Hollow Wings,pishifat,,,,1592,0
+x,,2072005,2017-08-12 15:40:26,0,timemon,TH,Laurier,vick,pishifat,,,1593,0
+x,,6613136,2017-08-16 4:20:52,0,LeKhanhHoa,VN,LMT,Yamicchi,pishifat,,,1594,0
+x,,2740518,2017-08-18 16:00:31,0,Fenza,SE,Mazzerin,Jenny,RLC,,,1596,0
+x,,2743764,2017-08-18 20:21:44,0,0109-,VN,Fycho,Meg,Lasse,,,1597,0
+x,,5728295,,0,Shiratoi,US,,,,,,1598,0
+x,hard,1559983,2017-08-19 22:20:36,0,MrDorian,PL,Hollow Wings,,,,,1599,0
+x,,3523418,2017-08-26 0:02:10,0,sdafsf,DE,bor,Kroytz,handsome,,,1600,0
+x,,7228554,2017-08-27 0:40:44,0,Kirylln,VN,Lasse,Monstrata,LMT,,,1601,0
+x,,3170678,2017-08-28 14:40:16,0,Suzuki_1112,HK,Skystar,Hollow Wings,Moecho,,,1602,0
+x,,8202998,2017-08-29 23:40:47,0,Icebolt,US,pishifat,Monstrata,non-one,,,1603,0
+x,,4675839,2017-08-30 6:20:44,0,Underdogs,MY,Saut,SnowNiNo_,xLolicore,,,1604,0
+x,,3028729,2017-08-31 4:40:38,0,Ohwow,US,Monstrata,handsome,Nathan,,,1605,0
+x,hard,6263426,2017-09-01 16:00:21,0,Amamiya Kanade,CN,Regraz,Sun Rainbow,tutuhaha,,,1606,0
+x,,5016431,2017-09-02 5:21:00,0,walter85,IT,pishifat,RikiH_,,,,1607,0
+x,,6607303,2017-09-07 2:20:20,0,Hokichi,VN,Monstrata,Plaudible,Natsu,,,1608,0
+x,,5518021,2017-09-09 18:41:31,0,[ IWeenox ],FR,Monstrata,Natsu,ProfessionalBox,,,1609,0
+x,,4610047,2017-09-10 3:20:36,1,PoNo,FR,rrtyui,Ameth Rianno,byfar,,,1610,1
+x,,3885609,2017-09-12 4:01:19,0,Ongaku,US,Skystar,pkk,Strategas,,,1611,0
+x,,6136172,2017-09-16 21:00:27,0,-Aerith-,ID,Regraz,Gaia,Shizuku-,,,1612,0
+x,,2003326,2017-09-17 5:41:02,0,Emilia,SG,rrtyui,fanzhen0019,Kiiwa,,,1613,0
+x,,841391,2017-09-23 12:20:28,2,NeilPerry,RU,ProfessionalBox,byfar,Ameth Rianno,,,1614,2
+x,,3664366,2017-09-23 23:20:10,0,-Tochi,DK,Lan Wings,Skystar,cRyo[iceeicee],,,1615,0
+x,,2757426,2017-09-24 14:40:06,0,Jakomo73,US,-kevincela-,handsome,pishifat,,,1616,0
+x,,4930630,2017-09-25 8:20:09,0,C00L,GB,Nathan,ProfessionalBox,RLC,,,1617,0
+x,,2353423,2017-09-26 0:00:45,0,Sauziteoi,CN,La Cataline,pishifat,tsuka,,,1618,0
+x,,4689083,2017-09-28 14:00:08,0,Monarch,GB,byfar,Rohit6,RLC,,,1619,0
+x,,3990173,2017-09-30 1:20:27,0,Sebu,NO,Jounzan,-PC,handsome,,,1620,0
+x,,214187,,0,ExGon,KR,,,,,,1621,0
+x,,2466181,2017-10-03 18:00:17,0,Rin Desu,DE,pishifat,Parachute,Karen,,,1622,0
+x,,365586,2017-10-03 18:40:04,0,kwk,NZ,val0108,CelsiusLK,,,,1623,0
+x,,7501935,2017-10-04 2:40:28,0,nextplay,DE,-Laura-,-Aqua,Sotarks,,My Angel Kanan,1624,0
+x,,1588934,2017-10-04 18:00:16,1,Ametrin,CN,yf_bmp,rrtyui,pishifat,,,1625,1
+x,,6761853,2017-10-05 15:00:16,0,Jennglebells,US,Frostings,,,,,1626,0
+x,,7005780,,0,Metaku,FI,,,,,,1627,0
+x,,6398464,2017-10-08 13:01:10,2,bite you death,SE,Slayed,Monstrata,Gaia,,,1628,2
+x,,5223028,2017-10-08 19:22:33,0,Loreley,BY,Sotarks,hi-mei,Joe Castle,,,1629,0
+x,hard,2789905,2017-10-10 21:20:30,0,Gordon123,BY,ego_17,Gero,ezek,,,1630,0
+x,,6017319,2017-10-11 5:00:17,1,non-one,FI,ktgster,rustbell,Kloyd,,,1631,1
+x,,7882675,2017-10-12 17:20:02,0,lazyboy007,BE,GoldenWolf,Alheak,pishifat,,,1632,0
+x,,1125647,2017-10-15 18:20:08,1,Shizuku-,PH,Skystar,Monstrata,Settia,,,1633,1
+x,,2026274,2017-10-18 12:40:11,0,Bariton,BR,Lasse,PinkHeart,Fushimi Rio,,,1634,0
+x,,1933816,2017-10-18 13:20:14,0,-Rmdy,RU,Monstrata,MrSergio,,,,1635,0
+x,,5226970,2017-10-21 22:40:22,0,Hailie,US,,,,none,,1636,0
+x,,4060979,2017-10-23 5:40:41,0,Kotori-Chan,DE,Gero,Natteke,tutuhaha,,,1637,0
+x,,3906405,2017-10-30 5:20:08,0,TheKoala,BE,Monstrata,handsome,pishifat,,,1638,0
+x,,2786413,2017-10-30 20:02:39,0,Jacob,US,Bonzi,Skystar,fanzhen0019,,,1639,0
+x,,3161834,2017-11-01 0:20:11,0,Yugu,CN,Hollow Wings,handsome,,,,1640,0
+x,,5507645,2017-11-01 4:00:06,0,Suissie,CH,Jounzan,,,,,1641,0
+x,,6087314,2017-11-03 5:00:08,0,Zhuriel,CH,dsco,HanzeR,GoldenWolf,,,1642,0
+x,,4945926,2017-11-04 20:20:22,0,yaspo,BE,Halfslashed,Arnyxa,Hollow Wings,,,1643,0
+x,,5200881,2017-11-05 16:00:27,0,Testo,RU,Lasse,Mazzerin,handsome,,,1644,0
+x,,4960893,2017-11-07 6:00:49,0,Djulus,RU,Sotarks,schoolboy,Mirash,,,1645,0
+x,,3378391,2017-11-08 8:20:25,1,Error-,ID,Monstrata,Sotarks,A r M i N,,,1646,1
+x,,4314710,2017-11-09 6:40:30,2,- Frontier -,TH,[ Lost ],Ameth Rianno,Monstrata,,,1647,2
+x,,4890427,2017-11-11 3:20:12,1,Joe Castle,VE,Renumi,Wafu,Pereira006,,,1648,1
+x,,6699165,2017-11-11 22:00:40,1,Mun,US,Shiirn,Zetera,Okoratu,,,1649,1
+x,,4505479,2017-11-12 23:40:38,0,Shogud,CA,Skystar,Lasse,Nao Tomori,,,1650,0
+x,,4236057,2017-11-14 18:41:13,0,Sinnoh,SG,Delis,Frostmourne,-Mo-,,,1651,0
+x,,1759427,2017-11-18 6:00:09,0,felys,IT,Jounzan,Leader,Muya,,,1652,0
+x,,6186199,2017-11-26 18:00:21,0,Dubturt,PH,Laurier,litoluna,Fycho,,,1653,0
+x,,2063095,2017-11-27 14:00:21,0,hohol454,CZ,Mazzerin,pishifat,GoldenWolf,,,1654,0
+x,,1026904,2017-11-28 2:40:13,0,leo16834,TW,CookieBite,DreaM117er,gary00737,,,1655,0
+x,,4191702,2017-11-29 12:00:15,0,Veridian,US,Cherry Blossom,toybot,pishifat,,,1656,0
+x,,8623835,2017-11-30 7:00:17,1,Peter,PL,,,,none,,1657,1
+x,std,2774767,2017-12-01 8:20:22,0,tasuke912,JP,Monstrata,toybot,,,,1658,0
+x,,7354729,2017-12-01 22:01:25,0,- Matha -,HK,Starfy,- G I D Z -,bite you death,,,1659,0
+x,,2065771,2017-12-04 16:40:51,0,Hiicantpk,CA,Frostmourne,Doormat,pishifat,,,1660,0
+x,,6933054,2017-12-05 2:20:18,0,ailv,US,,,,none,,1661,0
+x,,5306970,2017-12-08 4:40:17,0,Shyotamaze,FR,N0thingSpecial,Rohit6,Kloyd,,,1662,0
+x,,7150015,2017-12-08 18:20:23,1,-Aqua,PH,newton-,StarrStyx,Kisses,,,1663,1
+x,,7451883,2017-12-09 12:00:37,1,Nevo,US,Monstrata,Kagetsu,Taeyang,,,1664,1
+x,,7293512,2017-12-10 14:40:16,0,Nitrous,PH,Doormat,Kibbleru,-Laura-,,,1665,0
+x,,7094147,2017-12-14 9:40:13,0,_orange,CA,Bearizm,Kyshiro,Voli,,,1666,0
+x,,4865030,2017-12-17 13:20:04,0,Fursum,TR,pishifat,Sotarks,Milan-,,,1667,0
+x,,1843224,2017-12-19 22:40:10,0,Moly,KR,Monstrata,pkk,Kalibe,,,1668,0
+x,,9579526,2017-12-24 5:40:13,0,cococolaco,CA,Kibbleru,Skystar,RLC,,,1669,0
+x,,5260915,2017-12-29 18:40:15,0,papapa213,CN,Ametrin,Pata-mon,buhei,,,1670,0
+x,,1235485,2018-01-01 19:40:25,1,pinataman,US,Mismagius,galvenize,rezoons,,,1671,1
+x,,2391299,2018-01-03 18:20:07,1,[ Drop ],HK,ProfessionalBox,RLC,Skystar,,,1672,1
+x,,2652951,2018-01-04 1:20:06,1,Trynna,BR,Delis,Kalibe,Kibbleru,,,1673,1
+x,,3256600,2018-01-04 23:00:06,0,Xenok,CH,Kibbleru,GoldenWolf,Sotarks,,,1674,0
+x,,6513356,2018-01-05 1:40:26,0,Dashyy-,US,pishifat,Milan-,Skystar,,,1675,0
+x,,6175280,2018-01-05 18:00:16,0,Cris-,CL,Meg,Gero,Monstrata,,,1676,0
+x,,8305062,2018-01-08 10:20:08,0,Opsi,US,Sing,byfar,ProfessionalBox,,,1677,0
+x,,360552,,0,Sinch,JP,,,,,,1678,0
+x,,8972308,2018-01-13 3:20:07,1,ScubDomino,ID,handsome,Alheak,yf_bmp,,,1679,1
+x,,4351739,2018-01-14 4:40:16,0,Nikakis,GR,Monstrata,Natsu,Nokashi,,,1680,0
+x,,6191653,2018-01-17 2:20:28,0,Bubblun,US,Irreversible,nold_1702,Mazzerin,,,1681,0
+x,,4773855,2018-01-19 4:40:10,0,hot anime girl,FI,Kibbleru,Lasse,yf_bmp,,,1682,0
+x,hard,1063607,2018-01-21 3:40:06,1,ego_17,RU,Larto,IceBeam,Gens,,,1683,1
+x,,2367616,2018-01-22 15:54:21,0,melloe,US,fanzhen0019,rustbell,rrtyui,,,1684,0
+x,hard,1786945,2018-01-23 5:00:08,0,Kaine,MV,Jounzan,fanzhen0019,Lesjuh,,,1685,0
+x,,6239835,2018-01-25 0:20:24,0,Owens,FR,Monstrata,Kyuukai,Skystar,,,1686,0
+x,,4201715,2018-01-25 5:20:11,0,Lulu-,DE,ProfessionalBox,Cherry Blossom,jyc-Binggan,,,1687,0
+x,,4496961,2018-02-01 10:00:05,2,MaridiuS,RS,Skystar,Delis,ProfessionalBox,,,1688,2
+x,,4404784,2018-02-01 22:20:42,0,Shiguma,US,Okoratu,UndeadCapulet,Hollow Wings,,,1689,0
+x,,10284894,2018-02-03 11:00:13,0,Dored,CN,Pata-Mon,Meg,Silky,,,1690,0
+x,,3951497,2018-02-04 14:09:59,0,SkinnyJommy,US,val0108,Broccoly,,,,1691,0
+x,,7543834,2018-02-08 0:20:06,1,Atalanta,FR,Satellite,Monstrata,Gaia,,,1692,1
+x,,8920907,2018-02-11 1:40:05,0,CraEZy,US,Monstrata,Jounzan,pishifat,,,1693,0
+x,,1533796,2018-02-14 5:00:16,0,Kawashiro,KR,Yoeri,Mel,byfar,,,1694,0
+x,,5371497,2018-02-14 22:00:28,0,Alumetri,RU,Sotarks,ProfessionalBox,DeRandom Otaku,,,1695,0
+x,hard,7856835,2018-02-16 14:00:09,0,Xoul,CA,pishifat,Atrue,Kocari,,,1696,0
+x,,6280862,2018-02-17 6:01:00,0,SquareTude,LV,Monstrata,Strategas,pishifat,,,1697,0
+x,,5330236,2018-02-18 9:20:08,0,pyrowar56,US,Laurier,Fycho,xsrsbsns,,,1698,0
+x,,5490937,2018-02-21 13:00:23,0,Pandize,US,CiiyusMiapah,VINXIS,Mun,,,1699,0
+x,,6336729,2018-02-21 21:00:05,0,Shanipika,CA,Zero__Wind,Hollow Wings,Loneight,,,1700,0
+x,,7566849,2018-02-22 13:20:03,0,Arutsuki,CZ,Naitoshi,Skystar,FCL,,,1701,0
+x,,5410645,2018-02-22 23:00:23,1,IceKalt,DE,Fushimi Rio,Shiirn,Lasse,,,1702,1
+x,,4698485,2018-02-26 14:40:39,0,_kotachi_,JP,Skystar,Nathan,Levia,,,1703,0
+x,,4315188,2018-03-02 1:20:20,2,_Meep_,SG,Anxient,zev,Meg,,,1704,2
+x,,3929650,2018-03-02 2:20:08,0,b00,GB,Mir,Lasse,ProfessionalBox,,,1705,0
+x,,4436687,2018-03-02 18:40:11,0,David-,CH,pishifat,gtfo,,,,1706,0
+x,,2916414,2018-03-04 21:20:13,1,-PC,NO,Jounzan,Urushi38,Skystar,,,1707,1
+x,,7515767,2018-03-07 8:20:10,0,Half,KR,,,,none,,1708,0
+x,,2785549,2018-03-09 23:00:06,0,Keada,NO,GoldenWolf,Kroytz,pishifat,,,1709,0
+x,,9063995,2018-03-13 20:00:26,0,-Mikan,RU,mlson1,Garden,Syph,,,1710,0
+x,,5645691,2018-03-14 6:00:20,0,AngelSnow,CN,Kencho,Monstrata,,,,1711,0
+x,,6017901,2018-03-15 11:00:24,0,-Light-,RU,Mirash,,,,,1712,0
+x,,6599570,2018-03-15 18:20:19,0,DivineEnigma,US,Irohas,appleeaterx,Frostmourne,,,1713,0
+x,,9254241,2018-03-15 23:00:10,0,Alexsander,BR,Trynna,Ataraxia,Net0,,,1714,0
+x,hard,7136934,2018-03-09 7:00:50,0,Walshy,US,pishifat,bite you death,Sotarks,,,1715,0
+x,,4588894,2018-03-17 7:40:03,0,Kawa,SI,Secretpipe,RLC,Mir,,,1716,0
+x,,4077912,2018-03-17 19:00:08,2,Ataraxia,BR,Marianna,Seto Kousuke,AmigoDoChroome,,,1717,2
+x,,6341751,2018-03-17 23:00:04,0,Pulse,BR,handsome,Irreversible,pishifat,,,1718,0
+x,hard,8436185,2018-03-10 5:45:13,0,ChuuritsuTv,PL,Monstrata,Kroytz,pishifat,,,1719,0
+x,,4370368,2018-03-20 8:40:13,0,Kashima,CN,RLC,Karen,Nathan,,,1720,0
+x,,6291407,2018-03-21 20:20:25,0,_FlameL,PL,pishifat,Monstrata,Akareh,,,1722,0
+x,,7901324,2018-03-22 20:40:10,0,Shunao,FR,-Laura-,Lami,Gaia,,,1723,0
+x,,4433793,2018-03-22 21:17:07,0,EphemeralFetish,GB,RLC,Charles445,jonathanlfj,,,1724,0
+x,,7265097,2018-03-24 2:00:10,0,Mordred,DE,Monstrata,Rizia,handsome,,,1725,0
+x,,4377815,2018-03-24 7:40:05,0,Altuth,NO,AngelHoney,happy30,Cherry Blossom,,,1726,0
+x,,4650315,2018-03-24 14:00:08,0,idke,US,Kite,byfar,,,,1727,0
+x,,2571893,2018-03-24 21:40:04,0,mithew,US,pishifat,Mazzerin,Kroytz,,,1728,0
+x,,5960077,2018-03-25 22:00:19,1,Nokris,CA,grumd,Nyquill,Laurier,,,1729,1
+x,,4879380,2018-03-26 2:40:14,0,Venax,GB,captin1,handsome,Bearizm,,,1730,0
+x,,6509223,2018-03-26 22:20:11,0,Marcuddles,IT,MrSergio,Lasse,Skystar,,,1731,0
+x,hard,4142332,,0,Sandrew,CN,,,,,,1732,0
+x,,7989003,2018-03-28 9:20:09,0,Agent_James,ID,Yamicchi,Monstrata,pishifat,,,1733,0
+x,,5277199,2018-03-29 7:40:25,0,NeonLights,US,Meg,- Frontier -,jonathanlfj,,,1734,0
+x,,7393632,2018-03-29 12:00:41,0,Bergy,US,pishifat,Feb,handsome,,,1735,0
+x,,3649657,2018-03-30 16:00:15,0,Xayler,EE,Come[Back]Home,,,,,1736,0
+x,,6122935,2018-03-31 7:00:09,1,Gottagof4st,BE,MrSergio,UndeadCapulet,IceKalt,,,1737,1
+x,,9155377,2018-03-31 10:20:26,0,hypercyte,GB,Monstrata,pishifat,-Mo-,,,1738,0
+x,hard,6223841,2018-03-31 12:40:11,0,Nyantiaz,US,_Meep_,pkk,pishifat,,,1739,0
+x,,412787,2018-04-02 13:39:58,0,Pikastar,KR,NatsumeRin,ktgster,val0108,,,1740,0
+x,,6186628,2018-04-06 10:20:41,0,Affirmation,KR,Doyak,pishifat,Monstrata,,,1741,0
+x,hard,7635646,2018-04-06 14:40:13,0,niruko,FR,-Laura-,,,,,1742,0
+x,hard,8239380,2018-04-09 5:40:05,0,FunnyA,ID,Niva,Natsu,wasin,,,1743,0
+x,,7754679,2018-04-10 5:20:10,0,yShadowXOP_,BR,Raikozen,jieusieu,pishifat,,,1744,0
+x,,8034889,2018-04-11 8:00:27,0,zhu,MN,Monstrata,Starset,Peter,,,1745,0
+x,,8171954,2018-04-11 10:00:14,0,squishi,US,Kencho,Settia,,,,1746,0
+x,,2907231,2018-04-14 22:40:11,0,Asonate,AT,HanzeR,Okoratu,Hollow Wings,,,1747,0
+x,,8406396,2018-04-15 3:20:09,0,ChaoticRed,PL,MaridiuS,Gottagof4st,Monstrata,,,1748,0
+x,,7121588,2018-04-18 7:20:23,0,LeQuack,AU,-Laura-,Left,Monstrata,,,1749,0
+x,,5179950,2018-04-20 23:00:10,0,-Harpuia-,PH,Monstrata,-Laura-,,,,1750,0
+x,,6070370,2018-04-21 5:00:07,0,Chekito,AR,vick,Monstrata,MaridiuS,,,1751,0
+x,,5385151,2018-04-21 5:20:03,0,den0saur,UA,Jounzan,RLC,Ameth Rianno,,,1752,0
+x,,1666355,2018-04-22 2:20:04,1,Damnjelly,NL,caren_sk,Skystar,rustbell,,,1753,1
+x,,5425046,2018-04-23 21:20:32,0,HydroCannon13,CA,Bearizm,Monstrata,RLC,,,1754,0
+x,,4967662,2018-04-24 8:00:23,0,GreenHue,US,squirrelpascals,appleeaterx,Monstrata,,,1755,0
+x,,6449388,2018-04-25 2:00:09,0,619,BY,pishifat,Monstrata,Taeyang,,,1756,0
+x,,7272036,2018-04-25 5:20:22,0,YukiZura-,MY,Rumia-,walaowey,-Laura-,,,1757,0
+x,,3388410,,0,eiri-,US,,,,,,1759,0
+x,,3823413,2018-04-30 10:00:17,0,- Yoshimaro -,US,fanzhen0019,-kevincela-,HanzeR,,,1760,0
+x,,5128277,2018-05-01 0:20:02,0,TheKingHenry,FI,pishifat,Mazzerin,GoldenWolf,,,1761,0
+x,,7984965,2018-05-01 10:40:06,0,Toruchii,ID,pishifat,Monstrata,handsome,,,1762,0
+x,,7725544,2018-05-02 9:40:05,0,Wuab,GB,pishifat,yf_bmp,appleeaterx,,,1763,0
+x,,5377178,2018-05-03 7:00:23,0,Minorsonek,PL,PoNo,pishifat,pinataman,,,1764,0
+x,,8092686,2018-05-03 19:20:30,0,_Sh1ro,BY,ProfessionalBox,Monstrata,Ekoro,,,1765,0
+x,,4174940,2018-05-04 4:20:15,0,Yusomi,GB,Hollow Wings,rustbell,yf_bmp,,,1766,0
+x,hard,5688171,2018-05-04 16:20:09,0,3mplify,RU,Monstrata,pishifat,bossandy,,,1767,0
+x,,2996670,2018-05-05 5:01:11,0,[XV],CL,Kencho,Lasse,Fycho,,,1768,0
+x,,365331,2018-05-05 5:40:08,0,ArThasCD,TW,Loneight,Colin Hou,Darkness Angel,,,1768.5,0
+x,,4121612,2018-05-07 21:00:14,0,Doj,US,Gaia,Bearizm,Momoka,,,1769,0
+x,,5134380,2018-05-08 19:40:09,0,i love traps,IS,Skystar,handsome,ScubDomino,,,1770,0
+x,hard,5843473,2018-05-02 5:40:05,0,KyotoYushiro,BR,Monstrata,Sotarks,pishifat,,,1771,0
+x,,4589786,2018-05-10 15:00:15,0,DendyHere,GB,Monstrata,Saten,Ekoro,,,1772,0
+x,hard,5267343,2018-05-10 12:00:08,0,- Sophia,BR,Seto Kousuke,Monstrata,Ataraxia,,,1773,0
+x,,3821842,,0,Mitsuna-,FR,_Meep_,Kencho,Taeyang,,,1774,0
+x,hard,5178122,2018-05-22 10:20:31,0,Enkrypton,CA,Mentai,-Laura-,Kyuukai,,,1774.5,0
+x,,4294993,2018-05-14 16:20:09,0,Celektus,DE,pishifat,Halfslashed,handsome,,,1775,0
+x,,3696423,,0,Flezlin,US,,,,,,1776,0
+,,,,0,,,,,,,,1777,0
+,,,,0,,,,,,,,1778,0
+,,,,0,,,,,,,,1779,0
+,,,,0,,,,,,,,1780,0
+,,,,0,,,,,,,,1781,0
+,,,,0,,,,,,,,1782,0
+,,,,0,,,,,,,,1783,0
+,,,,0,,,,,,,,1784,0
+,,,,0,,,,,,,,1785,0
+,,,,0,,,,,,,,1786,0
+,,,,0,,,,,,,,1787,0
+,,,,0,,,,,,,,1788,0
+,,,,0,,,,,,,,1789,0
+,,,,0,,,,,,,,1790,0
+,,,,0,,,,,,,,1791,0
+,,,,0,,,,,,,,1792,0
+,,,,0,,,,,,,,1793,0
+,,,,0,,,,,,,,1794,0
+,,,,0,,,,,,,,1795,0
+,,,,0,,,,,,,,1796,0
+,,,,0,,,,,,,,1797,0
+,,,,0,,,,,,,,1798,0
+,,,,0,,,,,,,,1799,0
+,,,,0,,,,,,,,1800,0
+,,,,0,,,,,,,,1801,0
+,,,,0,,,,,,,,1802,0
+,,,,0,,,,,,,,1803,0
+,,,,0,,,,,,,,1804,0
+,,,,0,,,,,,,,1805,0
+,,,,0,,,,,,,,1806,0
+,,,,0,,,,,,,,1807,0
+,,,,0,,,,,,,,1808,0
+,,,,0,,,,,,,,1809,0
+,,,,0,,,,,,,,1810,0
+,,,,0,,,,,,,,1811,0
+,,,,0,,,,,,,,1812,0
+,,,,0,,,,,,,,1813,0
+,,,,0,,,,,,,,1814,0
+,,,,0,,,,,,,,1815,0
+,,,,0,,,,,,,,1816,0
+,,,,0,,,,,,,,1817,0
+,,,,0,,,,,,,,1818,0
+,,,,0,,,,,,,,1819,0
+,,,,0,,,,,,,,1820,0
+,,,,0,,,,,,,,1821,0
+,,,,0,,,,,,,,1822,0
+,,,,0,,,,,,,,1823,0
+,,,,0,,,,,,,,1824,0
+,,,,0,,,,,,,,1825,0
+,,,,0,,,,,,,,1826,0
+,,,,0,,,,,,,,1827,0
+,,,,0,,,,,,,,1828,0
+,,,,0,,,,,,,,1829,0
+,,,,0,,,,,,,,1830,0
+,,,,0,,,,,,,,1831,0
+,,,,0,,,,,,,,1832,0
+,,,,0,,,,,,,,1833,0
+,,,,0,,,,,,,,1834,0
+,,,,0,,,,,,,,1835,0
+,,,,0,,,,,,,,1836,0
+,,,,0,,,,,,,,1837,0
+,,,,0,,,,,,,,1838,0
+,,,,0,,,,,,,,1839,0
+,,,,0,,,,,,,,1840,0
+,,,,0,,,,,,,,1841,0
+,,,,0,,,,,,,,1842,0
+,,,,0,,,,,,,,1843,0
+,,,,0,,,,,,,,1844,0
+,,,,0,,,,,,,,1845,0
+,,,,0,,,,,,,,1846,0
+,,,,0,,,,,,,,1847,0
+,,,,0,,,,,,,,1848,0
+,,,,0,,,,,,,,1849,0
+,,,,0,,,,,,,,1850,0
+,,,,0,,,,,,,,1851,0
+,,,,0,,,,,,,,1852,0
+,,,,0,,,,,,,,1853,0
+,,,,0,,,,,,,,1854,0
+,,,,0,,,,,,,,1855,0
+,,,,0,,,,,,,,1856,0
+,,,,0,,,,,,,,1857,0
+,,,,0,,,,,,,,1858,0
+,,,,0,,,,,,,,1859,0
+,,,,0,,,,,,,,1860,0
+,,,,0,,,,,,,,1861,0
+,,,,0,,,,,,,,1862,0
+,,,,0,,,,,,,,1863,0
+,,,,0,,,,,,,,1864,0
+,,,,0,,,,,,,,1865,0
+,,,,0,,,,,,,,1866,0
+,,,,0,,,,,,,,1867,0
+,,,,0,,,,,,,,1868,0
+,,,,0,,,,,,,,1869,0
+,,,,0,,,,,,,,1870,0
+,,,,0,,,,,,,,1871,0
+,,,,0,,,,,,,,1872,0
+,,,,0,,,,,,,,1873,0
+,,,,0,,,,,,,,1874,0
+,,,,0,,,,,,,,1875,0
+,,,,0,,,,,,,,1876,0
+,,,,0,,,,,,,,1877,0
+,,,,0,,,,,,,,1878,0
+,,,,0,,,,,,,,1879,0
+,,,,0,,,,,,,,1880,0
+,,,,0,,,,,,,,1881,0
+,,,,0,,,,,,,,1882,0
+,,,,0,,,,,,,,1883,0
+,,,,0,,,,,,,,1884,0
+,,,,0,,,,,,,,1885,0
+,,,,0,,,,,,,,1886,0
+,,,,0,,,,,,,,1887,0
+,,,,0,,,,,,,,1888,0
+,,,,0,,,,,,,,1889,0
+,,,,0,,,,,,,,1890,0
+,,,,0,,,,,,,,1891,0
+,,,,0,,,,,,,,1892,0
+,,,,0,,,,,,,,1893,0
+,,,,0,,,,,,,,1894,0
+,,,,0,,,,,,,,1895,0
+,,,,0,,,,,,,,1896,0
+,,,,0,,,,,,,,1897,0
+,,,,0,,,,,,,,1898,0
+,,,,0,,,,,,,,1899,0
+,,,,0,,,,,,,,1900,0
+,,,,0,,,,,,,,1901,0
+,,,,0,,,,,,,,1902,0
+,,,,0,,,,,,,,1903,0
+,,,,0,,,,,,,,1904,0
+,,,,0,,,,,,,,1905,0
+,,,,0,,,,,,,,1906,0
+,,,,0,,,,,,,,1907,0
+,,,,0,,,,,,,,1908,0
+,,,,0,,,,,,,,1909,0
+,,,,0,,,,,,,,1910,0
+,,,,0,,,,,,,,1911,0
+,,,,0,,,,,,,,1912,0
+,,,,0,,,,,,,,1913,0
+,,,,0,,,,,,,,1914,0
+,,,,0,,,,,,,,1915,0
+,,,,0,,,,,,,,1916,0
+,,,,0,,,,,,,,1917,0
+,,,,0,,,,,,,,1918,0
+,,,,0,,,,,,,,1919,0
+,,,,0,,,,,,,,1920,0
+,,,,0,,,,,,,,1921,0
+,,,,0,,,,,,,,1922,0
+,,,,0,,,,,,,,1923,0
+,,,,0,,,,,,,,1924,0
+,,,,0,,,,,,,,1925,0
+,,,,0,,,,,,,,1926,0
+,,,,0,,,,,,,,1927,0
+,,,,0,,,,,,,,1928,0
+,,,,0,,,,,,,,1929,0
+,,,,0,,,,,,,,1930,0
+,,,,0,,,,,,,,1931,0
+,,,,0,,,,,,,,1932,0
+,,,,0,,,,,,,,1933,0
+,,,,0,,,,,,,,1934,0
+,,,,0,,,,,,,,1935,0
+,,,,0,,,,,,,,1936,0
+,,,,0,,,,,,,,1937,0
+,,,,0,,,,,,,,1938,0
+,,,,0,,,,,,,,1939,0
+,,,,0,,,,,,,,1940,0
+,,,,0,,,,,,,,1941,0
+,,,,0,,,,,,,,1942,0
+,,,,0,,,,,,,,1943,0
+,,,,0,,,,,,,,1944,0
+,,,,0,,,,,,,,1945,0
+,,,,0,,,,,,,,1946,0
+,,,,0,,,,,,,,1947,0
+,,,,0,,,,,,,,1948,0
+,,,,0,,,,,,,,1949,0
+,,,,0,,,,,,,,1950,0
+,,,,0,,,,,,,,1951,0
+,,,,0,,,,,,,,1952,0
+,,,,0,,,,,,,,1953,0
+,,,,0,,,,,,,,1954,0
+,,,,0,,,,,,,,1955,0
+,,,,0,,,,,,,,1956,0
+,,,,0,,,,,,,,1957,0
+,,,,0,,,,,,,,1958,0
+,,,,0,,,,,,,,1959,0
+,,,,0,,,,,,,,1960,0
+,,,,0,,,,,,,,1961,0
+,,,,0,,,,,,,,1962,0
+,,,,0,,,,,,,,1963,0
+,,,,0,,,,,,,,1964,0
+,,,,0,,,,,,,,1965,0
+,,,,0,,,,,,,,1966,0
+,,,,0,,,,,,,,1967,0
+,,,,0,,,,,,,,1968,0
+,,,,0,,,,,,,,1969,0
+,,,,0,,,,,,,,1970,0
+,,,,0,,,,,,,,1971,0
+,,,,0,,,,,,,,1972,0
+,,,,0,,,,,,,,1973,0
+,,,,0,,,,,,,,1974,0
+,,,,0,,,,,,,,1975,0
+,,,,0,,,,,,,,1976,0
+,,,,0,,,,,,,,1977,0
+,,,,0,,,,,,,,1978,0
+,,,,0,,,,,,,,1979,0
+,,,,0,,,,,,,,1980,0
+,,,,0,,,,,,,,1981,0
+,,,,0,,,,,,,,1982,0
+,,,,0,,,,,,,,1983,0
+,,,,0,,,,,,,,1984,0
+,,,,0,,,,,,,,1985,0
+,,,,0,,,,,,,,1986,0
+,,,,0,,,,,,,,1987,0
+,,,,0,,,,,,,,1988,0
+,,,,0,,,,,,,,1989,0
+,,,,0,,,,,,,,1990,0
+,,,,0,,,,,,,,1991,0
+,,,,0,,,,,,,,1992,0
+,,,,0,,,,,,,,1993,0
+,,,,0,,,,,,,,1994,0
+,,,,0,,,,,,,,1995,0
+,,,,0,,,,,,,,1996,0
+,,,,0,,,,,,,,1997,0
+,,,,0,,,,,,,,1998,0
+,,,,,,,,,,,,1999,
+,,,,,,,,,,,,2000,

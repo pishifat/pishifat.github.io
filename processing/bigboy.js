@@ -15,7 +15,14 @@ var speed = 500; //  px/sec that image will move using WASD or arrow keys
 
 var bl;
 
-var img;
+var frame1;
+var frame2;
+var frame3;
+var frame4;
+var multiWidth;
+var multiHeight;
+
+//var img;
 var posX;
 var posY;
 var rot;
@@ -35,20 +42,31 @@ var bg;
 function preload()
 {
 	//img = loadImage('https://upload.wikimedia.org/wikipedia/commons/4/47/PNG_transparency_demonstration_1.png');
-	img = loadImage('processing/assets/bigboy2.png');
+	//img = loadImage('processing/assets/bigboy2.png');	
 	//bg = loadImage('https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Cahier_Atoma_ouvert.jpg/1280px-Cahier_Atoma_ouvert.jpg');
 	bg = loadImage('processing/assets/bg.png');
+	
+	frame1 = loadImage('processing/assets/frame1.png');
+	frame2 = loadImage('processing/assets/frame2.png');
+	frame3 = loadImage('processing/assets/frame3.png');
+	frame4 = loadImage('processing/assets/frame4.png');
 }
 
 function setup() 
 {	
+	multiWidth = frame1.width + frame2.width + frame3.width + frame4.width;
+	multiHeight = Math.max(frame1.height, frame2.height, frame3.height, frame4.height);
+	
 	bl = windowHeight * borderLimit;
+	
 	frameRate(999);
 	angleMode(DEGREES);
 	createCanvas(windowWidth, windowHeight);
-	sca = windowHeight/img.height;
+	//sca = windowHeight/img.height;
+	sca = windowHeight / multiHeight;
 	//posX = windowWidth/2;
-	posX = sca*(img.width/2);
+	//posX = sca*(img.width/2);
+	posX = sca*(multiWidth/2);
 	posY = windowHeight/2;
 	rot = 0;
 	wasPressed = mouseIsPressed;
@@ -61,6 +79,7 @@ function draw()
 	
 	dtSet();
 	
+	imageMode(CORNER);
 	if(bg.width/bg.height > windowWidth/windowHeight)
 	{
 		// bg's aspect ratio is wider than window's
@@ -96,7 +115,12 @@ function draw()
 	//spin();
 	zoom();
 	
-	image(img,-img.width/2,-img.height/2);
+	imageMode(CENTER);
+	//image(img,0,0);
+	image(frame1, (0-(frame1.width/2))-frame2.width, 0);
+	image(frame2, 0-(frame2.width/2), 0);
+	image(frame3, frame3.width/2, 0);
+	image(frame4, frame4.width/2+frame3.width, 0)
 	
 	pop();
 	
@@ -133,24 +157,24 @@ function move()
 		posY += speed * dt;
 	}
 	
-	if(posX > windowWidth - bl + sca * (img.width/2))
+	if(posX > windowWidth - bl + sca * (multiWidth/2))
 	{
-		posX = windowWidth - bl + sca * (img.width/2);
+		posX = windowWidth - bl + sca * (multiWidth/2);
 	}
 	
-	if(posX < bl - sca * (img.width/2))
+	if(posX < bl - sca * (multiWidth/2))
 	{
-		posX = bl - sca * (img.width/2);
+		posX = bl - sca * (multiWidth/2);
 	}
 	
-	if(posY > windowHeight - bl + sca * (img.height/2))
+	if(posY > windowHeight - bl + sca * (multiHeight/2))
 	{
-		posY = windowHeight - bl + sca * (img.height/2);
+		posY = windowHeight - bl + sca * (multiHeight/2);
 	}
 	
-	if(posY < bl - sca * (img.height/2))
+	if(posY < bl - sca * (multiHeight/2))
 	{
-		posY = bl - sca * (img.height/2);
+		posY = bl - sca * (multiHeight/2);
 	}
 	
 	translate(posX,posY);
@@ -198,12 +222,12 @@ function dtSet()
 
 function mouseWheel(event)
 {
-	if (sca < minVertPercScale * windowHeight / img.height)
+	if (sca < minVertPercScale * windowHeight / multiHeight)
 	{
-		sca = minVertPercScale * windowHeight / img.height;
+		sca = minVertPercScale * windowHeight / multiHeight;
 	}
 	
-	if(!(sca * (1 - (event.delta/Math.abs(event.delta) * scaStep)) < minVertPercScale * windowHeight / img.height))
+	if(!(sca * (1 - (event.delta/Math.abs(event.delta) * scaStep)) < minVertPercScale * windowHeight / multiHeight))
 	{
 		sca *= 1 - (event.delta/Math.abs(event.delta) * scaStep);
 		posX += (event.delta/Math.abs(event.delta) * scaStep)*(mouseX - posX);

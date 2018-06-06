@@ -12,6 +12,10 @@ var scaStep = 0.15; // % (out of 1) that it scales for each scroll delta (a delt
 var minVertPercScale = 0.33333333; // % (out of 1) that image height scale can be relative to window height
 var borderLimit = 0.25; // border in % of the window height that the image must remain on the window, horizontally and vertically
 var speed = 500; //  px/sec that image will move using WASD or arrow keys
+var jumpScale = 5;
+
+var inkWidth = 32512; // necessary to convert coordinates correctly
+var inkHeight = 1920;
 
 var bl;
 
@@ -21,6 +25,8 @@ var frame3;
 var frame4;
 var multiWidth;
 var multiHeight;
+
+var fitScale;
 
 //var img;
 var posX;
@@ -41,9 +47,8 @@ var bg;
 
 function preload()
 {
-	//img = loadImage('https://upload.wikimedia.org/wikipedia/commons/4/47/PNG_transparency_demonstration_1.png');
 	//img = loadImage('processing/assets/bigboy2.png');	
-	//bg = loadImage('https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Cahier_Atoma_ouvert.jpg/1280px-Cahier_Atoma_ouvert.jpg');
+	
 	bg = loadImage('processing/assets/bg.png');
 	
 	frame1 = loadImage('processing/assets/frame1.png');
@@ -63,7 +68,8 @@ function setup()
 	angleMode(DEGREES);
 	createCanvas(windowWidth, windowHeight);
 	//sca = windowHeight/img.height;
-	sca = windowHeight / multiHeight;
+	fitScale = windowHeight / multiHeight;
+	sca = fitScale;
 	//posX = windowWidth/2;
 	//posX = sca*(img.width/2);
 	posX = sca*(multiWidth/2);
@@ -110,23 +116,51 @@ function draw()
 	//text((1/dt).toFixed(0) + " fps",windowWidth-4,4);
 	
 	push();
-	
-	move();
-	//spin();
-	zoom();
-	
-	imageMode(CENTER);
-	//image(img,0,0);
-	image(frame1, (0-(frame1.width/2))-frame2.width, 0);
-	image(frame2, 0-(frame2.width/2), 0);
-	image(frame3, frame3.width/2, 0);
-	image(frame4, frame4.width/2+frame3.width, 0)
-	
+		
+		if(keyIsDown(80))
+		{
+			//jumpTo(2352,1314);
+			jumpTo(convertInkCoordX(27742), convertInkCoordY(471));
+		}
+		
+		move();
+		//spin();
+		zoom();
+		
+		imageMode(CENTER);
+		//image(img,0,0);
+		image(frame1, (0-(frame1.width/2))-frame2.width, 0);
+		image(frame2, 0-(frame2.width/2), 0);
+		image(frame3, frame3.width/2, 0);
+		image(frame4, frame4.width/2+frame3.width, 0)
+		
 	pop();
 	
 	fill(10);
 	textAlign(RIGHT,TOP);
 	text((1/dt).toFixed(0) + " fps",windowWidth-4,4);
+}
+
+function jumpTo(x,y)
+{
+	// jumps to a pixel coordinate on the image (ignoring zoom scale) (origin top left)
+	
+	sca = fitScale * jumpScale;
+	
+	posX = sca * ((-x) + multiWidth/2) + (windowWidth/2);
+	posY = sca * ((-y) + multiHeight/2) + (windowHeight/2);
+}
+
+function convertInkCoordX(x)
+{
+	x = map(x, 0, inkWidth, 0, multiWidth);
+	return x;
+}
+
+function convertInkCoordY(y)
+{
+	y = map(inkHeight - y, 0, inkHeight, 0, multiHeight);
+	return y;
 }
 
 function move()

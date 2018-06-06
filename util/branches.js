@@ -82,11 +82,12 @@ $(document).ready(function (){
 		mentioners.sort();
 		var actualMentioners = [];
 		for (var i = 0; i < mentioners.length; i++) {
-			if (mentioners[i] == mentioners[i+1]){
+			if (actualMentioners.findIndex(function(e){
+				return e == mentioners[i];
+			}) == -1){
 				actualMentioners.push(mentioners[i]);
 			}
 		}
-		
 		var $mentions = $("<i>", {
 			"class" : "small box",
 			"text" : " ("+user.mentions+" mentions)",
@@ -106,19 +107,19 @@ $(document).ready(function (){
 				if ($(this).parent().children("ul").length > 0){
 					$(this).parent().children("ul").slideToggle("fast");
 				}else{
-					if (typeof db[user.username][0].none !== "undefined"){
+					if (typeof user.none !== "undefined"){
 						var $ul = $("<ul>");
 						var text = "";
-						if (user[0].none == "none")
+						if (user.none == "none")
 							text = "Noone...";
 						else
 							text = "iNiS";
 	
 						$ul.append(createNoneLi(text));
 						$(this).closest("li").append($ul);
-					}else if (db[user.username][0].influences.length > 0){
+					}else if (user.influences.length > 0){
 						var $ul = $("<ul>");
-						var influences = makeInfluences(db[user.username][0].influences);
+						var influences = makeInfluences(user.influences);
 						
 						$.each(influences, function(i, influence){
 							$ul.append(createLi(influence, newColor));
@@ -128,7 +129,10 @@ $(document).ready(function (){
 						createAlert("No info from "+ user.username);
 					}
 				}
-	
+
+				$(".box").popover({
+					container: 'body',
+				});
 			}
 		});
 	

@@ -15,6 +15,11 @@ var speed = 500; //  px/sec that image will move using WASD or arrow keys
 
 var bl;
 
+var frame1;
+var frame2;
+var frame3;
+var frame4;
+
 var img;
 var posX;
 var posY;
@@ -35,9 +40,14 @@ var bg;
 function preload()
 {
 	//img = loadImage('https://upload.wikimedia.org/wikipedia/commons/4/47/PNG_transparency_demonstration_1.png');
-	img = loadImage('processing/assets/bigboy2.png');
+	img = loadImage('processing/assets/bigboy2.png');	
 	//bg = loadImage('https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Cahier_Atoma_ouvert.jpg/1280px-Cahier_Atoma_ouvert.jpg');
 	bg = loadImage('processing/assets/bg.png');
+	
+	frame1 = loadImage('processing/assets/frame1.png');
+	frame2 = loadImage('processing/assets/frame2.png');
+	frame3 = loadImage('processing/assets/frame3.png');
+	frame4 = loadImage('processing/assets/frame4.png');
 }
 
 function setup() 

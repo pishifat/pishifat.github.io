@@ -14,7 +14,7 @@ var borderLimit = 0.25; // border in % of the window height that the image must 
 var speed = 500; //  px/sec that image will move using WASD or arrow keys
 var jumpScale = 5;
 
-var inkWidth = 32512;
+var inkWidth = 32512; // necessary to convert coordinates correctly
 var inkHeight = 1920;
 
 var bl;
@@ -121,7 +121,7 @@ function draw()
 		if(keyIsDown(80))
 		{
 			//jumpTo(2352,1314);
-			jumpTo(convertInkCoordX(1472), convertInkCoordY(1791));
+			jumpTo(convertInkCoordX(27742), convertInkCoordY(471));
 		}
 		
 		move();
@@ -155,14 +155,12 @@ function jumpTo(x,y)
 function convertInkCoordX(x)
 {
 	x = map(x, 0, inkWidth, 0, multiWidth);
-	print("converted x coord is " + x);
 	return x;
 }
 
 function convertInkCoordY(y)
 {
 	y = map(inkHeight - y, 0, inkHeight, 0, multiHeight);
-	print("converted y coord is " + y);
 	return y;
 }
 

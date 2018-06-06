@@ -22,7 +22,7 @@ var frame4;
 var multiWidth;
 var multiHeight;
 
-var img;
+//var img;
 var posX;
 var posY;
 var rot;
@@ -42,7 +42,7 @@ var bg;
 function preload()
 {
 	//img = loadImage('https://upload.wikimedia.org/wikipedia/commons/4/47/PNG_transparency_demonstration_1.png');
-	img = loadImage('processing/assets/bigboy2.png');	
+	//img = loadImage('processing/assets/bigboy2.png');	
 	//bg = loadImage('https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Cahier_Atoma_ouvert.jpg/1280px-Cahier_Atoma_ouvert.jpg');
 	bg = loadImage('processing/assets/bg.png');
 	

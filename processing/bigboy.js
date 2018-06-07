@@ -117,12 +117,6 @@ function draw()
 	
 	push();
 		
-		if(keyIsDown(80))
-		{
-			//jumpTo(2352,1314);
-			jumpTo(convertInkCoordX(27742), convertInkCoordY(471));
-		}
-		
 		move();
 		//spin();
 		zoom();

@@ -5,7 +5,7 @@ var lineReader = require('readline').createInterface({
 lineReader.on('line', function (line) {
   var a = line.split(",");
   var user_id = a[2];
-  var mentions = a[13];
+  var mentions = a[4];
   var username = a[5];
   var country = a[6];
   var influence1 = a[7];
@@ -13,6 +13,8 @@ lineReader.on('line', function (line) {
   var influence3  = a[9];
   var none_DSdev = a[10];
   var alt_name = a[11];
+  var xcoord = a[15];
+  var ycoord = a[16];
   
   
   
@@ -44,6 +46,13 @@ var influences = '"influences":[';
   if(alt_name!=="" && what==false){
 	 result+= ',"alt":"' + alt_name + '"';
  }
+ 
+   if(xcoord!==""){
+	 result+= ',"xcoord":"' + xcoord + '","ycoord":"' + ycoord + '"';
+ }
+
+ 
+ 
  result+= '}];';
 
  

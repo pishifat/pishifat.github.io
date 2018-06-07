@@ -297,8 +297,10 @@ $(document).ready(function ()
 		if (user != null)
 		{
 			// do the jump
-			//console.log(user[0]);
-			jumpTo(convertInkCoordX(parseInt(user[0].xcoord, 10)), convertInkCoordY(parseInt(user[0].ycoord, 10)));
+			if(user[0].xcoord != null && user[0].ycoord != null)
+			{
+				jumpTo(convertInkCoordX(parseInt(user[0].xcoord, 10)), convertInkCoordY(parseInt(user[0].ycoord, 10)));
+			}
 		}
 	});
 });

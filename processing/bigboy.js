@@ -13,6 +13,7 @@ var minVertPercScale = 0.33333333; // % (out of 1) that image height scale can b
 var borderLimit = 0.25; // border in % of the window height that the image must remain on the window, horizontally and vertically
 var speed = 500; //  px/sec that image will move using WASD or arrow keys
 var jumpScale = 5;
+var lerpAlpha = 0.075;
 
 var inkWidth = 32512; // necessary to convert coordinates correctly
 var inkHeight = 1920;
@@ -27,6 +28,11 @@ var multiWidth;
 var multiHeight;
 
 var fitScale;
+
+var lerping = false;
+var lerpX;
+var lerpY;
+var lerpS;
 
 //var img;
 var posX;
@@ -117,6 +123,13 @@ function draw()
 	
 	push();
 		
+		if(lerping)
+		{
+			posX = lerp(posX, lerpX, lerpAlpha);
+			posY = lerp(posY, lerpY, lerpAlpha);
+			//sca = lerp(sca, lerpS, lerpAlpha);
+		}
+		
 		move();
 		//spin();
 		zoom();
@@ -137,12 +150,14 @@ function draw()
 
 function jumpTo(x,y)
 {
-	// jumps to a pixel coordinate on the image (ignoring zoom scale) (origin top left)
+	// sets lerpX and lerpY to a pixel coordinate on the image (ignoring zoom scale) (origin top left)
 	
-	sca = fitScale * jumpScale;
+	//sca = fitScale * jumpScale;
 	
-	posX = sca * ((-x) + multiWidth/2) + (windowWidth/2);
-	posY = sca * ((-y) + multiHeight/2) + (windowHeight/2);
+	lerpX = sca * ((-x) + multiWidth/2) + (windowWidth/2);
+	lerpY = sca * ((-y) + multiHeight/2) + (windowHeight/2);
+	
+	lerping = true;
 }
 
 function convertInkCoordX(x)
@@ -163,26 +178,31 @@ function move()
 	{
 		posX += mouseX - pmouseX;
 		posY += mouseY - pmouseY;
+		lerping = false;
 	}
 	
 	if(keyIsDown(RIGHT_ARROW))
 	{
 		posX -= speed * dt;
+		lerping = false;
 	}
 	
 	if(keyIsDown(LEFT_ARROW))
 	{
 		posX += speed * dt;
+		lerping = false;
 	}
 	
 	if(keyIsDown(DOWN_ARROW))
 	{
 		posY -= speed * dt;
+		lerping = false;
 	}
 	
 	if(keyIsDown(UP_ARROW))
 	{
 		posY += speed * dt;
+		lerping = false;
 	}
 	
 	if(posX > windowWidth - bl + sca * (multiWidth/2))
@@ -263,6 +283,7 @@ function mouseWheel(event)
 	}
 	
 	//print(event.delta);
+	lerping = false;
 	
 	return false;
 }

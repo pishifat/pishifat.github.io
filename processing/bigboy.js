@@ -165,22 +165,22 @@ function move()
 		posY += mouseY - pmouseY;
 	}
 	
-	if(keyIsDown(RIGHT_ARROW) || keyIsDown(68))
+	if(keyIsDown(RIGHT_ARROW))
 	{
 		posX -= speed * dt;
 	}
 	
-	if(keyIsDown(LEFT_ARROW) || keyIsDown(65))
+	if(keyIsDown(LEFT_ARROW))
 	{
 		posX += speed * dt;
 	}
 	
-	if(keyIsDown(DOWN_ARROW) || keyIsDown(83))
+	if(keyIsDown(DOWN_ARROW))
 	{
 		posY -= speed * dt;
 	}
 	
-	if(keyIsDown(UP_ARROW) || keyIsDown(87))
+	if(keyIsDown(UP_ARROW))
 	{
 		posY += speed * dt;
 	}

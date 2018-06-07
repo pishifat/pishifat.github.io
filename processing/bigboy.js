@@ -11,9 +11,10 @@ var scaSpeed = 2; // % (out of 1) per sec
 var scaStep = 0.15; // % (out of 1) that it scales for each scroll delta (a delta of 3 per scroll tick is common)
 var minVertPercScale = 0.33333333; // % (out of 1) that image height scale can be relative to window height
 var borderLimit = 0.25; // border in % of the window height that the image must remain on the window, horizontally and vertically
-var speed = 500; //  px/sec that image will move using WASD or arrow keys
+var speed = 500; // px/sec that image will move using WASD or arrow keys
 var jumpScale = 5;
 var lerpAlpha = 0.075;
+var lerpSDist = 50; // how close (in pixels) that the target pos must be before transitioning into lerping scale
 
 var inkWidth = 32512; // necessary to convert coordinates correctly
 var inkHeight = 1920;
@@ -32,7 +33,9 @@ var fitScale;
 var lerping = false;
 var lerpX;
 var lerpY;
-var lerpS;
+//var lerpS;
+//var lerpingS = false;
+//var prevSca;
 
 //var img;
 var posX;
@@ -83,6 +86,8 @@ function setup()
 	rot = 0;
 	wasPressed = mouseIsPressed;
 	pmillis = millis();
+	
+	//lerpS = fitScale * jumpScale;
 }
 
 function draw() 
@@ -121,14 +126,33 @@ function draw()
 	//textAlign(RIGHT,TOP);
 	//text((1/dt).toFixed(0) + " fps",windowWidth-4,4);
 	
+	//console.log("sca: " + sca);
+	
 	push();
 		
 		if(lerping)
 		{
 			posX = lerp(posX, lerpX, lerpAlpha);
 			posY = lerp(posY, lerpY, lerpAlpha);
-			//sca = lerp(sca, lerpS, lerpAlpha);
 		}
+		
+		/*
+		if(lerping && dist(posX,posY,lerpX,lerpY)/sca < lerpSDist)
+		{
+			lerping =  false;
+			lerpingS = true;
+			
+			console.log(dist(posX,posY,lerpX,lerpY));
+		}
+		
+		if(lerpingS)
+		{
+			prevSca = sca;
+			sca = lerp(sca, lerpS, lerpAlpha);
+			posX += (1-(sca-prevSca))*(posX);
+			posY += (1-(sca-prevSca))*(posY);
+		}
+		*/
 		
 		move();
 		//spin();
@@ -179,30 +203,35 @@ function move()
 		posX += mouseX - pmouseX;
 		posY += mouseY - pmouseY;
 		lerping = false;
+		//lerpingS = false;
 	}
 	
 	if(keyIsDown(RIGHT_ARROW))
 	{
 		posX -= speed * dt;
 		lerping = false;
+		//lerpingS = false;
 	}
 	
 	if(keyIsDown(LEFT_ARROW))
 	{
 		posX += speed * dt;
 		lerping = false;
+		//lerpingS = false;
 	}
 	
 	if(keyIsDown(DOWN_ARROW))
 	{
 		posY -= speed * dt;
 		lerping = false;
+		//lerpingS = false;
 	}
 	
 	if(keyIsDown(UP_ARROW))
 	{
 		posY += speed * dt;
 		lerping = false;
+		//lerpingS = false;
 	}
 	
 	if(posX > windowWidth - bl + sca * (multiWidth/2))
@@ -284,6 +313,7 @@ function mouseWheel(event)
 	
 	//print(event.delta);
 	lerping = false;
+	//lerpingS = false;
 	
 	return false;
 }

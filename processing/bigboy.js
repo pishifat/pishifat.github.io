@@ -268,7 +268,43 @@ function mouseWheel(event)
 		posY += (event.delta/Math.abs(event.delta) * scaStep)*(mouseY - posY);
 	}
 	
-	print(event.delta);
+	//print(event.delta);
 	
 	return false;
 }
+
+
+
+
+
+$(document).ready(function ()
+{
+	$("#submitBigBoy").submit(function(e)
+	{
+		e.preventDefault();
+		var input = $("#user").val();
+		
+		$.each(db, function(i, val)
+		{
+			if (val[0].username.toLowerCase() === input.toLowerCase())
+			{
+				input = val[0].username;
+				return false;
+			}else if (typeof val[0].alt !== "undefined")
+			{
+				if (val[0].alt.toLowerCase() === input.toLowerCase())
+				{
+					input = val[0].alt;
+					return false;
+				}
+			}
+		});
+		var user = db[input];
+		if (user != null)
+		{
+			// do the jump
+			//console.log(user[0]);
+			jumpTo(convertInkCoordX(parseInt(user[0].xcoord, 10)), convertInkCoordY(parseInt(user[0].ycoord, 10)));
+		}
+	});
+});

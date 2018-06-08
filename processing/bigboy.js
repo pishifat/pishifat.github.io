@@ -34,6 +34,10 @@ var lerpX;
 var lerpY;
 var lerpS;
 
+var failTimer = 0;
+var failImg;
+var failSca;
+
 //var img;
 var posX;
 var posY;
@@ -61,10 +65,14 @@ function preload()
 	frame2 = loadImage('processing/assets/frame2.png');
 	frame3 = loadImage('processing/assets/frame3.png');
 	frame4 = loadImage('processing/assets/frame4.png');
+	
+	failImg = loadImage('processing/assets/section-fail.png');
 }
 
 function setup() 
 {	
+	failSca = (windowHeight / failImg.height) * 0.5 ;
+	
 	multiWidth = frame1.width + frame2.width + frame3.width + frame4.width;
 	multiHeight = Math.max(frame1.height, frame2.height, frame3.height, frame4.height);
 	
@@ -143,9 +151,28 @@ function draw()
 		
 	pop();
 	
+	push();
+		translate(windowWidth/2, windowHeight/2);
+		scale(failSca);
+		imageMode(CENTER);
+		
+		setFailTint();
+		image(failImg,0,0);
+		tint(255,255);
+	pop();
+	
 	fill(10);
 	textAlign(RIGHT,TOP);
 	text((1/dt).toFixed(0) + " fps",windowWidth-4,4);
+	
+	if(failTimer > 0)
+	{
+		failTimer -= dt;
+	}
+	else
+	{
+		failTimer = 0;
+	}
 }
 
 function jumpTo(x,y)
@@ -323,5 +350,36 @@ $(document).ready(function ()
 				jumpTo(convertInkCoordX(parseInt(user[0].xcoord, 10)), convertInkCoordY(parseInt(user[0].ycoord, 10)));
 			}
 		}
+		else
+		{
+			// display some message
+			console.log("user not found")
+			setFailTimer();
+		}
 	});
 });
+
+function setFailTimer()
+{
+	failTimer = 1.35;
+}
+
+function setFailTint()
+{
+	if(failTimer > 1.25)
+	{
+		tint(255,255);
+	}
+	else if(failTimer > 1.2)
+	{
+		tint(255,0);
+	}
+	else if(failTimer > 0.2)
+	{
+		tint(255,255);
+	}
+	else
+	{
+		tint(255,map(failTimer, 0, 0.2, 0, 255));
+	}
+}

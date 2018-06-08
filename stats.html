@@ -8,6 +8,9 @@
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/all.css" integrity="sha384-DNOHZ68U8hZfKXOrtjWvjxusGo9WQnrNx2sqG0tfsghAvtVlRW3tvkXWZh58N9jp" crossorigin="anonymous">    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css" integrity="sha384-WskhaSGFgHYWDcbwN70/dfYBj47jz9qbsMId/iRN3ewGhXQFZCSftd1LZCfmhktB" crossorigin="anonymous">
     <link rel="stylesheet" href="util/flag-icon.min.css">
+	<link rel="icon" 
+      type="image/png" 
+      href="favicon.png">
     <style>
     .bg-grey {
         background: #333;
@@ -38,18 +41,103 @@
     </nav>
 
     <div class="container">
+	
+	<div class="row bg-light" style="margin-top:8px; padding-top:8px; padding-bottom:8px;">
+				<div class="col-sm">
+					<div class="card text-center">
+						<p class="card-title display-4">Information</p>
+						<div class="card-body">
+							<p class="card-text">This survey provided a massive amount of information. While it can be individually searched in the tree/chart views, a general showcase of interesting statistics is likely accessible to the average osu! player/mapper.</p>
+							<p class="card-text">Keep in mind that the results are not meant to decide who is "the best [whatever]." It's a way to see cool info more clearly.</p>
+						</div>
+					</div>
+				</div>
+			</div>
+	
+	<!-- most user/country mentions -->
+			<div class="bg-light" style="margin-top:8px; padding:8px;">
+				<h1 class="text-center display-4"><em>Most Mentions per Country</em></h1>
+			</div>			
+			
+			<div class="row bg-light align-items-center" style="padding-top: 10px; padding-bottom:5px;">
+				<div class="col-sm">
+					<div class="card text-center">
+						<svg class="card-img-top flag-icon-background flag-icon-cn" width="288" height="150" style="margin-top: 8px;">
+						<div class="card-body">
+							<h1 class="card-title display-4" style="color: #007bff">440</h1>
+						</div>
+						<ul class="list-group list-group-flush">
+							<li class="list-group-item lead"><a href="https://osu.ppy.sh/users/151679">NatsumeRin (57 mentions)</a></li>
+							<li class="list-group-item lead"><a href="https://osu.ppy.sh/users/418699">fanzhen0019 (38)</a></li>
+							<li class="list-group-item lead"><a href="https://osu.ppy.sh/users/835998">cRyo[iceeicee] (37)</a></li>
+						</ul>
+					</div>
+				</div>
+				<div class="col-sm">
+					<div class="card text-center">
+						<svg class="card-img-top flag-icon-background flag-icon-us" width="288" height="150" style="margin-top: 8px;">
+						<div class="card-body">
+							<h1 class="card-title display-4" style="color: #007bff">389</h1>
+						</div>
+						<ul class="list-group list-group-flush">
+							<li class="list-group-item lead"><a href="https://osu.ppy.sh/users/1047883">RLC (90 mentions)</a></li>
+							<li class="list-group-item lead"><a href="https://osu.ppy.sh/users/3178418">pishifat (69)</a></li>
+							<li class="list-group-item lead"><a href="https://osu.ppy.sh/users/465126">Shiirn (15)</a></li>
+						</ul>
+					</div>
+				</div>
+				<div class="col-sm">
+					<div class="card text-center">
+						<svg class="card-img-top flag-icon-background flag-icon-jp" width="288" height="150" style="margin-top: 8px;">
+						<div class="card-body">
+							<h1 class="card-title display-4" style="color: #007bff">241</h1>
+						</div>
+						<ul class="list-group list-group-flush">
+							<li class="list-group-item lead"><a href="https://osu.ppy.sh/users/243917">val0108 (37 mentions)</a></li>
+							<li class="list-group-item lead"><a href="https://osu.ppy.sh/users/700010">Laurier (27)</a></li>
+							<li class="list-group-item lead"><a href="https://osu.ppy.sh/users/91738">Guy (23)</a></li>
+						</ul>
+					</div>
+				</div>
+			</div>
+
+			<div class="row bg-light" style="padding-bottom:8px;">
+				<div class="col-sm">
+					<div class="card text-center">
+						<div class="card-body">
+							<p><span class="flag-icon flag-icon-ca" style="font-size: 20px"></span><span class="lead" style="color: #007bff"> 239 | </span><a class="card-text lead" href="https://osu.ppy.sh/users/2706438">Monstrata (92 mentions)</a></p>
+							<p><span class="flag-icon flag-icon-hk" style="font-size: 20px"></span><span class="lead" style="color: #007bff"> 188 | </span><a class="card-text lead" href="https://osu.ppy.sh/users/873961">Skystar (98)</a></p>
+							<p><span class="flag-icon flag-icon-ru" style="font-size: 20px"></span><span class="lead" style="color: #007bff"> 157 | </span><a class="card-text lead" href="https://osu.ppy.sh/users/301279">La Cataline (42)</a></p>
+							<p><span class="flag-icon flag-icon-kr" style="font-size: 20px"></span><span class="lead" style="color: #007bff"> 114 | </span><a class="card-text lead" href="https://osu.ppy.sh/users/87065">Nakagawa-Kanon (19)</a></p>
+							<p><span class="flag-icon flag-icon-nl" style="font-size: 20px"></span><span class="lead" style="color: #007bff"> 103 | </span><a class="card-text lead" href="https://osu.ppy.sh/users/27767">happy30 (35)</a></p>
+							<p><span class="flag-icon flag-icon-de" style="font-size: 20px"></span><span class="lead" style="color: #007bff"> 99 | </span><a class="card-text lead" href="https://osu.ppy.sh/users/12328">Larto (31)</a></p>
+							<p><span class="flag-icon flag-icon-th" style="font-size: 20px"></span><span class="lead" style="color: #007bff"> 71 | </span><a class="card-text lead" href="https://osu.ppy.sh/users/2363">DJPop (37)</a></p>
+							<p><span class="flag-icon flag-icon-tw" style="font-size: 20px"></span><span class="lead" style="color: #007bff"> 70 | </span><a class="card-text lead" href="https://osu.ppy.sh/users/87065">Alace (21)</a></p>
+							<p><span class="flag-icon flag-icon-fr" style="font-size: 20px"></span><span class="lead" style="color: #007bff"> 64 | </span><a class="card-text lead" href="https://osu.ppy.sh/users/87065">galvenize (19)</a></p>
+							<p><span class="flag-icon flag-icon-it" style="font-size: 20px"></span><span class="lead" style="color: #007bff"> 56 | </span><a class="card-text lead" href="https://osu.ppy.sh/users/87065">Andrea (30)</a></p>
+							<p><span class="flag-icon flag-icon-id" style="font-size: 20px"></span><span class="lead" style="color: #007bff"> 52 | </span><a class="card-text lead" href="https://osu.ppy.sh/users/87065">Niva (13)</a></p>
+							<p><span class="flag-icon flag-icon-gb" style="font-size: 20px"></span><span class="lead" style="color: #007bff"> 42 | </span><a class="card-text lead" href="https://osu.ppy.sh/users/87065">Natteke (23)</a></p>
+							<p><span class="flag-icon flag-icon-ph" style="font-size: 20px"></span><span class="lead" style="color: #007bff"> 41 | </span><a class="card-text lead" href="https://osu.ppy.sh/users/87065">James (26)</a></p>
+							<p><span class="flag-icon flag-icon-fi" style="font-size: 20px"></span><span class="lead" style="color: #007bff"> 40 | </span><a class="card-text lead" href="https://osu.ppy.sh/users/87065">ProfessionalBox (24)</a></p>
+							<p><span class="flag-icon flag-icon-sg" style="font-size: 20px"></span><span class="lead" style="color: #007bff"> 40 | </span><a class="card-text lead" href="https://osu.ppy.sh/users/87065">handsome (35)</a></p>
+							<p><span class="flag-icon flag-icon-br" style="font-size: 20px"></span><span class="lead" style="color: #007bff"> 30 | </span><a class="card-text lead" href="https://osu.ppy.sh/users/87065">Mismagius (17)</a></p>
+							<p><span class="flag-icon flag-icon-cl" style="font-size: 20px"></span><span class="lead" style="color: #007bff"> 29 | </span><a class="card-text lead" href="https://osu.ppy.sh/users/87065">Krisom (17)</a></p>
+						</div>
+					</div>
+				</div>
+			</div>
 
 			<!-- most user mentions -->
       <div class="bg-light" style="margin-top:8px; padding:8px; ">
-        <h1 class="text-center display-4"><em>Most Mentions</em></h1>
+        <h1 class="text-center display-4"><em>Most Mentions per User</em></h1>
 			</div>			
 			
 			<div class="row bg-light align-items-center">
 				<div class="col-sm-9">
 					<div class="card text-center">
 						<div class="card-body">
-							<h1 class="card-title display-4"><a href="https://osu.ppy.sh/users/Skystar">Skystar</a></h1>
-							<p class="card-text lead">98 (9.5% of responses)</p>
+							<h1 class="card-title display-4"><span class="flag-icon flag-icon-hk" style="font-size: 40px"></span> <a href="https://osu.ppy.sh/users/873961">Skystar</a></h1>
+							<p class="card-text lead">98 mentions (9.5% of users who replied)</p>
 						</div>
 					</div>
 				</div>
@@ -60,13 +148,13 @@
 			
 			<div class="row bg-light align-items-center">
 				<div class="col-sm-3">
-						<img class="rounded-circle border-0" src="https://a.ppy.sh/873961" alt="monstrata.png" width="200" height="200" style="padding: 8px;">
+						<img class="rounded-circle border-0" src="https://a.ppy.sh/2706438" alt="monstrata.png" width="200" height="200" style="padding: 8px;">
 				</div>
 				<div class="col-sm-9">
 					<div class="card text-center">
 						<div class="card-body">
-							<h1 class="card-title display-4"><a href="https://osu.ppy.sh/users/Monstrata">Monstrata</a></h1>
-							<p class="card-text lead">92 (8.9% of responses)</p>
+							<h1 class="card-title display-4"><span class="flag-icon flag-icon-ca" style="font-size: 40px"></span> <a href="https://osu.ppy.sh/users/2706438">Monstrata</a></h1>
+							<p class="card-text lead">92 (8.9%)</p>
 						</div>
 					</div>
 				</div>
@@ -76,13 +164,13 @@
 				<div class="col-sm-9">
 					<div class="card text-center">
 						<div class="card-body">
-							<h1 class="card-title display-4"><a href="https://osu.ppy.sh/users/rlc">RLC</a></h1>
-							<p class="card-text lead">89 (8.6% of responses)</p>
+							<h1 class="card-title display-4"><span class="flag-icon flag-icon-us" style="font-size: 40px"></span> <a href="https://osu.ppy.sh/users/1047883">RLC</a></h1>
+							<p class="card-text lead">89 (8.6%)</p>
 						</div>
 					</div>
 				</div>
 				<div class="col-sm-3">
-						<img class="rounded-circle border-0" src="https://a.ppy.sh/873961" alt="rlc.png" width="200" height="200" style="padding: 8px;">
+						<img class="rounded-circle border-0" src="https://a.ppy.sh/1047883" alt="rlc.png" width="200" height="200" style="padding: 8px;">
 				</div>
 			</div>
 
@@ -90,13 +178,13 @@
 				<div class="col-sm">
 					<div class="card text-center">
 						<div class="card-body">
-								<p><a class="card-text lead" href="#">4</a></p>
-								<p><a class="card-text lead" href="#">4</a></p>
-								<p><a class="card-text lead" href="#">4</a></p>
-								<p><a class="card-text lead" href="#">4</a></p>
-								<p><a class="card-text lead" href="#">4</a></p>
-								<p><a class="card-text lead" href="#">4</a></p>
-								<p><a class="card-text lead" href="#">4</a></p>
+								<p><span class="flag-icon flag-icon-us" style="font-size: 20px"></span><span class="lead" style="color: #007bff"> </span><a class="card-text lead" href="https://osu.ppy.sh/users/3178418">pishifat (69 mentions)</a></p>
+								<p><span class="flag-icon flag-icon-cn" style="font-size: 20px"></span><span class="lead" style="color: #007bff"> </span><a class="card-text lead" href="https://osu.ppy.sh/users/151679">NatsumeRin (57)</a></p>
+								<p><span class="flag-icon flag-icon-ru" style="font-size: 20px"></span><span class="lead" style="color: #007bff"> </span><a class="card-text lead" href="https://osu.ppy.sh/users/3178418">La Cataline (42)</a></p>
+								<p><span class="flag-icon flag-icon-cn" style="font-size: 20px"></span><span class="lead" style="color: #007bff"> </span><a class="card-text lead" href="https://osu.ppy.sh/users/3178418">fanzhen0019 (38)</a></p>
+								<p><span class="flag-icon flag-icon-jp" style="font-size: 20px"></span><span class="lead" style="color: #007bff"> </span><a class="card-text lead" href="https://osu.ppy.sh/users/3178418">val0108 (37)</a></p>
+								<p><span class="flag-icon flag-icon-th" style="font-size: 20px"></span><span class="lead" style="color: #007bff"> </span><a class="card-text lead" href="https://osu.ppy.sh/users/3178418">DJPop (37)</a></p>
+								<p><span class="flag-icon flag-icon-cn" style="font-size: 20px"></span><span class="lead" style="color: #007bff"> </span><a class="card-text lead" href="https://osu.ppy.sh/users/3178418">cRyo[iceeicee] (37)</a></p>
 						</div>
 					</div>
 				</div>
@@ -108,16 +196,18 @@
 						<div class="card-body">
 							<div class="row">
 								<div class="col-sm">
-									<p><a class="card-text lead" href="#" style="font-size: 15px">4</a></p>
-									<p><a class="card-text lead" href="#" style="font-size: 15px">4</a></p>
-									<p><a class="card-text lead" href="#" style="font-size: 15px">4</a></p>
-									<p><a class="card-text lead" href="#" style="font-size: 15px">4</a></p>
+									<p><span class="flag-icon flag-icon-nl" style="font-size: 15px"></span><span class="lead" style="color: #007bff"> </span><a class="card-text lead" style="font-size: 15px" href="https://osu.ppy.sh/users/27767">happy30 (35)</a></p>
+									<p><span class="flag-icon flag-icon-sg" style="font-size: 15px"></span><span class="lead" style="color: #007bff"> </span><a class="card-text lead" style="font-size: 15px" href="https://osu.ppy.sh/users/2123087">handsome (35)</a></p>
+									<p><span class="flag-icon flag-icon-ru" style="font-size: 15px"></span><span class="lead" style="color: #007bff"> </span><a class="card-text lead" style="font-size: 15px" href="https://osu.ppy.sh/users/1848318">Jounzan (34)</a></p>
+									<p><span class="flag-icon flag-icon-cn" style="font-size: 15px"></span><span class="lead" style="color: #007bff"> </span><a class="card-text lead" style="font-size: 15px" href="https://osu.ppy.sh/users/416662">Hollow Wings (33)</a></p>
+									<p><span class="flag-icon flag-icon-ca" style="font-size: 15px"></span><span class="lead" style="color: #007bff"> </span><a class="card-text lead" style="font-size: 15px" href="https://osu.ppy.sh/users/270377">jonathanlfj (33)</a></p>
 								</div>
 								<div class="col-sm">
-									<p><a class="card-text lead" href="#" style="font-size: 15px">4</a></p>
-									<p><a class="card-text lead" href="#" style="font-size: 15px">4</a></p>
-									<p><a class="card-text lead" href="#" style="font-size: 15px">4</a></p>
-									<p><a class="card-text lead" href="#" style="font-size: 15px">4</a></p>
+									<p><span class="flag-icon flag-icon-nl" style="font-size: 15px"></span><span class="lead" style="color: #007bff"> </span><a class="card-text lead" style="font-size: 15px" href="https://osu.ppy.sh/users/44308">Lesjuh (32)</a></p>
+									<p><span class="flag-icon flag-icon-de" style="font-size: 15px"></span><span class="lead" style="color: #007bff"> </span><a class="card-text lead" style="font-size: 15px" href="https://osu.ppy.sh/users/12328">Larto (31)</a></p>
+									<p><span class="flag-icon flag-icon-it" style="font-size: 15px"></span><span class="lead" style="color: #007bff"> </span><a class="card-text lead" style="font-size: 15px" href="https://osu.ppy.sh/users/33599">Andrea (30)</a></p>
+									<p><span class="flag-icon flag-icon-jp" style="font-size: 15px"></span><span class="lead" style="color: #007bff"> </span><a class="card-text lead" style="font-size: 15px" href="https://osu.ppy.sh/users/700010">Laurier (27)</a></p>
+									<p><span class="flag-icon flag-icon-hk" style="font-size: 15px"></span><span class="lead" style="color: #007bff"> </span><a class="card-text lead" style="font-size: 15px" href="https://osu.ppy.sh/users/1367570">Rizia (27)</a></p>
 								</div>
 							</div>
 						</div>
@@ -131,12 +221,18 @@
 						<div class="card-body">
 							<div class="row">
 								<div class="col-sm">
-									<p><a class="card-text lead" href="#" style="font-size: 12px">4</a></p>
-									<p><a class="card-text lead" href="#" style="font-size: 12px">4</a></p>
+									<p><span class="flag-icon flag-icon-ph" style="font-size: 15px"></span><span class="lead" style="color: #007bff"> </span><a class="card-text lead" style="font-size: 15px" href="https://osu.ppy.sh/users/5728">James (26)</a></p>
+									<p><span class="flag-icon flag-icon-ca" style="font-size: 15px"></span><span class="lead" style="color: #007bff"> </span><a class="card-text lead" style="font-size: 15px" href="https://osu.ppy.sh/users/13996">Shinxyn (26)</a></p>
+									<p><span class="flag-icon flag-icon-cn" style="font-size: 15px"></span><span class="lead" style="color: #007bff"> </span><a class="card-text lead" style="font-size: 15px" href="https://osu.ppy.sh/users/1876867">Fycho (26)</a></p>
+									<p><span class="flag-icon flag-icon-cn" style="font-size: 15px"></span><span class="lead" style="color: #007bff"> </span><a class="card-text lead" style="font-size: 15px" href="https://osu.ppy.sh/users/106767">tsuka (25)</a></p>
+									<p><span class="flag-icon flag-icon-fi" style="font-size: 15px"></span><span class="lead" style="color: #007bff"> </span><a class="card-text lead" style="font-size: 15px" href="https://osu.ppy.sh/users/3250792">ProfessionalBox (24)</a></p>
 								</div>
 								<div class="col-sm">
-									<p><a class="card-text lead" href="#" style="font-size: 12px">4</a></p>
-									<p><a class="card-text lead" href="#" style="font-size: 12px">4</a></p>
+									<p><span class="flag-icon flag-icon-gb" style="font-size: 15px"></span><span class="lead" style="color: #007bff"> </span><a class="card-text lead" style="font-size: 15px" href="https://osu.ppy.sh/users/157177">Natteke (23)</a></p>
+									<p><span class="flag-icon flag-icon-jp" style="font-size: 15px"></span><span class="lead" style="color: #007bff"> </span><a class="card-text lead" style="font-size: 15px" href="https://osu.ppy.sh/users/91738">Guy (23)</a></p>
+									<p><span class="flag-icon flag-icon-th" style="font-size: 15px"></span><span class="lead" style="color: #007bff"> </span><a class="card-text lead" style="font-size: 15px" href="https://osu.ppy.sh/users/199669">Frostmourne (22)</a></p>
+									<p><span class="flag-icon flag-icon-tw" style="font-size: 15px"></span><span class="lead" style="color: #007bff"> </span><a class="card-text lead" style="font-size: 15px" href="https://osu.ppy.sh/users/25993">Alace (21)</a></p>
+									<p><span class="flag-icon flag-icon-kr" style="font-size: 15px"></span><span class="lead" style="color: #007bff"> </span><a class="card-text lead" style="font-size: 15px" href="https://osu.ppy.sh/users/87065">Nakagawa-Kanon (19)</a></p>
 								</div>
 							</div>
 						</div>
@@ -150,81 +246,48 @@
 						<div class="card-body">
 							<div class="row">
 								<div class="col-sm">
-									<p><a class="card-text lead" href="#" style="font-size: 10px">4</a></p>
-									<p><a class="card-text lead" href="#" style="font-size: 10px">4</a></p>
+									<p><span class="flag-icon flag-icon-fr" style="font-size: 15px"></span><span class="lead" style="color: #007bff"> </span><a class="card-text lead" style="font-size: 15px" href="https://osu.ppy.sh/users/381444">galvenize (19)</a></p>
+									<p><span class="flag-icon flag-icon-cr" style="font-size: 15px"></span><span class="lead" style="color: #007bff"> </span><a class="card-text lead" style="font-size: 15px" href="https://osu.ppy.sh/users/150768">LKs (18)</a></p>
+									<p><span class="flag-icon flag-icon-jp" style="font-size: 15px"></span><span class="lead" style="color: #007bff"> </span><a class="card-text lead" style="font-size: 15px" href="https://osu.ppy.sh/users/153323">Muya (18)</a></p>
+									<p><span class="flag-icon flag-icon-br" style="font-size: 15px"></span><span class="lead" style="color: #007bff"> </span><a class="card-text lead" style="font-size: 15px" href="https://osu.ppy.sh/users/19048">Mismagius (17)</a></p>
+									<p><span class="flag-icon flag-icon-cl" style="font-size: 15px"></span><span class="lead" style="color: #007bff"> </span><a class="card-text lead" style="font-size: 15px" href="https://osu.ppy.sh/users/99269">Krisom (17)</a></p>
 								</div>
 								<div class="col-sm">
-									<p><a class="card-text lead" href="#" style="font-size: 10px">4</a></p>
-									<p><a class="card-text lead" href="#" style="font-size: 10px">4</a></p>
+									<p><span class="flag-icon flag-icon-sv" style="font-size: 15px"></span><span class="lead" style="color: #007bff"> </span><a class="card-text lead" style="font-size: 15px" href="https://osu.ppy.sh/users/1953876">Natsu (17)</a></p>
+									<p><span class="flag-icon flag-icon-de" style="font-size: 15px"></span><span class="lead" style="color: #007bff"> </span><a class="card-text lead" style="font-size: 15px" href="https://osu.ppy.sh/users/896613">Lasse (17)</a></p>
+									<p><span class="flag-icon flag-icon-mx" style="font-size: 15px"></span><span class="lead" style="color: #007bff"> </span><a class="card-text lead" style="font-size: 15px" href="https://osu.ppy.sh/users/1467715">Gero (16)</a></p>
+									<p><span class="flag-icon flag-icon-tw" style="font-size: 15px"></span><span class="lead" style="color: #007bff"> </span><a class="card-text lead" style="font-size: 15px" href="https://osu.ppy.sh/users/12248">kioukiou (16)</a></p>
+									<p><span class="flag-icon flag-icon-ar" style="font-size: 15px"></span><span class="lead" style="color: #007bff"> </span><a class="card-text lead" style="font-size: 15px" href="https://osu.ppy.sh/users/108066">Cyril Scarlet (15)</a></p>
 								</div>
 							</div>
 						</div>
 					</div>
 				</div>
 			</div>
-
-			<div class="row bg-light" style="padding-bottom:8px;">
-				<div class="col-sm">
-					<div class="card text-center">
-						<div class="card-body">
-							<div class="row">
-								<div class="col-sm">
-									<p><a class="card-text lead" href="#" style="font-size: 8px">4</a></p>
-									<p><a class="card-text lead" href="#" style="font-size: 8px">4</a></p>
-								</div>
-								<div class="col-sm">
-									<p><a class="card-text lead" href="#" style="font-size: 8px">4</a></p>
-									<p><a class="card-text lead" href="#" style="font-size: 8px">4</a></p>
-								</div>
-							</div>
-						</div>
-					</div>
-				</div>
-			</div>
-
-			<!-- most user/country mentions -->
-			<div class="bg-light" style="margin-top:8px; padding:8px;">
-				<h1 class="text-center display-4"><em>Most Mentions per Country</em></h1>
-			</div>			
 			
-			<div class="row bg-light align-items-center" style="padding-top: 10px; padding-bottom:5px;">
+			
+
+			<div class="row bg-light" style="padding-bottom:8px;">
 				<div class="col-sm">
 					<div class="card text-center">
-						<svg class="card-img-top flag-icon-background flag-icon-cn" width="288" height="150" style="margin-top: 8px;">
 						<div class="card-body">
-							<h1 class="card-title display-4" style="color: #007bff">436</h1>
+							<div class="row">
+								<div class="col-sm">
+									<p><span class="flag-icon flag-icon-ch" style="font-size: 15px"></span><span class="lead" style="color: #007bff"> </span><a class="card-text lead" style="font-size: 15px" href="https://osu.ppy.sh/users/1287964">Irreversible (15)</a></p>
+									<p><span class="flag-icon flag-icon-us" style="font-size: 15px"></span><span class="lead" style="color: #007bff"> </span><a class="card-text lead" style="font-size: 15px" href="https://osu.ppy.sh/users/465126">Shiirn (15)</a></p>
+									<p><span class="flag-icon flag-icon-cn" style="font-size: 15px"></span><span class="lead" style="color: #007bff"> </span><a class="card-text lead" style="font-size: 15px" href="https://osu.ppy.sh/users/60294">DaRRi (14)</a></p>
+									<p><span class="flag-icon flag-icon-cn" style="font-size: 15px"></span><span class="lead" style="color: #007bff"> </span><a class="card-text lead" style="font-size: 15px" href="https://osu.ppy.sh/users/104401">AngelHoney (14)</a></p>
+									<p><span class="flag-icon flag-icon-fr" style="font-size: 15px"></span><span class="lead" style="color: #007bff"> </span><a class="card-text lead" style="font-size: 15px" href="https://osu.ppy.sh/users/4452992">Sotarks (14)</a></p>
+								</div>
+								<div class="col-sm">
+									<p><span class="flag-icon flag-icon-jp" style="font-size: 15px"></span><span class="lead" style="color: #007bff"> </span><a class="card-text lead" style="font-size: 15px" href="https://osu.ppy.sh/users/352328">rrtyui (14)</a></p>
+									<p><span class="flag-icon flag-icon-ru" style="font-size: 15px"></span><span class="lead" style="color: #007bff"> </span><a class="card-text lead" style="font-size: 15px" href="https://osu.ppy.sh/users/597957">Bakari (14)</a></p>
+									<p><span class="flag-icon flag-icon-us" style="font-size: 15px"></span><span class="lead" style="color: #007bff"> </span><a class="card-text lead" style="font-size: 15px" href="https://osu.ppy.sh/users/4785223">Nathan (14)</a></p>
+									<p><span class="flag-icon flag-icon-id" style="font-size: 15px"></span><span class="lead" style="color: #007bff"> </span><a class="card-text lead" style="font-size: 15px" href="https://osu.ppy.sh/users/197805">Niva (13)</a></p>
+									<p><span class="flag-icon flag-icon-ca" style="font-size: 15px"></span><span class="lead" style="color: #007bff"> </span><a class="card-text lead" style="font-size: 15px" href="https://osu.ppy.sh/users/682935">Nyquill (13)</a></p>
+								</div>
+							</div>
 						</div>
-						<ul class="list-group list-group-flush">
-							<li class="list-group-item lead"><a href="https://osu.ppy.sh/users/NatsumeRin">NatsumeRin</a></li>
-							<li class="list-group-item lead"><a href="https://osu.ppy.sh/users/fanzhen0019">fanzhen0019</a></li>
-							<li class="list-group-item lead"><a href="https://osu.ppy.sh/users/cRyo[iceeicee]">cRyo[iceeicee]</a></li>
-						</ul>
-					</div>
-				</div>
-				<div class="col-sm">
-					<div class="card text-center">
-						<svg class="card-img-top flag-icon-background flag-icon-us" width="288" height="150" style="margin-top: 8px;">
-						<div class="card-body">
-							<h1 class="card-title display-4" style="color: #007bff">384</h1>
-						</div>
-						<ul class="list-group list-group-flush">
-							<li class="list-group-item lead"><a href="https://osu.ppy.sh/users/RLC">RLC</a></li>
-							<li class="list-group-item lead"><a href="https://osu.ppy.sh/users/fanzhen0019">fanzhen0019</a></li>
-							<li class="list-group-item lead"><a href="https://osu.ppy.sh/users/cRyo[iceeicee]">cRyo[iceeicee]</a></li>
-						</ul>
-					</div>
-				</div>
-				<div class="col-sm">
-					<div class="card text-center">
-						<svg class="card-img-top flag-icon-background flag-icon-ca" width="288" height="150" style="margin-top: 8px;">
-						<div class="card-body">
-							<h1 class="card-title display-4" style="color: #007bff">238</h1>
-						</div>
-						<ul class="list-group list-group-flush">
-							<li class="list-group-item lead"><a href="https://osu.ppy.sh/users/RLC">RLC</a></li>
-							<li class="list-group-item lead"><a href="https://osu.ppy.sh/users/fanzhen0019">fanzhen0019</a></li>
-							<li class="list-group-item lead"><a href="https://osu.ppy.sh/users/cRyo[iceeicee]">cRyo[iceeicee]</a></li>
-						</ul>
 					</div>
 				</div>
 			</div>
@@ -233,9 +296,34 @@
 				<div class="col-sm">
 					<div class="card text-center">
 						<div class="card-body">
-							<p><span class="flag-icon flag-icon-jp" style="font-size: 20px"></span><span class="lead" style="color: #007bff"> 237 | </span><a class="card-text lead" href="#">val0108</a></p>
-							<p><span class="flag-icon flag-icon-hk" style="font-size: 20px"></span><span class="lead" style="color: #007bff"> 186 | </span><a class="card-text lead" href="#">Skystar</a></p>
-							<p><span class="flag-icon flag-icon-ru" style="font-size: 20px"></span><span class="lead" style="color: #007bff"> 153 | </span><a class="card-text lead" href="#">La Cataline</a></p>
+							<div class="row">
+								<div class="col-sm">
+									<a class="card-text lead" style="font-size: 20px" href="https://osu.ppy.sh/users/682935">See full results here</a>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+			
+			<div class="row bg-light" style="margin-top:8px; padding-top:8px; padding-bottom:8px;">
+				<div class="col-sm">
+					<div class="card text-center">
+						<p class="card-title display-4" data-toggle="tooltip" title="year determined by date of first ranked map"><em>Most Mentioned Users per Year*</em></p>
+						<div class="card-body" >
+							<p><span class="lead" > <b>2007</b></span><br></span><span class="flag-icon flag-icon-th" style="font-size: 20px"></span><a class="card-text lead" href="https://osu.ppy.sh/users/2363"> DJPop (37 mentions)</a></p>
+							<p><span class="lead" > <b>2008</b></span><br></span><span class="flag-icon flag-icon-nl" style="font-size: 20px"></span><a class="card-text lead" href="https://osu.ppy.sh/users/27767"> happy30 (35)</a></p>
+							<p><span class="lead" > <b>2009</b></span><br></span><span class="flag-icon flag-icon-nl" style="font-size: 20px"></span><a class="card-text lead" href="https://osu.ppy.sh/users/44308"> Lesjuh (32)</a></p>
+							<p><span class="lead" > <b>2010</b></span><br></span><span class="flag-icon flag-icon-cn" style="font-size: 20px"></span><a class="card-text lead" href="https://osu.ppy.sh/users/151679"> NatsumeRin (57)</a></p>
+							<p><span class="lead" > <b>2011</b></span><br></span><span class="flag-icon flag-icon-cn" style="font-size: 20px"></span><a class="card-text lead" href="https://osu.ppy.sh/users/418699"> fanzhen0019 (38)</a></p>
+							<p><span class="lead" > <b>2012</b></span><br></span><span class="flag-icon flag-icon-hk" style="font-size: 20px"></span><a class="card-text lead" href="https://osu.ppy.sh/users/873961"> Skystar (98)</a></p>
+							<p><span class="lead" > <b>2013</b></span><br></span><span class="flag-icon flag-icon-us" style="font-size: 20px"></span><a class="card-text lead" href="https://osu.ppy.sh/users/1047883"> RLC (89)</a></p>
+							<p><span class="lead" > <b>2014</b></span><br></span><span class="flag-icon flag-icon-us" style="font-size: 20px"></span><a class="card-text lead" href="https://osu.ppy.sh/users/3178418"> pishifat (69)</a></p>
+							<p><span class="lead" > <b>2015</b></span><br></span><span class="flag-icon flag-icon-ca" style="font-size: 20px"></span><a class="card-text lead" href="https://osu.ppy.sh/users/2706438"> Monstrata (92)</a></p>
+							<p><span class="lead" > <b>2016</b></span><br></span><span class="flag-icon flag-icon-ph" style="font-size: 20px"></span><a class="card-text lead" href="https://osu.ppy.sh/users/4754771"> -Laura- (12)</a></p>
+							<p><span class="lead" > <b>2017</b></span><br></span><span class="flag-icon flag-icon-de" style="font-size: 20px"></span><a class="card-text lead" href="https://osu.ppy.sh/users/8688812"> Mir (5)</a></p>
+						
+							
 						</div>
 					</div>
 				</div>
@@ -245,15 +333,18 @@
 			<div class="row bg-light" style="margin-top:8px; padding-top:8px; padding-bottom:8px;">
 				<div class="col-sm">
 					<div class="card text-center">
-						<p class="card-title display-4">Responses from Most Mentioned</p>
-						<ul class="list-group list-group-flush">
-							<li class="list-group-item lead" style="color: #007bff">20/20  [highest mentioned] gave responses</li>
-							<li class="list-group-item lead" style="color: #007bff">45/50 " "</li>
-							<li class="list-group-item lead" style="color: #007bff">88/100 " "</li>
-						</ul>
+						<p class="card-title display-4"><em>Responses</em></p>
 						<div class="card-body">
-							<p class="card-text lead">overall turnout was higher than expected!</p>
+							<p class="card-text">Reply rate for the three-mapper-influences question was higher than expected! With so many messages being sent to users who are no longer active in the game, it was unlikely to receive even half the potential replies. With help from <a href="https://osu.ppy.sh/u/873961">Skystar</a>, <a href="https://osu.ppy.sh/u/873961">KSHR</a>, <a href="https://osu.ppy.sh/u/873961">alacat</a>, <a href="https://osu.ppy.sh/u/873961">Chaoslitz</a>, <a href="https://osu.ppy.sh/u/873961">Jounzan</a>, <a href="https://osu.ppy.sh/u/873961">Heatherfield</a>, <a href="https://osu.ppy.sh/u/873961">Frostmourne</a>, <a href="https://osu.ppy.sh/u/873961">spboxer3</a> and <a href="https://osu.ppy.sh/u/19048">Mismagius</a>, a lot of inactive users were contacted!</p>
 						</div>
+						<ul class="list-group list-group-flush">
+							<li class="list-group-item lead" style="color: #007bff">All 20 most mentioned mappers provided their influences</li>
+							<li class="list-group-item lead" style="color: #007bff">45 of the 50 most mentioned responded</li>
+							<li class="list-group-item lead" style="color: #007bff">88 of the 100 most mentioned responded</li>
+						</ul>
+						<p></p>
+						<p class="card-title display-4" data-toggle="tooltip" title="year determined by date of first ranked map" style="font-size: 35px">Response Rate per Year*</p>
+						<center><img src="responserate.png" style="width: 1000px"></center>
 					</div>
 				</div>
 			</div>
@@ -263,15 +354,15 @@
 					<div class="card text-center">
 						<div class="card-body">
 							<h1 class="card-title display-4" style="color: #007bff">1775</h1>
-							<p class="card-text lead" data-toggle="tooltip" title="names collected from osu’s API, then list narrowed down by users whose accounts still exist. namechanges and restrictions fall through the cracks, with a few exceptions for those who are mentioned by other users">number of messages sent</p>
+							<p class="card-text lead">Mappers contacted</p>
 						</div>
 					</div>
 				</div>
 				<div class="col-sm">
 					<div class="card text-center">
 						<div class="card-body">
-							<h1 class="card-title display-4" style="color: #007bff">1034</h1>
-							<p class="card-text lead">number of responses</p>
+							<h1 class="card-title display-4" style="color: #007bff">1036</h1>
+							<p class="card-text lead">Mappers responded</p>
 						</div>
 					</div>
 				</div>
@@ -282,15 +373,15 @@
 					<div class="card text-center">
 						<div class="card-body">
 							<h1 class="card-title display-4" style="color: #007bff">2725</h1>
-							<p class="card-text lead" data-toggle="tooltip" title="many people mentioned 2, 1 or 0 users">total users mentioned</p>
+							<p class="card-text lead" data-toggle="tooltip" title="many names were repeated between different uesrs and some people mentioned 2, 1 or 0 users">Influences mentioned*</p>
 						</div>
 					</div>
 				</div>
 				<div class="col-sm">
 					<div class="card text-center">
 						<div class="card-body">
-							<h1 class="card-title display-4" style="color: #007bff">500</h1>
-							<p class="card-text lead">no but total individuals mentioned</p>
+							<h1 class="card-title display-4" style="color: #007bff">529</h1>
+							<p class="card-text lead" data-toggle="tooltip" title="includes mappers mentioned by the 1036 responders">Mappers who influenced others*</p>
 						</div>
 					</div>
 				</div>
@@ -301,7 +392,7 @@
 					<div class="card text-center">
 						<div class="card-body">
 							<h1 class="card-title display-4" style="color: #007bff">8</h1>
-							<p class="card-text lead" data-toggle="tooltip" title="many people mentioned 2, 1 or 0 users">amount of DS dev people</p>
+							<p class="card-text lead" data-toggle="tooltip" title="many people mentioned 2, 1 or 0 users">Mappers who mentioned the original DS game</p>
 						</div>
 					</div>
 				</div>
@@ -309,7 +400,7 @@
 					<div class="card text-center">
 						<div class="card-body">
 							<h1 class="card-title display-4" style="color: #007bff">33</h1>
-							<p class="card-text lead">amount of “none” people</p>
+							<p class="card-text lead">Mappers who take influence from nobody</p>
 						</div>
 					</div>
 				</div>

@@ -9,19 +9,17 @@
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css" integrity="sha384-WskhaSGFgHYWDcbwN70/dfYBj47jz9qbsMId/iRN3ewGhXQFZCSftd1LZCfmhktB" crossorigin="anonymous">
     <link rel="stylesheet" href="util/branches.css">
     <link rel="stylesheet" href="util/flag-icon.min.css">	
-	<link rel="icon" 
-    type="image/png" 
-    href="favicon.png">
+	<link rel="icon" type="image/png" href="favicon.png">
   </head>
 
   <body class="bg-grey">
 
-    <nav class="navbar navbar-expand-lg navbar-light bg-light" style="padding-top: 0; padding-bottom: 0">
-      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+    <nav class="navbar navbar-expand-lg navbar-light bg-light">
+      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbar" aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
       </button>
     
-      <div class="collapse navbar-collapse" id="navbarSupportedContent">
+      <div class="collapse navbar-collapse" id="navbar">
         <ul class="navbar-nav mr-auto">
           <li class="nav-item active">
             <a class="nav-link" href="index.html">Treeview</a>
@@ -37,10 +35,12 @@
     </nav>
 
     <div class="container">
-      	<div class="row bg-light" style="margin-top:8px; padding-top:8px; padding-bottom:8px;">
+        <div class="bg-light title" style="margin-top:8px; padding-top:8px; padding-bottom:8px;">
+          <h1 class="text-center display-4"><em>Mapper Influences</em></h1>
+        </div>
+      	<div class="row bg-light" style="padding-top:8px; padding-bottom:8px;">
 				<div class="col-sm">
 					<div class="card text-center">
-						<p class="card-title display-4">Mapper Influences</p>
 						<div class="card-body">
 							<p class="card-text">In May 2018, most mappers with ranked maps were asked for the names of the three mappers who most influenced their mapping. This website serves to show the results of that question!</p>
 							<p class="card-text">In the box below, type the name of any mapper to see who they consider personally influential. "Mentions" refers to another user including a user as one of their influences. In the chart (accessible from the upper menu), visually see how those connections are formed. In the stats page, see some of the more interesting general aspects of the results.</p>
@@ -51,17 +51,19 @@
 				</div>
 			</div>
 
-      <div class="row bg-light" style="margin:5px; padding:5px">
-        <form id="submitUser" method="get" class="form-inline">
-          <div class="form-group">
-            <label for="user" class="mr-2">Username/id:</label>
-            <input id="user" type="text" name="user" class="form-control mr-2">
-          </div>
-          <button type="submit" class="btn">Submit</button>
-        </form>
+      <div class="row bg-light" style="padding-top:8px; padding-bottom:8px; margin-top:8px;">
+        <div class="col-sm">
+          <form id="submitUser" method="get" class="form-inline">
+            <div class="form-group">
+              <label for="user" class="mr-2">Username/id:</label>
+              <input id="user" type="text" name="user" class="form-control mr-2">
+            </div>
+            <button type="submit" class="btn">Submit</button>
+          </form>
+        </div>
       </div>
 
-      <div class="row bg-light" style="margin:5px; padding:5px">
+      <div class="row bg-light" style="padding-top:8px; padding-bottom:8px; margin-top:8px;">
         <div class="panel panel-default">
           <div class="panel-body">
             <ul class="treeview"></ul>

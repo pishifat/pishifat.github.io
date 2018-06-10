@@ -349,6 +349,11 @@ $(document).ready(function ()
 			{
 				jumpTo(convertInkCoordX(parseInt(user[0].xcoord, 10)), convertInkCoordY(parseInt(user[0].ycoord, 10)));
 			}
+			else
+			{
+				console.log("user found, but they are only in treeview")
+				setFailTimer();
+			}
 		}
 		else
 		{

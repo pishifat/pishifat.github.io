@@ -123,9 +123,9 @@ function draw()
 	textSize(16)
 	textFont(font);
 	fill(255);
-	text("click+drag to pan",4,16);
-	text("left/right to rotate",4,36);
-	text("up/down to zoom",4,56);
+	//text("click+drag to pan",4,16);
+	//text("left/right to rotate",4,36);
+	//text("up/down to zoom",4,56);
 	//textAlign(RIGHT,TOP);
 	//text((1/dt).toFixed(0) + " fps",windowWidth-4,4);
 	

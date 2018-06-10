@@ -7,6 +7,7 @@
 		<meta name="viewport" width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0>
 		<style> body { padding: 0; margin: 0;} canvas {image-rendering: pixelated;}</style>
 		<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css" integrity="sha384-WskhaSGFgHYWDcbwN70/dfYBj47jz9qbsMId/iRN3ewGhXQFZCSftd1LZCfmhktB" crossorigin="anonymous">
+		<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/all.css" integrity="sha384-DNOHZ68U8hZfKXOrtjWvjxusGo9WQnrNx2sqG0tfsghAvtVlRW3tvkXWZh58N9jp" crossorigin="anonymous"> 
 		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
 		<script src="util/db.js"></script>
 		<script src="processing/p5.min.js"></script>
@@ -32,6 +33,7 @@
             <a class="nav-link" href="stats.html">Stats</a>
           </li>
         </ul>
+		<span class="nav-item" style="padding-right:30px; font-size:10px;" data-toggle="tooltip" title="'mentions' refer to each time someone is included in someone else's influences list">move with mouse/arrow keys, zoom with scroll | time=x, # of mentions=y | chart includes mappers with 2+ generations of influences | colors have no meaning</span><br>
 		    <form id="submitBigBoy" method="get" class="form-inline">
           <input id="user" type="text" placeholder="Username/id" name="user" class="form-control mr-sm-2">
           <button type="submit" class="btn btn-outline-primary">Submit</button>

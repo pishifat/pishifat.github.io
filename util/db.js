@@ -1254,7 +1254,7 @@ db["Theaceae"]=db["1855540"]=db["Smoothie World"]=[{"userId":"1855540","mentions
 db["taku"]=db["684433"]=[{"userId":"684433","mentions":"0","username":"taku","country":"NL","influences":["fanzhen0019","HanzeR","Skystar"]}];
 db["lit120"]=db["3109248"]=[{"userId":"3109248","mentions":"0","username":"lit120","country":"ID","influences":["Andrea","Natsu","Monstrata"]}];
 db["sodarose"]=db["986714"]=[{"userId":"986714","mentions":"0","username":"sodarose","country":"CN","influences":["Laurier","Fycho","IamKwaN"]}];
-db["ak74"]=db["1231762"]=db["ak74qbz95xm8"]=[{"userId":"1231762","mentions":"1","username":"ak74","country":"CN","influences":["nold_1702","rrtyui","fanzhen0019"],"alt":"ak74qbz95xm8"}];
+db["ak74"]=db["1231762"]=db["ak74qbz95xm8"]=[{"userId":"1231762","mentions":"0","username":"ak74","country":"CN","influences":["nold_1702","rrtyui","fanzhen0019"],"alt":"ak74qbz95xm8"}];
 db["Taeyang"]=db["2732340"]=[{"userId":"2732340","mentions":"12","username":"Taeyang","country":"KR","influences":["Rugure","Aqo","Amai Chocolate"],"xcoord":"25392","ycoord":"1371"}];
 db["AsakuraNe"]=db["5682273"]=[{"userId":"5682273","mentions":"0","username":"AsakuraNe","country":"PH","influences":[]}];
 db["4anke"]=db["3158845"]=[{"userId":"3158845","mentions":"0","username":"4anke","country":"CN","influences":[]}];

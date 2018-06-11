@@ -21,7 +21,7 @@ $(document).ready(function (){
 				var $ul = $("<ul>");
 				var text = "";
 				if (user[0].none == "none")
-					text = "Noone...";
+					text = "None...";
 				else
 					text = "iNiS";
 					

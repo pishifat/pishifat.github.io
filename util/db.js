@@ -1293,7 +1293,7 @@ db["Misure"]=db["1949710"]=[{"userId":"1949710","mentions":"1","username":"Misur
 db["Bonsai"]=db["987334"]=[{"userId":"987334","mentions":"0","username":"Bonsai","country":"AT","influences":["Mismagius"]}];
 db["Yoges"]=db["3821342"]=[{"userId":"3821342","mentions":"0","username":"Yoges","country":"IE","influences":[],"none":"none"}];
 db["Xexxar"]=db["2773526"]=[{"userId":"2773526","mentions":"3","username":"Xexxar","country":"US","influences":["RLC","Broccoly","caren_sk"],"xcoord":"26432","ycoord":"751"}];
-db["z1085684963"]=db["1816779"]=[{"userId":"1816779","mentions":"0","username":"z1085684963","country":"CN","influences":["Skystar","ak74"]}];
+db["z1085684963"]=db["1816779"]=[{"userId":"1816779","mentions":"0","username":"z1085684963","country":"CN","influences":["Skystar"]}];
 db["Garden"]=db["2849992"]=[{"userId":"2849992","mentions":"1","username":"Garden","country":"CN","influences":["Karia","Koiyuki","ShiraKai"]}];
 db["Enon"]=db["2043401"]=[{"userId":"2043401","mentions":"0","username":"Enon","country":"KR","influences":["Startrick","jieusieu","Nakagawa-Kanon"]}];
 db["Spaghetti"]=db["4761930"]=[{"userId":"4761930","mentions":"0","username":"Spaghetti","country":"AR","influences":[]}];

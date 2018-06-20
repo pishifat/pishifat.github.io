@@ -1,6 +1,6 @@
 var db={};
 
-db["peppy"]=db["2"]=[{"userId":"2","mentions":"1","username":"peppy","country":"AU","influences":[]}];
+db["peppy"]=db["2"]=[{"userId":"2","mentions":"2","username":"peppy","country":"AU","influences":[]}];
 db["McxD"]=db["10984521"]=[{"userId":"10984521","mentions":"0","username":"McxD","country":"RU","influences":[]}];
 db["FFFanatic"]=db["677"]=[{"userId":"677","mentions":"3","username":"FFFanatic","country":"SG","influences":[],"xcoord":"1472","ycoord":"741"}];
 db["Extor"]=db["555"]=[{"userId":"555","mentions":"0","username":"Extor","country":"AR","influences":[],"none":"iNiS"}];
@@ -10,7 +10,7 @@ db["tsububu"]=db["61"]=[{"userId":"61","mentions":"0","username":"tsububu","coun
 db["Kylecito"]=db["488"]=[{"userId":"488","mentions":"0","username":"Kylecito","country":"CL","influences":[]}];
 db["Lumino"]=db["59"]=[{"userId":"59","mentions":"0","username":"Lumino","country":"AU","influences":[]}];
 db["Shin"]=db["3080435"]=[{"userId":"3080435","mentions":"0","username":"Shin","country":"US","influences":[]}];
-db["eyup"]=db["88"]=[{"userId":"88","mentions":"1","username":"eyup","country":"AU","influences":[]}];
+db["eyup"]=db["88"]=[{"userId":"88","mentions":"2","username":"eyup","country":"AU","influences":[]}];
 db["Starrodkirby86"]=db["410"]=[{"userId":"410","mentions":"10","username":"Starrodkirby86","country":"US","influences":["Echo","DaRRi","Nharox"],"xcoord":"1472","ycoord":"1131"}];
 db["JacoPOP"]=db["352"]=[{"userId":"352","mentions":"0","username":"JacoPOP","country":"IT","influences":[]}];
 db["Hitoshirenu Shourai"]=db["602"]=[{"userId":"602","mentions":"1","username":"Hitoshirenu Shourai","country":"US","influences":[]}];
@@ -29,7 +29,7 @@ db["Loginer"]=db["819"]=[{"userId":"819","mentions":"0","username":"Loginer","co
 db["GuardianHX"]=db["946"]=[{"userId":"946","mentions":"0","username":"GuardianHX","country":"CA","influences":["LuigiHann"]}];
 db["Oddbrother"]=db["274"]=[{"userId":"274","mentions":"0","username":"Oddbrother","country":"US","influences":["eyup","LuigiHann"]}];
 db["Zallius"]=db["55"]=[{"userId":"55","mentions":"0","username":"Zallius","country":"HM","influences":[]}];
-db["Kharl"]=db["452"]=[{"userId":"452","mentions":"1","username":"Kharl","country":"TH","influences":[]}];
+db["Kharl"]=db["452"]=[{"userId":"452","mentions":"1","username":"Kharl","country":"TH","influences":["eyup","peppy"]}];
 db["Egg1991"]=db["2237"]=[{"userId":"2237","mentions":"0","username":"Egg1991","country":"US","influences":[]}];
 db["Jay"]=db["1686849"]=[{"userId":"1686849","mentions":"0","username":"Jay","country":"AU","influences":[]}];
 db["DJPop"]=db["2363"]=[{"userId":"2363","mentions":"38","username":"DJPop","country":"TH","influences":[],"none":"none","xcoord":"1472","ycoord":"1791"}];
@@ -69,7 +69,7 @@ db["Headbang"]=db["1728"]=[{"userId":"1728","mentions":"0","username":"Headbang"
 db["Zyid"]=db["2778"]=[{"userId":"2778","mentions":"0","username":"Zyid","country":"US","influences":[]}];
 db["Enok Walker"]=db["5096"]=[{"userId":"5096","mentions":"0","username":"Enok Walker","country":"US","influences":[]}];
 db["Mifune24"]=db["4249"]=[{"userId":"4249","mentions":"2","username":"Mifune24","country":"US","influences":["Rolled","Sinistro","Echo"],"xcoord":"2252","ycoord":"611"}];
-db["Rolled"]=db["5243"]=[{"userId":"5243","mentions":"9","username":"Rolled","country":"US","influences":[],"xcoord":"2252","ycoord":"1131"}];
+db["Rolled"]=db["5243"]=[{"userId":"5243","mentions":"10","username":"Rolled","country":"US","influences":[],"xcoord":"2252","ycoord":"1131"}];
 db["flyboy87"]=db["5220"]=[{"userId":"5220","mentions":"0","username":"flyboy87","country":"US","influences":[]}];
 db["Phrygian"]=db["5268"]=[{"userId":"5268","mentions":"0","username":"Phrygian","country":"US","influences":[]}];
 db["Slezak"]=db["5725"]=[{"userId":"5725","mentions":"0","username":"Slezak","country":"US","influences":[]}];
@@ -79,12 +79,12 @@ db["mtmcl"]=db["5960"]=[{"userId":"5960","mentions":"3","username":"mtmcl","coun
 db["Sinistro"]=db["5530"]=[{"userId":"5530","mentions":"1","username":"Sinistro","country":"GR","influences":["Echo","mtmcl","MaxwellDemon"],"xcoord":"2512","ycoord":"471"}];
 db["Maythius"]=db["5807"]=[{"userId":"5807","mentions":"0","username":"Maythius","country":"US","influences":[]}];
 db["kennyloo69"]=db["2930"]=[{"userId":"2930","mentions":"0","username":"kennyloo69","country":"US","influences":[]}];
-db["James"]=db["5728"]=[{"userId":"5728","mentions":"27","username":"James","country":"PH","influences":[],"none":"none","xcoord":"2512","ycoord":"1591"}];
-db["Card N'FoRcE"]=db["3936"]=[{"userId":"3936","mentions":"4","username":"Card N'FoRcE","country":"IT","influences":["Al-Azif","happy30","Starrodkirby86"],"xcoord":"2512","ycoord":"711"}];
+db["James"]=db["5728"]=[{"userId":"5728","mentions":"28","username":"James","country":"PH","influences":[],"none":"none","xcoord":"2512","ycoord":"1591"}];
+db["Card N'FoRcE"]=db["3936"]=[{"userId":"3936","mentions":"5","username":"Card N'FoRcE","country":"IT","influences":["Al-Azif","happy30","Starrodkirby86"],"xcoord":"2512","ycoord":"711"}];
 db["Zweihander"]=db["4696"]=[{"userId":"4696","mentions":"0","username":"Zweihander","country":"PH","influences":[]}];
 db["MetalSonic3"]=db["5940"]=[{"userId":"5940","mentions":"0","username":"MetalSonic3","country":"FI","influences":[]}];
 db["Terrapin"]=db["6477"]=[{"userId":"6477","mentions":"0","username":"Terrapin","country":"CA","influences":[]}];
-db["m980"]=db["3288"]=[{"userId":"3288","mentions":"6","username":"m980","country":"AU","influences":["Echo","DaRRi","mm201"],"none":"iNiS","xcoord":"2512","ycoord":"991"}];
+db["m980"]=db["3288"]=[{"userId":"3288","mentions":"7","username":"m980","country":"AU","influences":["Echo","DaRRi","mm201"],"none":"iNiS","xcoord":"2512","ycoord":"991"}];
 db["Kai"]=db["4537"]=[{"userId":"4537","mentions":"0","username":"Kai","country":"MX","influences":["awp","machol30","LuigiHann"]}];
 db["ProF"]=db["6566"]=[{"userId":"6566","mentions":"0","username":"ProF","country":"RU","influences":[]}];
 db["mattyu007"]=db["4934"]=[{"userId":"4934","mentions":"0","username":"mattyu007","country":"CA","influences":[]}];
@@ -100,7 +100,7 @@ db["MOOMANiBE"]=db["8950"]=[{"userId":"8950","mentions":"0","username":"MOOMANiB
 db["TiZ"]=db["586"]=[{"userId":"586","mentions":"0","username":"TiZ","country":"US","influences":[]}];
 db["diela"]=db["71"]=[{"userId":"71","mentions":"0","username":"diela","country":"HK","influences":[]}];
 db["Dakeyrus"]=db["10441"]=[{"userId":"10441","mentions":"0","username":"Dakeyrus","country":"CA","influences":[]}];
-db["vytalibus"]=db["10028"]=[{"userId":"10028","mentions":"0","username":"vytalibus","country":"PH","influences":[]}];
+db["vytalibus"]=db["10028"]=[{"userId":"10028","mentions":"0","username":"vytalibus","country":"PH","influences":["James","Ekaru","Mogsy"]}];
 db["BluePaladin25"]=db["11738"]=[{"userId":"11738","mentions":"0","username":"BluePaladin25","country":"US","influences":[]}];
 db["Kasada"]=db["9415"]=[{"userId":"9415","mentions":"0","username":"Kasada","country":"US","influences":[]}];
 db["bitor"]=db["8614"]=[{"userId":"8614","mentions":"0","username":"bitor","country":"US","influences":[]}];
@@ -132,7 +132,7 @@ db["gamerrox"]=db["22263"]=[{"userId":"22263","mentions":"0","username":"gamerro
 db["Pokebis"]=db["8012"]=[{"userId":"8012","mentions":"0","username":"Pokebis","country":"US","influences":[]}];
 db["emj"]=db["10158"]=[{"userId":"10158","mentions":"0","username":"emj","country":"US","influences":[]}];
 db["CheeseWarlock"]=db["9072"]=[{"userId":"9072","mentions":"1","username":"CheeseWarlock","country":"CA","influences":[],"xcoord":"4052","ycoord":"431"}];
-db["Larto"]=db["12328"]=[{"userId":"12328","mentions":"32","username":"Larto","country":"DE","influences":["Rolled","Seibei4211","RandomJibberish"],"xcoord":"4052","ycoord":"1651"}];
+db["Larto"]=db["12328"]=[{"userId":"12328","mentions":"34","username":"Larto","country":"DE","influences":["Rolled","Seibei4211","RandomJibberish"],"xcoord":"4052","ycoord":"1651"}];
 db["Cmdt_Carpenter"]=db["11361"]=[{"userId":"11361","mentions":"0","username":"Cmdt_Carpenter","country":"US","influences":[]}];
 db["ogicu8abruok"]=db["32453"]=[{"userId":"32453","mentions":"0","username":"ogicu8abruok","country":"US","influences":[]}];
 db["Cyclone"]=db["18589"]=[{"userId":"18589","mentions":"0","username":"Cyclone","country":"US","influences":[]}];
@@ -144,7 +144,7 @@ db["Drezus"]=db["5287"]=[{"userId":"5287","mentions":"0","username":"Drezus","co
 db["adam2046"]=db["8358"]=[{"userId":"8358","mentions":"0","username":"adam2046","country":"AU","influences":[]}];
 db["Seibei4211"]=db["31537"]=[{"userId":"31537","mentions":"1","username":"Seibei4211","country":"US","influences":["CheeseWarlock","FFFanatic","m980"],"xcoord":"4312","ycoord":"471"}];
 db["DaRRi"]=db["60294"]=db["darrihuka"]=[{"userId":"60294","mentions":"14","username":"DaRRi","country":"CN","influences":[],"alt":"darrihuka","xcoord":"7152","ycoord":"1451"}];
-db["Ekaru"]=db["17938"]=[{"userId":"17938","mentions":"0","username":"Ekaru","country":"US","influences":[]}];
+db["Ekaru"]=db["17938"]=[{"userId":"17938","mentions":"1","username":"Ekaru","country":"US","influences":[]}];
 db["Tri-Edge"]=db["8649"]=[{"userId":"8649","mentions":"0","username":"Tri-Edge","country":"US","influences":[]}];
 db["luke0719"]=db["14583"]=[{"userId":"14583","mentions":"0","username":"luke0719","country":"TW","influences":["James","Alace","deepsea"]}];
 db["yuching"]=db["593"]=[{"userId":"593","mentions":"0","username":"yuching","country":"HK","influences":[]}];
@@ -158,12 +158,12 @@ db["himydanny"]=db["19173"]=[{"userId":"19173","mentions":"0","username":"himyda
 db["K2J"]=db["2316"]=[{"userId":"2316","mentions":"0","username":"K2J","country":"US","influences":[]}];
 db["Symbolic"]=db["13920"]=[{"userId":"13920","mentions":"0","username":"Symbolic","country":"NL","influences":[]}];
 db["taktaktak"]=db["21870"]=[{"userId":"21870","mentions":"0","username":"taktaktak","country":"HK","influences":[]}];
-db["kioukiou"]=db["12248"]=[{"userId":"12248","mentions":"17","username":"kioukiou","country":"TW","influences":[],"xcoord":"4552","ycoord":"1431"}];
+db["kioukiou"]=db["12248"]=[{"userId":"12248","mentions":"18","username":"kioukiou","country":"TW","influences":[],"xcoord":"4552","ycoord":"1431"}];
 db["Pasonia"]=db["43345"]=[{"userId":"43345","mentions":"0","username":"Pasonia","country":"SG","influences":["m980","Kharl","deepsea"]}];
 db["AgentSieg"]=db["33646"]=[{"userId":"33646","mentions":"0","username":"AgentSieg","country":"ES","influences":[]}];
 db["Diasios"]=db["25999"]=db["xxheroxx"]=[{"userId":"25999","mentions":"3","username":"Diasios","country":"PE","influences":["Card N'FoRcE","lepidopodus","Andrea"],"alt":"xxheroxx","xcoord":"4552","ycoord":"751"}];
 db["Ema Skye"]=db["13007"]=[{"userId":"13007","mentions":"0","username":"Ema Skye","country":"FR","influences":[]}];
-db["Alace"]=db["25993"]=[{"userId":"25993","mentions":"21","username":"Alace","country":"TW","influences":[],"xcoord":"4812","ycoord":"1591"}];
+db["Alace"]=db["25993"]=[{"userId":"25993","mentions":"22","username":"Alace","country":"TW","influences":[],"xcoord":"4812","ycoord":"1591"}];
 db["antony11"]=db["22343"]=[{"userId":"22343","mentions":"0","username":"antony11","country":"HK","influences":[]}];
 db["shindrgon"]=db["11648"]=[{"userId":"11648","mentions":"0","username":"shindrgon","country":"TW","influences":[]}];
 db["Al-Azif"]=db["21961"]=[{"userId":"21961","mentions":"12","username":"Al-Azif","country":"HK","influences":["James","FFFanatic","DaRRi"],"xcoord":"4812","ycoord":"1211"}];
@@ -174,7 +174,7 @@ db["sunfantasy"]=db["44776"]=[{"userId":"44776","mentions":"0","username":"sunfa
 db["GladiOol"]=db["23326"]=db["Gladi"]=[{"userId":"23326","mentions":"6","username":"GladiOol","country":"NL","influences":["Lesjuh","James","Rolled"],"alt":"Gladi","xcoord":"4812","ycoord":"991"}];
 db["Jeffro"]=db["47270"]=[{"userId":"47270","mentions":"0","username":"Jeffro","country":"NL","influences":["DJPop","James","Mafiamaster"]}];
 db["Hara"]=db["31343"]=[{"userId":"31343","mentions":"0","username":"Hara","country":"SE","influences":[]}];
-db["ignorethis"]=db["27343"]=[{"userId":"27343","mentions":"7","username":"ignorethis","country":"CN","influences":["FFFanatic","DJPop","Al-Azif"],"xcoord":"5072","ycoord":"1071"}];
+db["ignorethis"]=db["27343"]=[{"userId":"27343","mentions":"8","username":"ignorethis","country":"CN","influences":["FFFanatic","DJPop","Al-Azif"],"xcoord":"5072","ycoord":"1071"}];
 db["Dangaard"]=db["19488"]=[{"userId":"19488","mentions":"3","username":"Dangaard","country":"DE","influences":["James","happy30","DJPop"],"xcoord":"5072","ycoord":"751"}];
 db["EVA-X"]=db["17470"]=[{"userId":"17470","mentions":"0","username":"EVA-X","country":"CN","influences":[]}];
 db["happy30"]=db["27767"]=[{"userId":"27767","mentions":"35","username":"happy30","country":"NL","influences":["James","Al-Azif","DJPop"],"xcoord":"5072","ycoord":"1731"}];
@@ -185,14 +185,14 @@ db["Ace of Trades"]=db["32931"]=[{"userId":"32931","mentions":"0","username":"Ac
 db["An64fan"]=db["38836"]=[{"userId":"38836","mentions":"0","username":"An64fan","country":"CA","influences":[]}];
 db["eee"]=db["5352"]=[{"userId":"5352","mentions":"0","username":"eee","country":"US","influences":[]}];
 db["EEeee"]=db["19819"]=[{"userId":"19819","mentions":"0","username":"EEeee","country":"US","influences":[]}];
-db["Andrea"]=db["33599"]=db["osuplayer111"]=[{"userId":"33599","mentions":"32","username":"Andrea","country":"IT","influences":["Gero","Sure","Card N'FoRcE"],"alt":"osuplayer111","xcoord":"5332","ycoord":"1651"}];
+db["Andrea"]=db["33599"]=db["osuplayer111"]=[{"userId":"33599","mentions":"33","username":"Andrea","country":"IT","influences":["Gero","Sure","Card N'FoRcE"],"alt":"osuplayer111","xcoord":"5332","ycoord":"1651"}];
 db["Crazy Jay"]=db["44867"]=[{"userId":"44867","mentions":"3","username":"Crazy Jay","country":"CN","influences":[],"xcoord":"5592","ycoord":"611"}];
 db["Real1"]=db["40998"]=[{"userId":"40998","mentions":"0","username":"Real1","country":"SE","influences":["Gens","Larto","Starrodkirby86"]}];
 db["-SiN-"]=db["10560"]=[{"userId":"10560","mentions":"0","username":"-SiN-","country":"ID","influences":[]}];
 db["evilc"]=db["57724"]=[{"userId":"57724","mentions":"0","username":"evilc","country":"GB","influences":[]}];
 db["Sir Minelli"]=db["39872"]=[{"userId":"39872","mentions":"0","username":"Sir Minelli","country":"EC","influences":["Larto"]}];
 db["Ruduen"]=db["22966"]=[{"userId":"22966","mentions":"0","username":"Ruduen","country":"US","influences":["Larto"]}];
-db["Lesjuh"]=db["44308"]=[{"userId":"44308","mentions":"32","username":"Lesjuh","country":"NL","influences":["James","DaRRi","Rolled"],"xcoord":"5592","ycoord":"1711"}];
+db["Lesjuh"]=db["44308"]=[{"userId":"44308","mentions":"33","username":"Lesjuh","country":"NL","influences":["James","DaRRi","Rolled"],"xcoord":"5592","ycoord":"1711"}];
 db["Skyripper"]=db["31803"]=[{"userId":"31803","mentions":"0","username":"Skyripper","country":"US","influences":["James","awp","peppy"]}];
 db["moonstar"]=db["38408"]=[{"userId":"38408","mentions":"0","username":"moonstar","country":"TW","influences":[]}];
 db["abalee"]=db["13103"]=[{"userId":"13103","mentions":"0","username":"abalee","country":"CN","influences":[]}];
@@ -202,7 +202,7 @@ db["minyeob"]=db["9207"]=[{"userId":"9207","mentions":"2","username":"minyeob","
 db["Exilon"]=db["39355"]=[{"userId":"39355","mentions":"0","username":"Exilon","country":"PT","influences":[]}];
 db["Hikato"]=db["26551"]=[{"userId":"26551","mentions":"0","username":"Hikato","country":"GB","influences":[]}];
 db["lele94"]=db["41761"]=[{"userId":"41761","mentions":"0","username":"lele94","country":"IT","influences":[]}];
-db["ztrot"]=db["6347"]=[{"userId":"6347","mentions":"9","username":"ztrot","country":"US","influences":[],"xcoord":"5852","ycoord":"1211"}];
+db["ztrot"]=db["6347"]=[{"userId":"6347","mentions":"11","username":"ztrot","country":"US","influences":[],"xcoord":"5852","ycoord":"1211"}];
 db["Weinmagier"]=db["19404"]=[{"userId":"19404","mentions":"0","username":"Weinmagier","country":"DE","influences":[]}];
 db["Luxary"]=db["26366"]=[{"userId":"26366","mentions":"1","username":"Luxary","country":"IT","influences":[]}];
 db["xxcz111"]=db["12217"]=[{"userId":"12217","mentions":"0","username":"xxcz111","country":"TW","influences":[]}];
@@ -211,7 +211,7 @@ db["Detective Tuesday"]=db["682"]=[{"userId":"682","mentions":"0","username":"De
 db["SteRRuM"]=db["42585"]=[{"userId":"42585","mentions":"0","username":"SteRRuM","country":"PL","influences":[]}];
 db["yanki"]=db["43938"]=[{"userId":"43938","mentions":"0","username":"yanki","country":"HK","influences":[]}];
 db["Kyocciola"]=db["52071"]=[{"userId":"52071","mentions":"0","username":"Kyocciola","country":"IT","influences":[]}];
-db["0_o"]=db["56708"]=[{"userId":"56708","mentions":"0","username":"0_o","country":"CA","influences":[]}];
+db["0_o"]=db["56708"]=[{"userId":"56708","mentions":"0","username":"0_o","country":"CA","influences":["Rolled","Lesjuh","Larto"]}];
 db["v2b"]=db["47060"]=[{"userId":"47060","mentions":"6","username":"v2b","country":"CN","influences":[],"xcoord":"5852","ycoord":"931"}];
 db["cesc"]=db["22684"]=[{"userId":"22684","mentions":"0","username":"cesc","country":"IT","influences":[]}];
 db["beatmastermap"]=db["80937"]=[{"userId":"80937","mentions":"0","username":"beatmastermap","country":"IT","influences":[]}];
@@ -232,7 +232,7 @@ db["RedFox"]=db["41278"]=[{"userId":"41278","mentions":"0","username":"RedFox","
 db["Wojjan"]=db["32856"]=[{"userId":"32856","mentions":"0","username":"Wojjan","country":"BE","influences":[]}];
 db["lthefuryl"]=db["36222"]=[{"userId":"36222","mentions":"0","username":"lthefuryl","country":"IT","influences":[]}];
 db["blissfulyoshi"]=db["20865"]=[{"userId":"20865","mentions":"2","username":"blissfulyoshi","country":"US","influences":["val0108","SapphireGhost","Garven"],"xcoord":"6372","ycoord":"611"}];
-db["AlexanderPD"]=db["3335"]=[{"userId":"3335","mentions":"0","username":"AlexanderPD","country":"IT","influences":[]}];
+db["AlexanderPD"]=db["3335"]=[{"userId":"3335","mentions":"0","username":"AlexanderPD","country":"IT","influences":["m980","Mashley","Larto"]}];
 db["CheZDa"]=db["37964"]=[{"userId":"37964","mentions":"0","username":"CheZDa","country":"FI","influences":[]}];
 db["Zekira"]=db["36749"]=[{"userId":"36749","mentions":"0","username":"Zekira","country":"PH","influences":[]}];
 db["merimeri"]=db["92873"]=[{"userId":"92873","mentions":"0","username":"merimeri","country":"JP","influences":[]}];
@@ -323,7 +323,7 @@ db["pieguyn"]=db["107485"]=[{"userId":"107485","mentions":"0","username":"pieguy
 db["nazenaze"]=db["54716"]=[{"userId":"54716","mentions":"0","username":"nazenaze","country":"PL","influences":["James","Al-Azif","Alace"]}];
 db["bmin11"]=db["43468"]=[{"userId":"43468","mentions":"0","username":"bmin11","country":"KR","influences":["yeahyeahyeahhh","MoonFragrance","happy30"]}];
 db["deadbeat"]=db["128370"]=[{"userId":"128370","mentions":"0","username":"deadbeat","country":"NZ","influences":[],"none":"none"}];
-db["jericho2442"]=db["88904"]=[{"userId":"88904","mentions":"2","username":"jericho2442","country":"GB","influences":[]}];
+db["jericho2442"]=db["88904"]=[{"userId":"88904","mentions":"3","username":"jericho2442","country":"GB","influences":[]}];
 db["Eirene"]=db["57976"]=[{"userId":"57976","mentions":"0","username":"Eirene","country":"FR","influences":[]}];
 db["Vanmonky"]=db["117865"]=[{"userId":"117865","mentions":"0","username":"Vanmonky","country":"ID","influences":[]}];
 db["naruti"]=db["34281"]=[{"userId":"34281","mentions":"0","username":"naruti","country":"NL","influences":[]}];
@@ -461,7 +461,7 @@ db["hawkzor"]=db["37529"]=[{"userId":"37529","mentions":"0","username":"hawkzor"
 db["kazumikos"]=db["252527"]=[{"userId":"252527","mentions":"2","username":"kazumikos","country":"VN","influences":["galvenize","happy30","tieff"],"xcoord":"10292","ycoord":"611"}];
 db["BexXz"]=db["125326"]=[{"userId":"125326","mentions":"0","username":"BexXz","country":"NL","influences":["Breeze"]}];
 db["Sushi"]=db["43108"]=[{"userId":"43108","mentions":"0","username":"Sushi","country":"FR","influences":["DaRRi","James","DJPop"]}];
-db["Mashley"]=db["41481"]=[{"userId":"41481","mentions":"0","username":"Mashley","country":"GB","influences":[]}];
+db["Mashley"]=db["41481"]=[{"userId":"41481","mentions":"1","username":"Mashley","country":"GB","influences":[]}];
 db["Mety"]=db["35536"]=[{"userId":"35536","mentions":"0","username":"Mety","country":"TW","influences":[]}];
 db["Nakata Yuji"]=db["94203"]=[{"userId":"94203","mentions":"0","username":"Nakata Yuji","country":"US","influences":[]}];
 db["La Cataline"]=db["301279"]=[{"userId":"301279","mentions":"42","username":"La Cataline","country":"RU","influences":["Alace","tieff","Natteke"],"xcoord":"10292","ycoord":"1791"}];
@@ -548,9 +548,9 @@ db["scarlethana"]=db["198779"]=[{"userId":"198779","mentions":"0","username":"sc
 db["daniel32333"]=db["23459"]=[{"userId":"23459","mentions":"0","username":"daniel32333","country":"TW","influences":[]}];
 db["Dragvon"]=db["126927"]=[{"userId":"126927","mentions":"0","username":"Dragvon","country":"BR","influences":[]}];
 db["Sharp"]=db["396542"]=[{"userId":"396542","mentions":"0","username":"Sharp","country":"JP","influences":[]}];
-db["HakuNoKaemi"]=db["187250"]=[{"userId":"187250","mentions":"0","username":"HakuNoKaemi","country":"IT","influences":[]}];
+db["HakuNoKaemi"]=db["187250"]=[{"userId":"187250","mentions":"0","username":"HakuNoKaemi","country":"IT","influences":["Card N'FoRcE"]}];
 db["val0108"]=db["243917"]=[{"userId":"243917","mentions":"37","username":"val0108","country":"JP","influences":["Muya","Zapy","Starrodkirby86"],"xcoord":"11592","ycoord":"1791"}];
-db["Aleks719"]=db["360176"]=[{"userId":"360176","mentions":"1","username":"Aleks719","country":"RU","influences":[],"none":"none","xcoord":"11592","ycoord":"471"}];
+db["Aleks719"]=db["360176"]=[{"userId":"360176","mentions":"2","username":"Aleks719","country":"RU","influences":[],"none":"none","xcoord":"11592","ycoord":"471"}];
 db["Giorgos"]=db["190088"]=[{"userId":"190088","mentions":"0","username":"Giorgos","country":"RU","influences":["kingcobra52","Mystearica","Louis Cyphre"]}];
 db["fabriciorby"]=db["209664"]=[{"userId":"209664","mentions":"0","username":"fabriciorby","country":"BR","influences":["Krisom","RandomJibberish","galvenize"]}];
 db["Backstep"]=db["161091"]=[{"userId":"161091","mentions":"1","username":"Backstep","country":"TH","influences":[]}];
@@ -560,7 +560,7 @@ db["Suzully"]=db["431791"]=[{"userId":"431791","mentions":"2","username":"Suzull
 db["ziin"]=db["232898"]=[{"userId":"232898","mentions":"0","username":"ziin","country":"US","influences":["DJPop","Starrodkirby86","Shiirn"]}];
 db["Zorlok_"]=db["446548"]=[{"userId":"446548","mentions":"0","username":"Zorlok_","country":"RU","influences":[]}];
 db["wowshakhov"]=db["393318"]=[{"userId":"393318","mentions":"0","username":"wowshakhov","country":"RU","influences":["tieff","Natteke","Reiji-RJ"]}];
-db["KRZY"]=db["114017"]=[{"userId":"114017","mentions":"0","username":"KRZY","country":"KR","influences":[]}];
+db["KRZY"]=db["114017"]=[{"userId":"114017","mentions":"0","username":"KRZY","country":"KR","influences":["kioukiou","ignorethis","ztrot"]}];
 db["Samah"]=db["343490"]=[{"userId":"343490","mentions":"0","username":"Samah","country":"AU","influences":["Andrea","Natteke","La Cataline"]}];
 db["y u z u k i"]=db["298267"]=[{"userId":"298267","mentions":"0","username":"y u z u k i","country":"JP","influences":[]}];
 db["swish"]=db["71917"]=[{"userId":"71917","mentions":"0","username":"swish","country":"JP","influences":[]}];
@@ -704,7 +704,7 @@ db["Cubex"]=db["597310"]=[{"userId":"597310","mentions":"0","username":"Cubex","
 db["Mirage"]=db["870584"]=db["Maddy"]=[{"userId":"870584","mentions":"3","username":"Mirage","country":"US","influences":[],"alt":"Maddy","xcoord":"14712","ycoord":"751"}];
 db["Mixagji"]=db["767003"]=[{"userId":"767003","mentions":"0","username":"Mixagji","country":"JP","influences":["saymun","KanbeKotori","Shinxyn"]}];
 db["DaxMasterix"]=db["264914"]=[{"userId":"264914","mentions":"1","username":"DaxMasterix","country":"CL","influences":["Shiirn","Louis Cyphre","Mafiamaster"],"xcoord":"14712","ycoord":"431"}];
-db["nold_1702"]=db["515967"]=db["Ulysses"]=[{"userId":"515967","mentions":"8","username":"nold_1702","country":"HK","influences":["Duoprism","AngelHoney","LKs"],"alt":"Ulysses","xcoord":"14712","ycoord":"1071"}];
+db["nold_1702"]=db["515967"]=db["Ulysses"]=[{"userId":"515967","mentions":"9","username":"nold_1702","country":"HK","influences":["Duoprism","AngelHoney","LKs"],"alt":"Ulysses","xcoord":"14712","ycoord":"1071"}];
 db["Niva"]=db["197805"]=[{"userId":"197805","mentions":"13","username":"Niva","country":"ID","influences":["Nakagawa-Kanon","Muya","Reiji-RJ"],"xcoord":"14712","ycoord":"1371"}];
 db["theowest"]=db["60604"]=[{"userId":"60604","mentions":"0","username":"theowest","country":"SE","influences":["Lesjuh","rustbell","Nakagawa-Kanon"]}];
 db["Neko_Lover"]=db["596535"]=[{"userId":"596535","mentions":"0","username":"Neko_Lover","country":"AU","influences":[]}];
@@ -786,7 +786,7 @@ db["GiNa"]=db["511286"]=[{"userId":"511286","mentions":"0","username":"GiNa","co
 db["kurohana"]=db["523712"]=[{"userId":"523712","mentions":"0","username":"kurohana","country":"DE","influences":[]}];
 db["Sieg"]=db["1404615"]=[{"userId":"1404615","mentions":"2","username":"Sieg","country":"KZ","influences":["Aleks719","mancuso_JM_"],"xcoord":"16032","ycoord":"471"}];
 db["Regou"]=db["419954"]=[{"userId":"419954","mentions":"2","username":"Regou","country":"HK","influences":["happy30","Nakagawa-Kanon","rrtyui"],"xcoord":"16032","ycoord":"611"}];
-db["Reisen Udongein"]=db["232942"]=[{"userId":"232942","mentions":"0","username":"Reisen Udongein","country":"KR","influences":["Niva","Nakagawa-Kanon","Muya"]}];
+db["Reisen Udongein"]=db["232942"]=[{"userId":"232942","mentions":"1","username":"Reisen Udongein","country":"KR","influences":["Niva","Nakagawa-Kanon","Muya"]}];
 db["Doodley"]=db["248268"]=[{"userId":"248268","mentions":"0","username":"Doodley","country":"US","influences":[]}];
 db["Midasmens"]=db["936631"]=[{"userId":"936631","mentions":"0","username":"Midasmens","country":"CN","influences":[]}];
 db["kyuten"]=db["27973"]=[{"userId":"27973","mentions":"0","username":"kyuten","country":"CN","influences":["tsuka","Heatherfield","ignorethis"]}];
@@ -836,7 +836,7 @@ db["Athena Tennos"]=db["261621"]=[{"userId":"261621","mentions":"0","username":"
 db["Pink Agate"]=db["1104066"]=[{"userId":"1104066","mentions":"0","username":"Pink Agate","country":"CN","influences":["Breeze","kazumikos","-Baby Strawberry-"]}];
 db["SkyDevil"]=db["527469"]=[{"userId":"527469","mentions":"0","username":"SkyDevil","country":"NL","influences":["gowww","NatsumeRin","DJPop"]}];
 db["JudgeTheDude"]=db["1108866"]=[{"userId":"1108866","mentions":"0","username":"JudgeTheDude","country":"FR","influences":[]}];
-db["banbar"]=db["850361"]=[{"userId":"850361","mentions":"0","username":"banbar","country":"JP","influences":[]}];
+db["banbar"]=db["850361"]=[{"userId":"850361","mentions":"0","username":"banbar","country":"JP","influences":["Aleks719","Reisen Udongein","-Chata-"]}];
 db["Sonico Makaron"]=db["727012"]=[{"userId":"727012","mentions":"0","username":"Sonico Makaron","country":"RU","influences":[]}];
 db["Mikarunoel131"]=db["511947"]=[{"userId":"511947","mentions":"0","username":"Mikarunoel131","country":"DE","influences":[],"none":"none"}];
 db["BinJip"]=db["261694"]=[{"userId":"261694","mentions":"0","username":"BinJip","country":"KR","influences":[]}];
@@ -851,7 +851,7 @@ db["Milkshake"]=db["1063857"]=[{"userId":"1063857","mentions":"0","username":"Mi
 db["Stefan"]=db["626907"]=[{"userId":"626907","mentions":"0","username":"Stefan","country":"AT","influences":["DJPop","Larto"]}];
 db["HelloSCV"]=db["798743"]=[{"userId":"798743","mentions":"5","username":"HelloSCV","country":"KR","influences":["NatsumeRin","RLC"],"xcoord":"17332","ycoord":"851"}];
 db["Azure"]=db["587361"]=[{"userId":"587361","mentions":"0","username":"Azure","country":"TW","influences":["No_Gu","LKs","hoLysoup"]}];
-db["Moway"]=db["1352672"]=[{"userId":"1352672","mentions":"1","username":"Moway","country":"US","influences":[]}];
+db["Moway"]=db["1352672"]=[{"userId":"1352672","mentions":"2","username":"Moway","country":"US","influences":[]}];
 db["Flower"]=db["1033017"]=[{"userId":"1033017","mentions":"4","username":"Flower","country":"AU","influences":["LKs","Rue","kiddly"],"xcoord":"17332","ycoord":"811"}];
 db["[Yue]"]=db["645486"]=[{"userId":"645486","mentions":"0","username":"[Yue]","country":"PE","influences":["Gero","XinCrin"]}];
 db["Flask"]=db["959763"]=[{"userId":"959763","mentions":"0","username":"Flask","country":"TW","influences":["Skystar","No_Gu","Fumika"]}];
@@ -955,7 +955,7 @@ db["ryuu"]=db["682919"]=[{"userId":"682919","mentions":"0","username":"ryuu","co
 db["[ Zzz ]"]=db["937761"]=[{"userId":"937761","mentions":"0","username":"[ Zzz ]","country":"KR","influences":["Andrea","Gero"]}];
 db["HanzeR"]=db["1592447"]=[{"userId":"1592447","mentions":"11","username":"HanzeR","country":"US","influences":["Skystar","fanzhen0019","cRyo[iceeicee]"],"xcoord":"19412","ycoord":"1271"}];
 db["Jemmmmy"]=db["1921587"]=[{"userId":"1921587","mentions":"0","username":"Jemmmmy","country":"CN","influences":["Muya","ktgster","Nakagawa-Kanon"]}];
-db["1PSA"]=db["567285"]=[{"userId":"567285","mentions":"0","username":"1PSA","country":"CN","influences":[]}];
+db["1PSA"]=db["567285"]=[{"userId":"567285","mentions":"0","username":"1PSA","country":"CN","influences":["Andrea","jericho2442","ztrot"]}];
 db["Sarasa"]=db["2159014"]=[{"userId":"2159014","mentions":"0","username":"Sarasa","country":"US","influences":["cRyo[iceeicee]","Mythol","Skystar"]}];
 db["Momochikun"]=db["2032824"]=[{"userId":"2032824","mentions":"3","username":"Momochikun","country":"ID","influences":["No_Gu","Kotone","kanpakyin"]}];
 db["Delis"]=db["1603923"]=[{"userId":"1603923","mentions":"8","username":"Delis","country":"JP","influences":["DarkRingSystem","xsrsbsns","happy30"],"xcoord":"19672","ycoord":"1071"}];
@@ -1117,7 +1117,7 @@ db["apaffy"]=db["1929729"]=[{"userId":"1929729","mentions":"0","username":"apaff
 db["[Vincent]"]=db["1807125"]=[{"userId":"1807125","mentions":"0","username":"[Vincent]","country":"AU","influences":["Skystar","val0108","rrtyui"]}];
 db["truonant"]=db["3430690"]=[{"userId":"3430690","mentions":"0","username":"truonant","country":"CA","influences":["11t","alacat"]}];
 db["Kazuya"]=db["2687320"]=[{"userId":"2687320","mentions":"1","username":"Kazuya","country":"HU","influences":[]}];
-db["pishifat"]=db["3178418"]=[{"userId":"3178418","mentions":"69","username":"pishifat","country":"US","influences":["handsome","Monstrata","deetz"],"xcoord":"23052","ycoord":"1871"}];
+db["pishifat"]=db["3178418"]=[{"userId":"3178418","mentions":"71","username":"pishifat","country":"US","influences":["handsome","Monstrata","deetz"],"xcoord":"23052","ycoord":"1871"}];
 db["DevilA1r"]=db["729632"]=[{"userId":"729632","mentions":"0","username":"DevilA1r","country":"JP","influences":[]}];
 db["Shadren"]=db["745494"]=[{"userId":"745494","mentions":"6","username":"Shadren","country":"RU","influences":["fergas"],"xcoord":"23052","ycoord":"1001"}];
 db["smallbeans"]=db["1400208"]=[{"userId":"1400208","mentions":"0","username":"smallbeans","country":"TW","influences":[]}];
@@ -1138,7 +1138,7 @@ db["Chirony"]=db["1686709"]=[{"userId":"1686709","mentions":"0","username":"Chir
 db["jyu"]=db["1841032"]=db["AlpacaCokelat"]=[{"userId":"1841032","mentions":"0","username":"jyu","country":"ID","influences":["La Cataline","Loneight","Natteke"],"alt":"AlpacaCokelat"}];
 db["kakifly"]=db["4219034"]=[{"userId":"4219034","mentions":"1","username":"kakifly","country":"CA","influences":[],"xcoord":"23312","ycoord":"471"}];
 db["Hard"]=db["2404120"]=[{"userId":"2404120","mentions":"0","username":"Hard","country":"DE","influences":[]}];
-db["handsome"]=db["2123087"]=[{"userId":"2123087","mentions":"35","username":"handsome","country":"SG","influences":["Skystar","Hollow Wings","rrtyui"],"xcoord":"23312","ycoord":"1791"}];
+db["handsome"]=db["2123087"]=[{"userId":"2123087","mentions":"36","username":"handsome","country":"SG","influences":["Skystar","Hollow Wings","rrtyui"],"xcoord":"23312","ycoord":"1791"}];
 db["KaedekaShizuru"]=db["2248417"]=[{"userId":"2248417","mentions":"0","username":"KaedekaShizuru","country":"CN","influences":["Fycho","Nymph"]}];
 db["TT Mouse"]=db["2495509"]=[{"userId":"2495509","mentions":"0","username":"TT Mouse","country":"CN","influences":["yf_bmp","ProfessionalBox","jonathanlfj"]}];
 db["tomhet65"]=db["2047666"]=[{"userId":"2047666","mentions":"0","username":"tomhet65","country":"RU","influences":["La Cataline","TicClick","grumd"]}];
@@ -1173,7 +1173,7 @@ db["Squichu"]=db["2091463"]=[{"userId":"2091463","mentions":"0","username":"Squi
 db["Frey"]=db["695678"]=[{"userId":"695678","mentions":"0","username":"Frey","country":"CN","influences":["galvenize","Natteke","La Cataline"]}];
 db["Breadhunter"]=db["913249"]=[{"userId":"913249","mentions":"0","username":"Breadhunter","country":"RU","influences":[]}];
 db["Julie"]=db["2420987"]=[{"userId":"2420987","mentions":"1","username":"Julie","country":"CA","influences":[]}];
-db["Nozhomi"]=db["2716981"]=[{"userId":"2716981","mentions":"1","username":"Nozhomi","country":"FR","influences":["Kazuya","Okoratu","Cherry Blossom"]}];
+db["Nozhomi"]=db["2716981"]=[{"userId":"2716981","mentions":"2","username":"Nozhomi","country":"FR","influences":["Kazuya","Okoratu","Cherry Blossom"]}];
 db["-Nya-"]=db["1293097"]=[{"userId":"1293097","mentions":"0","username":"-Nya-","country":"ZA","influences":[]}];
 db["Spring Roll"]=db["2499198"]=[{"userId":"2499198","mentions":"0","username":"Spring Roll","country":"CN","influences":[]}];
 db["Xinchii"]=db["662561"]=[{"userId":"662561","mentions":"0","username":"Xinchii","country":"TW","influences":[]}];
@@ -1205,10 +1205,10 @@ db["[ Joey ]"]=db["2693954"]=[{"userId":"2693954","mentions":"0","username":"[ J
 db["Neil Watts"]=db["3048059"]=[{"userId":"3048059","mentions":"0","username":"Neil Watts","country":"FR","influences":["Kite","Cherry Blossom","Ekoro"]}];
 db["Jethh"]=db["2689933"]=[{"userId":"2689933","mentions":"0","username":"Jethh","country":"FR","influences":["grumd","galvenize","Frostmourne"]}];
 db["Ekoro"]=db["284905"]=[{"userId":"284905","mentions":"4","username":"Ekoro","country":"FR","influences":["Muya","RLC","Lesjuh"]}];
-db["Saut"]=db["3799202"]=[{"userId":"3799202","mentions":"3","username":"Saut","country":"DE","influences":[]}];
+db["Saut"]=db["3799202"]=[{"userId":"3799202","mentions":"3","username":"Saut","country":"DE","influences":["Moway","pishifat","handsome"]}];
 db["Asahina Momoko"]=db["3650145"]=[{"userId":"3650145","mentions":"2","username":"Asahina Momoko","country":"JP","influences":["Skystar","fanzhen0019","Cherry Blossom"],"xcoord":"24352","ycoord":"611"}];
 db["Frobe"]=db["670365"]=[{"userId":"670365","mentions":"1","username":"Frobe","country":"KR","influences":["Nakagawa-Kanon","NatsumeRin","val0108"]}];
-db["guineaQ"]=db["3720242"]=[{"userId":"3720242","mentions":"2","username":"guineaQ","country":"KR","influences":["galvenize","Frostmourne","Deif"],"xcoord":"24352","ycoord":"571"}];
+db["guineaQ"]=db["3720242"]=[{"userId":"3720242","mentions":"3","username":"guineaQ","country":"KR","influences":["galvenize","Frostmourne","Deif"],"xcoord":"24352","ycoord":"571"}];
 db["PinkHeart"]=db["1269067"]=[{"userId":"1269067","mentions":"3","username":"PinkHeart","country":"CN","influences":[],"none":"none","xcoord":"24352","ycoord":"711"}];
 db["AIR"]=db["2070688"]=[{"userId":"2070688","mentions":"1","username":"AIR","country":"CN","influences":["tsuka","LKs","ignorethis"],"xcoord":"24352","ycoord":"451"}];
 db["Manuxz"]=db["1740102"]=[{"userId":"1740102","mentions":"0","username":"Manuxz","country":"AR","influences":[]}];
@@ -1238,7 +1238,7 @@ db["Ipas"]=db["3262377"]=db["NewIpas"]=[{"userId":"3262377","mentions":"0","user
 db["Naitoshi"]=db["2730086"]=[{"userId":"2730086","mentions":"3","username":"Naitoshi","country":"US","influences":["Rue","La Cataline","Jounzan"]}];
 db["FlobuFlobs"]=db["939316"]=[{"userId":"939316","mentions":"0","username":"FlobuFlobs","country":"DE","influences":["Niva","tsuka"]}];
 db["Nekomata"]=db["3748189"]=[{"userId":"3748189","mentions":"0","username":"Nekomata","country":"CA","influences":["Giralda","Shadren","Irreversible"]}];
-db["Okoratu"]=db["1623405"]=db["Okorin"]=[{"userId":"1623405","mentions":"7","username":"Okoratu","country":"DE","influences":["La Cataline","grumd","Reiji-RJ"],"alt":"Okorin","xcoord":"24872","ycoord":"1071"}];
+db["Okoratu"]=db["1623405"]=db["Okorin"]=[{"userId":"1623405","mentions":"8","username":"Okoratu","country":"DE","influences":["La Cataline","grumd","Reiji-RJ"],"alt":"Okorin","xcoord":"24872","ycoord":"1071"}];
 db["VINXIS"]=db["4323406"]=[{"userId":"4323406","mentions":"4","username":"VINXIS","country":"CA","influences":["dsco","deetz","RLC"],"xcoord":"24872","ycoord":"851"}];
 db["CrystilonZ"]=db["2304063"]=[{"userId":"2304063","mentions":"1","username":"CrystilonZ","country":"TH","influences":["P A N","KantoKun","Left"]}];
 db["BluOxy"]=db["580925"]=[{"userId":"580925","mentions":"0","username":"BluOxy","country":"JP","influences":["RLC","Nakagawa-Kanon","Snow Note"]}];
@@ -1317,7 +1317,7 @@ db["-Maruk-"]=db["2212938"]=[{"userId":"2212938","mentions":"0","username":"-Mar
 db["Anze"]=db["1545563"]=[{"userId":"1545563","mentions":"0","username":"Anze","country":"BR","influences":[]}];
 db["Wing My Way"]=db["3315647"]=[{"userId":"3315647","mentions":"0","username":"Wing My Way","country":"CN","influences":["Skystar"]}];
 db["Jonimay"]=db["1118341"]=[{"userId":"1118341","mentions":"0","username":"Jonimay","country":"DE","influences":["Monstrata","Guy","Rizia"]}];
-db["phaZ"]=db["1124144"]=[{"userId":"1124144","mentions":"0","username":"phaZ","country":"DE","influences":["KanbeKotori","galvenize","NatsumeRin"]}];
+db["phaZ"]=db["1124144"]=[{"userId":"1124144","mentions":"1","username":"phaZ","country":"DE","influences":["KanbeKotori","galvenize","NatsumeRin"]}];
 db["Shad0w1and"]=db["798668"]=[{"userId":"798668","mentions":"2","username":"Shad0w1and","country":"CN","influences":["Laurier","jonathanlfj","DreaM117er"]}];
 db["BoatKrab"]=db["1916181"]=[{"userId":"1916181","mentions":"0","username":"BoatKrab","country":"TH","influences":["W h i t e","RLC","toybot"]}];
 db["Zerss"]=db["3683794"]=[{"userId":"3683794","mentions":"0","username":"Zerss","country":"FR","influences":["Shadren","-M4x","Hula"]}];
@@ -1374,7 +1374,7 @@ db["Hula"]=db["2241058"]=[{"userId":"2241058","mentions":"1","username":"Hula","
 db["Maakkeli"]=db["3411824"]=[{"userId":"3411824","mentions":"1","username":"Maakkeli","country":"FI","influences":["Mazzerin","pishifat","Okoratu"]}];
 db["WORSTPOLACKEU"]=db["2686293"]=[{"userId":"2686293","mentions":"0","username":"WORSTPOLACKEU","country":"SE","influences":["Skystar","Lasse","Asphyxia"]}];
 db["Little"]=db["2099102"]=[{"userId":"2099102","mentions":"1","username":"Little","country":"CA","influences":["Laurier","cRyo[iceeicee]","Rizia"],"xcoord":"27472","ycoord":"471"}];
-db["Poggo"]=db["1367296"]=[{"userId":"1367296","mentions":"0","username":"Poggo","country":"RU","influences":[]}];
+db["Poggo"]=db["1367296"]=[{"userId":"1367296","mentions":"0","username":"Poggo","country":"RU","influences":["nold_1702","Nozhomi","phaZ"]}];
 db["wajinshu"]=db["6339790"]=[{"userId":"6339790","mentions":"0","username":"wajinshu","country":"UA","influences":["Kiiwa","Beren","NatsumeRin"]}];
 db["KittyAdventure"]=db["2013571"]=[{"userId":"2013571","mentions":"0","username":"KittyAdventure","country":"ID","influences":["- Frontier -","Error-","SyraxAxoJaxco"]}];
 db["__Ag"]=db["962837"]=[{"userId":"962837","mentions":"0","username":"__Ag","country":"CN","influences":[]}];
@@ -1416,7 +1416,7 @@ db["Haruto"]=db["3772301"]=[{"userId":"3772301","mentions":"0","username":"Harut
 db["Underforest"]=db["6753180"]=[{"userId":"6753180","mentions":"0","username":"Underforest","country":"MX","influences":["Doormat","Monstrata","Gero"]}];
 db["Frostings"]=db["2652543"]=[{"userId":"2652543","mentions":"2","username":"Frostings","country":"CA","influences":["Nyquill","RLC","EvilElvis"]}];
 db["Binguo"]=db["6333728"]=[{"userId":"6333728","mentions":"0","username":"Binguo","country":"CN","influences":["Narcissu","fanzhen0019"]}];
-db["Exa"]=db["5572371"]=[{"userId":"5572371","mentions":"1","username":"Exa","country":"GR","influences":[]}];
+db["Exa"]=db["5572371"]=[{"userId":"5572371","mentions":"1","username":"Exa","country":"GR","influences":["guineaQ","Okoratu","pishifat"]}];
 db["WISPG_G"]=db["7379339"]=[{"userId":"7379339","mentions":"0","username":"WISPG_G","country":"RU","influences":[]}];
 db["Syph"]=db["4858573"]=[{"userId":"4858573","mentions":"1","username":"Syph","country":"NL","influences":["Xexxar","Settia","Left"]}];
 db["vick"]=db["4729546"]=[{"userId":"4729546","mentions":"2","username":"vick","country":"AR","influences":[]}];
@@ -1818,3 +1818,5 @@ db["Seto Kousuke"]=db["2857314"]=[{"userId":"2857314","mentions":"2","username":
 db["Parachute"]=db["1175275"]=[{"userId":"1175275","mentions":"1","username":"Parachute","country":"DE","influences":[]}];
 db["rezoons"]=db[""]=[{"userId":"","mentions":"1","username":"rezoons","country":"FR","influences":[]}];
 db["Elsa Valentine"]=db["4525153"]=[{"userId":"4525153","mentions":"1","username":"Elsa Valentine","country":"AU","influences":[]}];
+db["Abe Nana"]=db["739813"]=[{"userId":"739813","mentions":"0","username":"Abe Nana","country":"KR","influences":[]}];
+db["Mogsy"]=db["4018"]=[{"userId":"4018","mentions":"1","username":"Mogsy","country":"US","influences":[]}];

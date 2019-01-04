@@ -9,24 +9,29 @@
     <style>
         body {
             background-color: rgba(109, 118, 126, 0.14);
+            background-image: url("./assets/bg.png");
         }
 
         .border-status-wip {
-            border-top: 10px solid yellow;
+            border-top: 7px solid lightgreen;
         }
 
         .border-status-done {
-            border-top: 10px solid green;
+            border-top: 7px solid darkcyan;
         }
     </style>
 </head>
-<body>
-    <nav class="navbar navbar-expand-lg navbar-light bg-light">
+<body class="text-light">
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbar" aria-controls="navbar">
             <span class="navbar-toggler-icon"></span>
         </button>
         
         <div class="collapse navbar-collapse" id="navbar">
+            <a class="navbar-brand font-weight-light font-italic" href="#" style="border-right: 3px solid white; padding-right: 1rem;">
+                <img src="./assets/logo256.png" width="30" height="30" alt="">
+                Mappers' Guild
+            </a>
             <ul class="navbar-nav mr-auto">
                 <li class="nav-item active">
                     <a class="nav-link" href="maps.html">Maps</a>
@@ -46,15 +51,32 @@
 
     <div class="container">
         <div>
-            <h1 class="text-center">Culprate map pack <small class="text-muted" id="newFaCount"></small></h1>
-            <div id="newFaMaps" class="row">
+            <img class="my-3 mx-auto d-block img-fluid" src="./assets/logo256.png" width="100" height="100">
+            <h1 class="text-center">Beatmaps</h1>
+        </div>
+
+        <div class="row">
+            <div class="col-sm-8">
+                <h2>Pending beatmaps</h2>
+                <small>Filter: <a href="#">Most recent</a> | <a href="#">My maps</a> | <a href="#">Quest</a></small>
+                <div class="row">
+                    <div id="maps" class="col-sm-6"></div>
+                    <div id="diffs" class="col-sm-6"></div>
+                </div>
             </div>
-            <br>
-            <h1 class="text-center">other <small class="text-muted" id="oldFaCount"></small></h1>
-            <div id="oldFaMaps" class="row">
+
+            <div class="col-sm-4">
+                <h2>Ranked beatmaps</h2>
+                <small>Filter: <a href="#">Most recent</a> | <a href="#">My maps</a></small>
+                <div id="rankedBeatmaps"></div>
             </div>
         </div>
     </div>
+
+    <footer class="text-center">
+        <img class="mb-3 mt-3" src="./assets/osu.png">
+        <div style="background-color: #FF5864; height: 10px;"></div>
+    </footer>
     
     <div id="extendedInfo" class="modal fade" tabindex="-1" role="dialog">
         <div class="modal-dialog" role="document">

@@ -14,6 +14,7 @@ sizes (ranked like https://cdn.discordapp.com/attachments/332717696812711948/529
 
 $(function(){
 
+
     var fileName = 'testfile35.json';
     var newFaQuest = "Culprate Map Pack";
 
@@ -27,48 +28,59 @@ $(function(){
         var wipNewFaCount = 0;
         var wipOldFaCount = 0;
 
-        $.each(data.maps.beatmaps, function (k, v) {
-            var card = `<div class='card bg-dark text-white' data-toggle='modal' data-target='#extendedInfo' data-mapid='${v.id}'>
-            <img class='card-img' src='${v.link !== "" ? `https://assets.ppy.sh/beatmaps/${ v.link.slice(v.link.lastIndexOf('/') - v.link.length) }/covers/card.jpg` : 'https://osu.ppy.sh/images/layout/beatmaps/default-bg.png'}' style='opacity:0.5' alt='ops'> 
-            <div class='card-img-overlay'>
-            <h5 class='card-title'>${v.artist} - ${v.title}</h5>
-            <p class='card-text'>${v.host}</p>
-            </div>
-            </div>`;
-            //<p class='card-text'><small class='text-muted'>${v.status}</small></p>
-            if (v.quest == newFaQuest) {
-                if (totalNewFaCount % 2 == 0) {
-                    $('#newFaMaps').append('<div class="col-lg-6 cards"></div>');
-                }
+        $.each(data.maps.beatmaps, function (k, b) {
+            
+            var mapCard = 
+                `<div class='card bg-dark text-white ${ b.status == 'WIP' ? 'border-status-wip' : 'border-status-done' }' data-toggle='modal' data-target='#extendedInfo' data-mapid='${b.id}'>
+                <img class='card-img' src='${b.link !== "" ? `https://assets.ppy.sh/beatmaps/${ b.link.slice(b.link.lastIndexOf('/') - b.link.length) }/covers/card.jpg` : 'https://osu.ppy.sh/images/layout/beatmaps/default-bg.png'}' style='opacity:0.5' alt='ops'> 
+                <div class='card-img-overlay'>
+                <h5 class='card-title'>${b.artist} - ${b.title}</h5>
+                <p class='card-text'>Hosted by ${b.host}</p>
+                </div>
+                </div>`;
 
-                $('#newFaMaps .cards:last').append(card);
+            $('#maps').append(mapCard);
 
-                if (v.status == 'WIP') {
-                    $('#newFaMaps .card:last').addClass('border-status-wip');
-                    wipNewFaCount++;
-                }
-                else {
-                    $('#newFaMaps .card:last').addClass('border-status-done');
-                }
+            var p = '<p>';
+            var diffs = ['Easy', 'Normal', 'Hard', 'Insane', 'Extra'];
+            $.each(diffs, function(k, d){
+                var isClaimed = false;
+                var isUsed = false;
 
-                totalNewFaCount++;
-            } else {
-                if (totalOldFaCount % 2 == 0) {
-                    $('#oldFaMaps').append('<div class="col-lg-6 cards"></div>');
-                }
+                $.each(b.tasks, function(k, t) {
+                    if (d == t.name) {
+                        var s = '';
+                        $.each(t.mappers, function(k, m) {
+                            s += m + ' | ';
+                        });
+                        p += `<i data-toggle="tooltip" data-placement="top" title="${ s }" style='color: ${ t.status == 'WIP' ? 'yellow' : 'green' };'>${ t.name }</i>`;
 
-                $('#oldFaMaps .cards:last').append(card);
-                
-                if (v.status == 'WIP') {
-                    $('#oldFaMaps .card:last').addClass('border-status-wip');
-                    wipOldFaCount++;
-                }
-                else {
-                    $('#oldFaMaps .card:last').addClass('border-status-done');
-                }
+                        isClaimed = true;
+                        isUsed = true;
+                    }
+                });
 
-                totalOldFaCount++;
-            }
+                $.each(b.categoriesLocked, function(k, c) {
+                    if (d == c) {
+                        if (isClaimed)
+                            p += `<i style='color: grey;' opacity: 0.3;>${ c }</i>`;
+                        else
+                            p += `<i style='color: grey;'>${ c }</i>`;
+                        
+                        isUsed = true;
+                    }
+                });
+
+                if (!isUsed)
+                    p += `<i style='color: red;'>${ d }</i>`;
+            });
+
+            p += '</p>';
+
+            if (b.status == 'Ranked')
+                $('#rankedBeatmaps').append(p);
+            else
+                $('#diffs').append(p);
         });
 
         $('#newFaCount').text(`(${wipNewFaCount} WIPs of ${totalNewFaCount})`);
@@ -135,4 +147,7 @@ $(function(){
             $('.modal-body').append(s);
         });
     });
+
+    $('[data-toggle="tooltip"]').tooltip();
+
 });

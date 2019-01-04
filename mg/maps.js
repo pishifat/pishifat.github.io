@@ -4,6 +4,12 @@ would only put total points, rank, and current party on the always-visible card
 then the points breakdown and quest name list in this popup thing
 for quests, would just do name/reward visible
 and parties everything can be visible cuz there isnt much
+
+
+add commnas
+diffs in card w/ username on hover | crossed out taken diffs | show all except maps.locked ( https://media.discordapp.net/attachments/332717696812711948/529928461360431110/unknown.png ) 
+collapsable by quests/generalmaps/ranked
+sizes (ranked like https://cdn.discordapp.com/attachments/332717696812711948/529927425384251406/unknown.png )
 */
 
 $(function(){
@@ -90,10 +96,14 @@ $(function(){
             var map = data.maps.beatmaps[key];
             $('.modal-title').text(`${map.artist} - ${map.title} (${map.host})`);
 
-            if (map.status == 'WIP')
+            console.log(map.status);
+            if (map.status == 'WIP') {
+                $('.modal-header').removeClass('bg-success');
                 $('.modal-header').addClass('bg-warning');
-            else
-            $('.modal-header').addClass('bg-success');
+            } else {
+                $('.modal-header').removeClass('bg-warning');
+                $('.modal-header').addClass('bg-success');
+            }
 
             $.each(map.tasks, function(k, v){
                 var s = `<p class='${ v.status == 'WIP' ? 'text-warning' : 'text-success' }'>${v.name}: `;

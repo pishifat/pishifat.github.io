@@ -1,11 +1,4 @@
 /*
-then for users, there's like a bunch of things to list
-would only put total points, rank, and current party on the always-visible card
-then the points breakdown and quest name list in this popup thing
-for quests, would just do name/reward visible
-and parties everything can be visible cuz there isnt much
-
-
 add commnas
 diffs in card w/ username on hover | crossed out taken diffs | show all except maps.locked ( https://media.discordapp.net/attachments/332717696812711948/529928461360431110/unknown.png ) 
 collapsable by quests/generalmaps/ranked
@@ -18,11 +11,7 @@ $(function(){
     var fileName = 'testfile35.json';
     var newFaQuest = "Culprate Map Pack";
 
-    console.log('start');
-    $.getJSON(fileName, function(){
-        console.log('loaded');
-    })
-    .done(function(data){
+    $.getJSON(fileName).done(function(data){
         var totalNewFaCount = 0;
         var totalOldFaCount = 0;
         var wipNewFaCount = 0;
@@ -30,124 +19,125 @@ $(function(){
 
         $.each(data.maps.beatmaps, function (k, b) {
             
+            var isRanked = b.status == 'Ranked';
+            var quest = b.quest == '' ? 'Others' : b.quest;
+            var questId = quest.split(' ').join('') + (isRanked ? '-ranked' : '-pending');
+
+            if (!$(`#${questId}`).length) {
+                var questCollapse = `<a class='ml-3' data-toggle='collapse' href='#${questId}'>${quest}</a>
+                    <div class="row">
+                    <div id='${questId}' class='collapse show' id='questCollapse'></div>
+                    </div>`;
+                if (isRanked)
+                    $('#rankedBeatmaps').append(questCollapse);
+                else
+                    $('#pendingBeatmaps').append(questCollapse);
+            }
+
+            $(`#${questId}`).append(`<div class='row' id='${b.id}'>`);
+
             var mapCard = 
-                `<div class='card bg-dark text-white ${ b.status == 'WIP' ? 'border-status-wip' : 'border-status-done' }' data-toggle='modal' data-target='#extendedInfo' data-mapid='${b.id}'>
-                <img class='card-img' src='${b.link !== "" ? `https://assets.ppy.sh/beatmaps/${ b.link.slice(b.link.lastIndexOf('/') - b.link.length) }/covers/card.jpg` : 'https://osu.ppy.sh/images/layout/beatmaps/default-bg.png'}' style='opacity:0.5' alt='ops'> 
+                `<div class="col-sm-${isRanked ? '12' : '7'} my-2">
+                <div class='card bg-dark border-status-${b.status.toLowerCase()}' data-toggle='modal' data-target='#editBeatmap' data-mapid='${b.id}'>
+                <img class='card-img' src='${b.link !== '' ? `https://assets.ppy.sh/beatmaps/${ b.link.slice(b.link.lastIndexOf('/') - b.link.length) }/covers/card.jpg` : 'https://osu.ppy.sh/images/layout/beatmaps/default-bg.png'}' style='opacity:0.5' alt='ops'> 
                 <div class='card-img-overlay'>
-                <h5 class='card-title'>${b.artist} - ${b.title}</h5>
-                <p class='card-text'>Hosted by ${b.host}</p>
+                <p class='card-title mb-1'>${b.artist} - ${b.title}</p>
+                <small class='card-text'>Hosted by <b>${b.host}</b></small>
+                </div>
                 </div>
                 </div>`;
 
-            $('#maps').append(mapCard);
+            $(`#${b.id}`).append(mapCard);
 
-            var p = '<p>';
-            var diffs = ['Easy', 'Normal', 'Hard', 'Insane', 'Extra'];
-            $.each(diffs, function(k, d){
-                var isClaimed = false;
-                var isUsed = false;
-
-                $.each(b.tasks, function(k, t) {
-                    if (d == t.name) {
-                        var s = '';
-                        $.each(t.mappers, function(k, m) {
-                            s += m + ' | ';
-                        });
-                        p += `<i data-toggle="tooltip" data-placement="top" title="${ s }" style='color: ${ t.status == 'WIP' ? 'yellow' : 'green' };'>${ t.name }</i>`;
-
-                        isClaimed = true;
-                        isUsed = true;
-                    }
+            if (b.status != 'Ranked')
+            {
+                var diffsBlock = '<div class="col-sm-5 my-2">'; //style="background: linear-gradient(transparent 33%, rgba(31, 31, 31, 1) 33% 66%, transparent 66%);"
+                var diffs = { 'Easy':'E', 'Normal':'N', 'Hard':'H', 'Insane':'I', 'Extra':'E' };
+                
+                $.each(diffs, function(d, v){
+                    var isClaimed = false;
+                    var isUsed = false;
+    
+                    $.each(b.tasks, function(k, t) {
+                        if (d == t.name) {
+                            var s = '';
+                            $.each(t.mappers, function(k, m) {
+                                s += m + ' | ';
+                            });
+                            diffsBlock += `<span class="diffs px-1 ${ t.status.toLowerCase() }" data-toggle="tooltip" title="${ s }">${ v }</span>`;
+    
+                            isClaimed = true;
+                            isUsed = true;
+                        }
+                    });
+    
+                    $.each(b.categoriesLocked, function(k, c) {
+                        if (d == c) {
+                            if (isClaimed)
+                                diffsBlock += `<span class="diffs px-1 blocked" style="opacity: 0.3";>${ v }</span>`;
+                            else
+                                diffsBlock += `<span class="diffs px-1 blocked">${ v }</span>`;
+                            
+                            isUsed = true;
+                        }
+                    });
+    
+                    if (!isUsed)
+                        diffsBlock += `<span class="diffs px-1 aviable">${ v }</span>`;
                 });
-
-                $.each(b.categoriesLocked, function(k, c) {
-                    if (d == c) {
-                        if (isClaimed)
-                            p += `<i style='color: grey;' opacity: 0.3;>${ c }</i>`;
-                        else
-                            p += `<i style='color: grey;'>${ c }</i>`;
-                        
-                        isUsed = true;
-                    }
-                });
-
-                if (!isUsed)
-                    p += `<i style='color: red;'>${ d }</i>`;
-            });
-
-            p += '</p>';
-
-            if (b.status == 'Ranked')
-                $('#rankedBeatmaps').append(p);
-            else
-                $('#diffs').append(p);
+    
+                diffsBlock += '</div>';
+    
+                $(`#${b.id}`).append(diffsBlock);
+            }
         });
 
-        $('#newFaCount').text(`(${wipNewFaCount} WIPs of ${totalNewFaCount})`);
-        $('#oldFaCount').text(`(${wipOldFaCount} WIPs of ${totalOldFaCount})`);
+        $('[data-toggle="tooltip"]').tooltip()
     });
     
-    $('#extendedInfo').on('show.bs.modal', function (event) {
+    $('#editBeatmap').on('show.bs.modal', function (event) {
         var id = $(event.relatedTarget).data('mapid');
-        $('.modal-title').text('');
-        $('.modal-body').text('');
+        $('#editBeatmap .modal-title').text('');
+        $('#difficulties').text('');
 
-        $.getJSON(fileName, function(){
-            console.log('loaded');
-        })
-        .done(function(data){
-            var key;
+        $.getJSON(fileName).done(function(data) {
+            var mapId;
             $.each(data.maps.beatmaps, function (k, v) {
                 if (v.id == id){
-                    key = k;
+                    mapId = k;
                     return;
-                } 
+                }
             });
-            console.log(key);
-            console.log(data.maps.beatmaps[key].title);
-            var map = data.maps.beatmaps[key];
-            $('.modal-title').text(`${map.artist} - ${map.title} (${map.host})`);
 
-            console.log(map.status);
-            if (map.status == 'WIP') {
-                $('.modal-header').removeClass('bg-success');
-                $('.modal-header').addClass('bg-warning');
-            } else {
-                $('.modal-header').removeClass('bg-warning');
-                $('.modal-header').addClass('bg-success');
-            }
+            var map = data.maps.beatmaps[mapId];
+            $('#editBeatmap .modal-title').text(`${map.artist} - ${map.title} (${map.host})`);
+            $('#editBeatmap .modal-header').addClass('bg-' + map.status.toLowerCase());
 
-            $.each(map.tasks, function(k, v){
-                var s = `<p class='${ v.status == 'WIP' ? 'text-warning' : 'text-success' }'>${v.name}: `;
+            $.each(map.tasks, function(k, d){
+                var diffs = `<p class='${ d.status.toLowerCase() }'> <button class='btn btn-mg'>-</button> ${d.name}: `;
                 var mappers = map.tasks[k].mappers;
                 $.each(mappers, function(k, v){
-                    if (k == (mappers.length - 2))
-                        s += v + ' & ';
-                    else
-                        s += v;
+                    diffs += v + ', ';
                 });
-                s += '</p>';
-                $('.modal-body').append(s);
+                diffs = diffs.slice(0, -2) + '</p>';
+                $('#difficulties').append(diffs);
             });
 
-            var s = '<p>BNs: ';
-            $.each(map.bns, function(k, v){
-                s += v + ' ';
+            var bns = '<p>BNs: ';
+            $.each(map.bns, function(k, b){
+                bns += b + ' ';
             });
-            s += '</p>';
-            $('.modal-body').append(s);
+            bns += '</p>';
+            $('#bns').html(`BNs: ${bns} <button class="btn btn-mg">+</button>`);
             
-            $('.modal-body').append(`<p>Quest: ${map.quest}</p>`);
+            $('#editBeatmap .modal-body').append(`<p>Quest: ${map.quest}</p>`);
 
-            var s = `<p>Modders (${ map.modders.length }): `;
+            var bns = `<p>Modders (${ map.modders.length }): `;
             $.each(map.modders, function(k, v){
-                s += v + ' ';
+                bns += v + ' ';
             });
-            s += '</p>';
-            $('.modal-body').append(s);
+            bns += '</p>';
+            $('#editBeatmap .modal-body').append(bns);
         });
     });
-
-    $('[data-toggle="tooltip"]').tooltip();
-
 });

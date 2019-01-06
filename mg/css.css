@@ -1,0 +1,84 @@
+:root {
+    --wip: #ADFF5F;
+    --done: #11FEB0;
+    --ranked: #6DCFF6;
+    --blocked: grey;
+    --aviable: #FF5864;
+    --rest: #7AFFA8;
+}
+
+body {
+    background-color: #151515;
+    background-image: url("./assets/the_A.png");
+    font-family: 'Exo 2', sans-serif;
+}
+
+a {
+    color: var(--rest);
+}
+
+.border-status-wip {
+    border-top: 7px solid var(--wip);
+}
+
+.border-status-done {
+    border-top: 7px solid var(--done);
+}
+
+.border-status-ranked {
+    border-top: 7px solid var(--ranked);
+}
+
+.diffs {
+    font-size: 2rem;
+}
+
+.btn-mg {
+    background-color: var(--rest);
+    border-color: var(--rest);
+}
+
+.wip {
+    color: var(--wip);
+}
+
+.done {
+    color: var(--done);
+}
+
+.ranked {
+    color: var(--ranked);
+}
+
+.blocked {
+    color: var(--blocked);
+}
+
+.aviable {
+    color: var(--aviable);
+}
+
+.bg-wip {
+    background-color: var(--wip);
+}
+
+.bg-done {
+    background-color: var(--done);
+}
+
+.bg-ranked {
+    background-color: var(--ranked);
+}
+
+.bg-blocked {
+    background-color: var(--blocked);
+}
+
+.bg-aviable {
+    background-color: var(--aviable);
+}
+
+.tooltip > .tooltip-inner {
+    background-color: var(--rest);
+    color: #333;
+}

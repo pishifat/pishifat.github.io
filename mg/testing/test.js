@@ -19,8 +19,12 @@ app.use(bodyParser.json());
 
 var beatmaps;
 
-app.get("/url", (req, res, next) => {
-    res.json(beatmaps.data)
+app.get("/maps", (req, res, next) => {
+    res.json(beatmaps.data);
+});
+
+app.get("/editbeatmap/:mapId", (req, res) => {
+    res.json(beatmaps.findOne({ $loki : parseInt(req.params.mapId) }));
 });
 
 app.post('/newmap', (req, res) => {

@@ -4,22 +4,23 @@
     <meta charset="utf-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <title>mg</title>
+    <title>Quests</title>
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
-    <style>
-        body {
-            background-color: rgba(109, 118, 126, 0.14);
-        }
-    </style>
+    <link href="https://fonts.googleapis.com/css?family=Exo+2" rel="stylesheet">
+    <link rel="stylesheet" href="./css.css">
+    <link rel="icon" type="image/png" href="assets/logo256.png">
 </head>
-<body style="background-color:rgba(109, 118, 126, 0.14)">
-
-    <nav class="navbar navbar-expand-lg navbar-light bg-light">
-        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbar" aria-controls="navbar">
+<body class="text-light">
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbar">
             <span class="navbar-toggler-icon"></span>
         </button>
         
         <div class="collapse navbar-collapse" id="navbar">
+            <a class="navbar-brand font-italic" href="#" style="border-right: 3px solid white; padding-right: 1rem;">
+                <img src="./assets/logo256.png" width="30" height="30" alt="">
+                Mappers' Guild
+            </a>
             <ul class="navbar-nav mr-auto">
                 <li class="nav-item">
                     <a class="nav-link" href="maps.html">Maps</a>
@@ -39,10 +40,23 @@
 
     <div class="container">
         <div>
-            <h1 class="text-center">Quests <small class="text-muted" id="count"></small></h1>
-            <div class="card-columns"></div>
+            <img class="my-3 mx-auto d-block img-fluid" src="./assets/logo256.png" width="100" height="100">
+            <h1 class="text-center">Quests</h1>
+        </div>
+
+        <div class="row">
+            <div class="col-md-12">
+                <h2>Quest listing</h2>
+                <small>Sort: <a href="#">Date added</a> | <a href="#">Availability</a> | <a href="#">Reward</a> | <a href="#">Required rank</a> | <a href="#">Party size</a></small>
+                <div id="quests"></div>
+            </div>
         </div>
     </div>
+
+    <footer class="text-center">
+        <img class="mb-3 mt-3" src="./assets/osu.png">
+        <div style="background-color: #FF5864; height: 10px;"></div>
+    </footer>
     
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>

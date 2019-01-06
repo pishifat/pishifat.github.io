@@ -1,41 +1,31 @@
-/*
-then for users, there's like a bunch of things to list
-would only put total points, rank, and current party on the always-visible card
-then the points breakdown and quest name list in this popup thing
-for quests, would just do name/reward visible
-and parties everything can be visible cuz there isnt much
-*/
-
 $(function(){
     var fileName = 'testfile35.json';
 
-    console.log('start');
-    $.getJSON(fileName, function(){
-        console.log('loaded');
-    })
-    .done(function(data){
-        var totalOpened = 0;
+    $.getJSON(fileName).done(function(data) {
 
-        $.each(data.quests.quests, function (k, v) {
-            
-            var card = `<div class='card text-white'>
-            <div class='card-header'>${v.name} (Reward: ${v.reward})</div>
+        $.each(data.quests.quests, function (k, q) {
+            if (k % 2 == 0)
+                $('#quests').append('<div class="row"></div>');
+
+            var button;
+            if (q.status == 'open') 
+                button = '<button class="btn btn-mg float-right">Accept</button>'
+            // else if (q.assignedParty == user.party.currentyQuest) button = '<button class="btn btn-mg">Drop</button>'
+
+            var card = `<div class='col-sm-6'>
+            <div class='card bg-dark border-status-${q.status.toLowerCase()}'>
+            <div class='card-header'>${q.name} ${button || ''}</div>
             <div class='card-body'>
-            <h5 class='card-title'>${v.status}</h5>
-            <p class='card-text'>${v.description}</p>
+            <p class='card-text'>Reward: ${q.reward}</p>
+            <p class='card-text'>Description: ${q.description}</p>
+            <p class='card-text'>Party size: ${q.minParty}-${q.maxParty}</p>
+            <p class='card-text'>Required rank: ${q.minRank}</p>
+            <p class='card-text'>Current party: <b>${q.assignedParty || 'none'}</b></p>
+            </div>
             </div>
             </div>`;
 
-            $('.card-columns').append(card);
-            
-            if (v.status == 'open') {
-                totalOpened++;
-                $('.card:last').addClass('bg-primary');
-            } else {
-                $('.card:last').addClass('bg-success');
-            }
+            $('.row:last').append(card);
         });
-
-        $('#count').text(`(${totalOpened})`);
     });
 });

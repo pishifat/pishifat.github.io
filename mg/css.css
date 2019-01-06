@@ -3,7 +3,7 @@
     --done: #11FEB0;
     --ranked: #6DCFF6;
     --blocked: grey;
-    --aviable: #FF5864;
+    --open: #FF5864;
     --rest: #7AFFA8;
 }
 
@@ -29,8 +29,17 @@ a {
     border-top: 7px solid var(--ranked);
 }
 
+.border-status-open {
+    border-top: 7px solid var(--open);
+}
+
 .diffs {
     font-size: 2rem;
+}
+
+.btn-mg-used {
+    background-color: var(--open);
+    border-color: var(--open);
 }
 
 .btn-mg {
@@ -54,8 +63,8 @@ a {
     color: var(--blocked);
 }
 
-.aviable {
-    color: var(--aviable);
+.open {
+    color: var(--open);
 }
 
 .bg-wip {
@@ -74,8 +83,12 @@ a {
     background-color: var(--blocked);
 }
 
-.bg-aviable {
-    background-color: var(--aviable);
+.bg-open {
+    background-color: var(--open);
+}
+
+.bg-rest {
+    background-color: var(--rest);
 }
 
 .tooltip > .tooltip-inner {

@@ -9,76 +9,73 @@ and parties everything can be visible cuz there isnt much
 $(function(){
 
     var fileName = 'testfile35.json';
+    var rankColors = ['black','saddlebrown','silver','gold'];
 
-    console.log('start');
-    $.getJSON(fileName, function(){
-        console.log('loaded');
-    })
-    .done(function(data){
-        var totalUsers = 0;
+    $.getJSON(fileName).done(function(data) {
 
-        $.each(data.users.users, function (k, v) {
-            var card = `<div class='card bg-light' data-toggle='modal' data-target='#extendedInfo' data-user='${v.name}'>
-            <div class='card-header'>Points: ${v.totalPoints}</div>
+
+        $.each(data.users.users, function (k, u) {
+            if (k % 4 == 0)                
+                $('#parties').append('<div class="row"></div>');
+
+            var card = `<div class='col-sm-3'>
+            <div class='card bg-dark' data-toggle='modal' data-target='#extendedInfo' data-user='${u.name}' style='border-top: 7px solid ${rankColors[u.rank]};'>
+            <div class='card-header'><b>${u.name}</b></div>
             <div class='card-body'>
-            <h5 class='card-title'>${v.name}</h5>
-            <h6 class='card-subtitle text-muted'>Rank: ${v.rank}</h6>
-            <p class='card-text'>Party: ${v.currentParty}</p>
+            <p class='card-text'>Total points: ${u.totalPoints}</p>
+            <p class='card-text'>Current party: <b>${u.currentParty || 'none'}</b></p>
+            </div>
             </div>
             </div>`;
 
-            $('.card-columns').append(card);
-            totalUsers++;
+            $('.row:last').append(card);
         });
-
-        $('#count').text(`(${totalUsers})`);
     });
     
-    $('#extendedInfo').on('show.bs.modal', function (event) {
-        var userClicked = $(event.relatedTarget).data('user');
+    $('#extendedInfo').on('show.bs.modal', function (e) {
+        var userId = $(e.relatedTarget).data('user');
         $('.modal-title').text('');
         $('.modal-body').text('');
 
-        $.getJSON(fileName, function(){
-            console.log('loaded');
-        })
-        .done(function(data){
+        $.getJSON(fileName).done(function(data) {
             var key;
             $.each(data.users.users, function (k, v) {
-                if (v.name == userClicked){
+                if (v.name == userId){
                     key = k;
                     return;
                 } 
             });
-            console.log(key);
+            
             var user = data.users.users[key];
             $('.modal-title').text(user.name);
-
-            var s = '<p>Compleated Quests: ';
-            if (user.completedQuests.length > 0) {
-                $.each(user.completedQuests, function(k, v){
-                    s += v + ' ';
-                });
-            } else {
-                s += 'None';
-            }
-            s += '</p>';
-            $('.modal-body').append(s);
             
             $('.modal-body').append(`<p>Rank: ${user.rank}</p>`);
-            $('.modal-body').append(`<p>Current Party: ${user.currentParty}</p>`);
             $('.modal-body').append(`<p>Total Points: ${user.totalPoints}</p>`);
-            $('.modal-body').append(`<p>easyPoints: ${user.easyPoints}</p>`);
-            $('.modal-body').append(`<p>normalPoints: ${user.normalPoints}</p>`);
-            $('.modal-body').append(`<p>hardPoints: ${user.hardPoints}</p>`);
-            $('.modal-body').append(`<p>insanePoints: ${user.insanePoints}</p>`);
-            $('.modal-body').append(`<p>extraPoints: ${user.extraPoints}</p>`);
-            $('.modal-body').append(`<p>storyboardPoints: ${user.storyboardPoints}</p>`);
-            $('.modal-body').append(`<p>backgroundPoints: ${user.backgroundPoints}</p>`);
-            $('.modal-body').append(`<p>skinPoints: ${user.skinPoints}</p>`);
-            $('.modal-body').append(`<p>questPoints: ${user.questPoints}</p>`);
-            $('.modal-body').append(`<p>modPoints: ${user.modPoints}</p>`);
-            $('.modal-body').append(`<p>hostPoints: ${user.hostPoints}</p>`);
+            
+            function displayPoints(points, name) {
+                if (points)
+                    $('.modal-body').append(`<p class='ml-3 small'>${name} Points: ${Math.round(points)}</p>`);
+            }
+            displayPoints(user.easyPoints, 'Easy');
+            displayPoints(user.normalPoints, 'Normal');
+            displayPoints(user.hardPoints, 'Hard');
+            displayPoints(user.insanePoints, 'Insane');
+            displayPoints(user.extraPoints, 'Extra');
+            displayPoints(user.storyboardPoints, 'Storyboard');
+            displayPoints(user.skinPoints, 'Skin');
+            displayPoints(user.backgroundPoints, 'Background');
+            displayPoints(user.questPoints, 'Quest');
+            displayPoints(user.modPoints, 'Mod');
+            displayPoints(user.hostPoints, 'Host');
+
+            $('.modal-body').append(`<p>Current Party: ${user.currentParty || 'none'}</p>`);
+
+            if (user.completedQuests.length > 0) {
+                $('.modal-body').append('<p>Compleated Quests: </p>');
+                $.each(user.completedQuests, function(k, q){
+                    $('.modal-body').append(`<p class='ml-3 small'>${q}</p>`);
+                });
+            }
         });
     });
 });

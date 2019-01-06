@@ -8,6 +8,7 @@
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
     <link href="https://fonts.googleapis.com/css?family=Exo+2" rel="stylesheet">
     <link rel="stylesheet" href="./css.css">
+    <link rel="icon" type="image/png" href="assets/logo256.png">
 </head>
 <body class="text-light">
     <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
@@ -78,20 +79,25 @@
                         <div class="row">
                             <div class="col-sm-6">
                                 <p>Difficulties:</p>
-                                <div id="difficulties"></div>
+                                <div id="difficulties"><p>asd</p></div>
                                 <p>Visuals:</p>
-                                <div id="visuals"></div>
+                                <div id="Visuals">
+                                    <p class="ml-3 small" id="sb"><button class="btn btn-mg btn-sm">+</button> Storyboard: </p>
+                                    <p class="ml-3 small" id="bg"><button class="btn btn-mg btn-sm">+</button> Background: </p>
+                                    <p class="ml-3 small" id="skin"><button class="btn btn-mg btn-sm">+</button> Storyboard: </p>
+                                </div>
                                 <p>Mapset status:</p>
-                                <button class="btn btn-mg">Complete</button>
-                                <button class="btn btn-mg">Work-in-progress</button>
+                                <button class="btn btn-mg btn-sm">Complete</button>
+                                <button class="btn btn-mg btn-sm">Work-in-progress</button>
                             </div>
     
                             <div class="col-sm-6">
-                                <p>Quest: <button class="btn btn-mg">+</button></p>
-                                <p>Modders: <button class="btn btn-mg">+</button></p>
+                                <p id="quest"></p>
+                                <p id="modders"></p>
                                 <p id="bns"></p>
-                                <p>Link: <button class="btn btn-mg">edit</button></p>
+                                <p>Link: <button class="btn btn-mg btn-sm">edit</button></p>
                                 <p>Locked: </p>
+                                <div id="lockedDiffs"></div>
                             </div>
                         </div>
                     </div>

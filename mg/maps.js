@@ -1,42 +1,19 @@
-/*
-add commnas
-diffs in card w/ username on hover | crossed out taken diffs | show all except maps.locked ( https://media.discordapp.net/attachments/332717696812711948/529928461360431110/unknown.png ) 
-collapsable by quests/generalmaps/ranked
-sizes (ranked like https://cdn.discordapp.com/attachments/332717696812711948/529927425384251406/unknown.png )
-*/
-
 function addNewMap(){
     $.post("http://localhost:3000/newmap", {"artist": "aaaaa", "title": "bbbbbb", "host": "asdf"})
 }
 
 $(function(){
 
-
     var fileName = 'testfile35.json';
     var newFaQuest = "Culprate Map Pack";
+    var testing = true;
+    
+    $.getJSON(testing ? '/maps' : fileName).done(function(data){
 
-    //THE FIRST ONE (for sample db, do not comment out)
-    $.getJSON(fileName).done(function(data){
-    console.log('start');
+        $.each(testing ? data : data.maps.beatmaps, function (k, b) {
 
-    //THE SECOND ONE (for sample db, comment out first line. for modifiable db, comment out second line)
-    //$.getJSON('http://localhost:3000/url', function(){
-    $.getJSON(fileName, function(){    
-        console.log('loaded');
-    })
-    .done(function(data){
-        var totalNewFaCount = 0;
-        var totalOldFaCount = 0;
-        var wipNewFaCount = 0;
-        var wipOldFaCount = 0;
-        console.log(data);
-
-    //THE THIRD ONE (for sample db, comment out first line. for modifiable db, comment out second line)
-        //$.each(data, function (k, b) {
-        $.each(data.maps.beatmaps, function (k, b) {
-            
             var isRanked = b.status == 'Ranked';
-            var quest = b.quest == '' ? 'Others' : b.quest;
+            var quest = b.quest || 'Others';
             var questId = quest.split(' ').join('') + (isRanked ? '-ranked' : '-pending');
 
             if (!$(`#${questId}`).length) {
@@ -50,11 +27,11 @@ $(function(){
                     $('#pendingBeatmaps').append(questCollapse);
             }
 
-            $(`#${questId}`).append(`<div class='row' id='${b.id}'>`);
+            $(`#${questId}`).append(`<div class='row' id='${testing ? b.$loki : b.id}'>`);
 
             var mapCard = 
                 `<div class="col-sm-${isRanked ? '12' : '7'} my-2">
-                <div class='card bg-dark border-status-${b.status.toLowerCase()}' data-toggle='modal' data-target='#editBeatmap' data-mapid='${b.id}'>
+                <div class='card bg-dark border-status-${b.status.toLowerCase()}' data-toggle='modal' data-target='#editBeatmap' data-mapid='${testing ? b.$loki : b.id}'>
                 <img class='card-img' src='${b.link !== '' ? `https://assets.ppy.sh/beatmaps/${ b.link.slice(b.link.lastIndexOf('/') - b.link.length) }/covers/card.jpg` : 'https://osu.ppy.sh/images/layout/beatmaps/default-bg.png'}' style='opacity:0.5' alt='ops'> 
                 <div class='card-img-overlay'>
                 <p class='card-title mb-1'>${b.artist} - ${b.title}</p>
@@ -63,9 +40,9 @@ $(function(){
                 </div>
                 </div>`;
 
-            $(`#${b.id}`).append(mapCard);
+            $(`#${testing ? b.$loki : b.id}`).append(mapCard);
 
-            if (b.status != 'Ranked')
+            if (!isRanked)
             {
                 var diffsBlock = '<div class="col-sm-5 my-2">'; //style="background: linear-gradient(transparent 33%, rgba(31, 31, 31, 1) 33% 66%, transparent 66%);"
                 var diffs = { 'Easy':'E', 'Normal':'N', 'Hard':'H', 'Insane':'I', 'Extra':'E' };
@@ -99,70 +76,93 @@ $(function(){
                     });
     
                     if (!isUsed)
-                        diffsBlock += `<span class="diffs px-1 aviable">${ v }</span>`;
+                        diffsBlock += `<span class="diffs px-1 open">${ v }</span>`;
                 });
     
                 diffsBlock += '</div>';
     
-                $(`#${b.id}`).append(diffsBlock);
+                $(`#${testing ? b.$loki : b.id}`).append(diffsBlock);
             }
         });
 
-        $('[data-toggle="tooltip"]').tooltip()
+        $('[data-toggle="tooltip"]').tooltip();
+        $('[data-toggle="popover"]').popover();
     });
     
-    $('#editBeatmap').on('show.bs.modal', function (event) {
-        var id = $(event.relatedTarget).data('mapid');
+    $('#editBeatmap').on('show.bs.modal', function (e) {
+        var id = $(e.relatedTarget).data('mapid');
         $('#editBeatmap .modal-title').text('');
         $('#difficulties').text('');
 
-        $.getJSON(fileName).done(function(data) {
-            var mapId;
-            $.each(data.maps.beatmaps, function (k, v) {
-                if (v.id == id){
-                    mapId = k;
-                    return;
-                }
-            });
+        $.getJSON(testing ? '/editbeatmap/'+id : fileName).done(function(map) {
+            
+            if (!testing) {
+                var mapId;
+                $.each(map.maps.beatmaps, function (k, v) {
+                    if (v.id == id){
+                        mapId = k;
+                        return;
+                    }
+                });
+    
+                map = map.maps.beatmaps[mapId];
+            }
 
-            var map = data.maps.beatmaps[mapId];
             $('#editBeatmap .modal-title').text(`${map.artist} - ${map.title} (${map.host})`);
             $('#editBeatmap .modal-header').addClass('bg-' + map.status.toLowerCase());
 
-            $.each(map.tasks, function(k, d){
-                var diffs = `<p class='${ d.status.toLowerCase() }'> <button class='btn btn-mg'>-</button> ${d.name}: `;
-                var mappers = map.tasks[k].mappers;
-                $.each(mappers, function(k, v){
-                    diffs += v + ', ';
+            var visualTasks = ['Skin', 'Storyboard', 'Background'];
+
+            $.each(map.tasks, function(k, t){
+                var mappers = '';
+                $.each(t.mappers, function(k, v){
+                    mappers += v + ', ';
                 });
-                diffs = diffs.slice(0, -2) + '</p>';
-                $('#difficulties').append(diffs);
-            });
+                mappers = mappers.slice(0, -2);
 
-            var bns = '<p>BNs: ';
-            $.each(map.bns, function(k, b){
-                bns += b + ' ';
+                var i = visualTasks.indexOf(t.name);
+                if (i == -1) {
+                    $('#difficulties').prepend(`<p class='${ t.status.toLowerCase() } ml-3 small'> <button class='btn btn-mg-used btn-sm'>-</button> ${t.name}: ${mappers} </p>`);
+                } else {
+                    var button = '<button class="btn btn-mg-used btn-sm">+</button>';
+                    switch (i) {
+                        case 1:
+                            $('#skin').html(button + ' Skin:' + mappers);
+                            break;
+                        case 2:
+                            $('#sb').html(button + ' Storyboard:' + mappers);
+                            break;
+                        case 3:
+                            $('#bg').html(button + ' Background:' + mappers);
+                            break;
+                    }                
+                }
             });
-            bns += '</p>';
-            $('#bns').html(`BNs: ${bns} <button class="btn btn-mg">+</button>`);
             
-            $('#editBeatmap .modal-body').append(`<p>Quest: ${map.quest}</p>`);
+            $('#quest').html(`<p>Quest: ${map.quest} <button class="btn btn-mg${map.quest.length ? '-used' : ''} btn-sm">${map.quest.length ? '-' : '+'}</button></p>`);
 
-            var bns = `<p>Modders (${ map.modders.length }): `;
+            var modders = '';
             $.each(map.modders, function(k, v){
-                bns += v + ' ';
+                modders += v + ', ';
             });
-            bns += '</p>';
-            $('#editBeatmap .modal-body').append(bns);
+            modders = modders.slice(0, -2);
+            $('#modders').html(`<p>Modders <b>(${map.modders.length})</b>: ${modders} <button class="btn btn-mg btn-sm">+</button></p>`);
+
+            var bns = '';
+            $.each(map.bns, function(k, b){
+                bns += b + ', ';
+            });
+            bns = bns.slice(0, -2);
+            $('#bns').html(`<p>BNs: ${bns} <button class="btn btn-mg btn-sm">+</button>`);
+
+            $.each(map.categoriesLocked, function(k, c){
+                $('#lockedDiffs').prepend(`<p><button class='btn btn-mg-used btn-sm'>-</button> ${c}</p>`);
+            });
         });
     });
 
-
     $("#newmap").click(addNewMap);
     
-
-//THE FOURTH ONE (cancel out for modifiable db)
-});
 });
 
 

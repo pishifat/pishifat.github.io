@@ -5,18 +5,34 @@ collapsable by quests/generalmaps/ranked
 sizes (ranked like https://cdn.discordapp.com/attachments/332717696812711948/529927425384251406/unknown.png )
 */
 
+function addNewMap(){
+    $.post("http://localhost:3000/newmap", {"artist": "aaaaa", "title": "bbbbbb", "host": "asdf"})
+}
+
 $(function(){
 
 
     var fileName = 'testfile35.json';
     var newFaQuest = "Culprate Map Pack";
 
+    //THE FIRST ONE (for sample db, do not comment out)
     $.getJSON(fileName).done(function(data){
+    console.log('start');
+
+    //THE SECOND ONE (for sample db, comment out first line. for modifiable db, comment out second line)
+    //$.getJSON('http://localhost:3000/url', function(){
+    $.getJSON(fileName, function(){    
+        console.log('loaded');
+    })
+    .done(function(data){
         var totalNewFaCount = 0;
         var totalOldFaCount = 0;
         var wipNewFaCount = 0;
         var wipOldFaCount = 0;
+        console.log(data);
 
+    //THE THIRD ONE (for sample db, comment out first line. for modifiable db, comment out second line)
+        //$.each(data, function (k, b) {
         $.each(data.maps.beatmaps, function (k, b) {
             
             var isRanked = b.status == 'Ranked';
@@ -140,4 +156,14 @@ $(function(){
             $('#editBeatmap .modal-body').append(bns);
         });
     });
+
+
+    $("#newmap").click(addNewMap);
+    
+
+//THE FOURTH ONE (cancel out for modifiable db)
 });
+});
+
+
+

@@ -1,5 +1,50 @@
 function addNewMap(){
-    $.post("http://localhost:3000/newmap", {"artist": "aaaaa", "title": "bbbbbb", "host": "asdf"})
+    var artist = $("#artist").val();
+    var title = $("#title").val();
+    var host = $("#username").val();
+    
+    var plannedDiffs = ["easy", "normal", "hard", "insane", "extra"];
+    var difficulties = applyCheckboxes(plannedDiffs);
+
+    var lockArray = ["easy2", "normal2", "hard2", "insane2", "extra2"];
+    var locks = applyCheckboxes(lockArray); 
+
+    $.post("http://localhost:3000/newmap", {"artist": artist, "title": title, "host": host, "difficulties": difficulties, "locks": locks});
+}
+
+function applyCheckboxes(plannedDiffs){
+    var difficulties = "";
+    plannedDiffs.forEach(task => {
+        if($("#" + task).is(":checked")){
+            if(difficulties.length > 0){
+                difficulties += ",";
+            }
+            difficulties += task;
+        }
+    })
+    return difficulties;
+}
+
+var smallCardElement; //this can break if not assigned in showmodalthing
+
+function statusComplete(){
+    console.log("runs");
+    var lokiID = $("#lokiID").val();
+    $.get(`http://localhost:3000/updatestatus/${lokiID}/Done`);
+    $('#editBeatmap .modal-header').removeClass('bg-wip');
+    $('#editBeatmap .modal-header').addClass('bg-done');
+    $(smallCardElement).removeClass('border-status-wip');
+    $(smallCardElement).addClass('border-status-done');
+}
+
+function statusWIP(){
+    console.log("runs");
+    var lokiID = $("#lokiID").val();
+    $.get(`http://localhost:3000/updatestatus/${lokiID}/WIP`);
+    $('#editBeatmap .modal-header').removeClass('bg-done');
+    $('#editBeatmap .modal-header').addClass('bg-wip');
+    $(smallCardElement).removeClass('border-status-done');
+    $(smallCardElement).addClass('border-status-wip');
 }
 
 $(function(){
@@ -91,6 +136,7 @@ $(function(){
     
     $('#editBeatmap').on('show.bs.modal', function (e) {
         var id = $(e.relatedTarget).data('mapid');
+        smallCardElement = e.relatedTarget;
         $('#editBeatmap .modal-title').text('');
         $('#difficulties').text('');
 
@@ -110,6 +156,7 @@ $(function(){
 
             $('#editBeatmap .modal-title').text(`${map.artist} - ${map.title} (${map.host})`);
             $('#editBeatmap .modal-header').addClass('bg-' + map.status.toLowerCase());
+            $('#lokiID').val(id);
 
             var visualTasks = ['Skin', 'Storyboard', 'Background'];
 
@@ -161,7 +208,9 @@ $(function(){
         });
     });
 
-    $("#newmap").click(addNewMap);
+    $("#savenewmap").click(addNewMap);
+    $("#statusComplete").click(statusComplete);
+    $("#statusWIP").click(statusWIP);
     
 });
 

@@ -33,6 +33,14 @@ a {
     border-top: 7px solid var(--open);
 }
 
+.border-status-button-complete {
+    border-color: var(--done);
+}
+
+.border-status-button-wip {
+    border-color: var(--wip);
+}
+
 .diffs {
     font-size: 2rem;
 }
@@ -40,11 +48,13 @@ a {
 .btn-mg-used {
     background-color: var(--open);
     border-color: var(--open);
+    filter: drop-shadow(1px 1px 1px #000000);
 }
 
 .btn-mg {
     background-color: var(--rest);
     border-color: var(--rest);
+    filter: drop-shadow(1px 1px 1px #000000);
 }
 
 .wip {

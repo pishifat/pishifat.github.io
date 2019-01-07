@@ -47,9 +47,11 @@
         <div class="row">
             <div class="col-md-8">
                 <h2>Pending beatmaps <button class="btn btn-mg" data-toggle="modal" data-target="#addBeatmap">Add beatmap</button></h2>
+                <div class="form-group row">
+                    <label class="col-sm-3" for="user"> Username:</label><input class="col-sm-2 form-control" type="text" id="username">
+                </div>
                 <small>Filter: <a href="#">Most recent</a> | <a href="#">My maps</a> | <a href="#">Quest</a></small>
                 <div id="pendingBeatmaps"></div>
-                <button id="newmap" type="button">Click Me!</button>
             </div>
 
             <div class="col-md-4">
@@ -87,8 +89,9 @@
                                     <p class="ml-3 small" id="skin"><button class="btn btn-mg btn-sm">+</button> Storyboard: </p>
                                 </div>
                                 <p>Mapset status:</p>
-                                <button class="btn btn-mg btn-sm">Complete</button>
-                                <button class="btn btn-mg btn-sm">Work-in-progress</button>
+                                <button class="btn btn-sm btn-mg border-status-button-complete bg-done" id="statusComplete">Complete</button>
+                                <button class="btn btn-sm btn-mg border-status-button-wip bg-wip" id="statusWIP">Work-in-progress</button>
+                                <input type="hidden" id="lokiID"/>
                             </div>
     
                             <div class="col-sm-6">
@@ -121,7 +124,7 @@
                             <label class="col-sm-3" for="artist"> Artist:</label><input class="col-sm-9 form-control" type="text" id="artist">
                         </div>
                         <div class="form-group row">
-                            <label class="col-sm-3" for="artist"> Title:</label><input class="col-sm-9 form-control" type="text" id="artist">
+                            <label class="col-sm-3" for="title"> Title:</label><input class="col-sm-9 form-control" type="text" id="title">
                         </div>
 
                         <p>Select one or more difficulties <b>you plan on mapping</b>. These can be changed later:</p>
@@ -134,26 +137,26 @@
                                 </label>
                                 </div>
                                 <div class="form-check">
-                                <input class="form-check-input" type="checkbox" id="easy">
-                                <label class="form-check-label" for="easy">
+                                <input class="form-check-input" type="checkbox" id="normal">
+                                <label class="form-check-label" for="normal">
                                     Normal
                                 </label>
                                 </div>
                                 <div class="form-check">
-                                <input class="form-check-input" type="checkbox" id="easy">
-                                <label class="form-check-label" for="easy">
+                                <input class="form-check-input" type="checkbox" id="hard">
+                                <label class="form-check-label" for="hard">
                                     Hard
                                 </label>
                                 </div>
                                 <div class="form-check">
-                                <input class="form-check-input" type="checkbox" id="easy">
-                                <label class="form-check-label" for="easy">
+                                <input class="form-check-input" type="checkbox" id="insane">
+                                <label class="form-check-label" for="insane">
                                     Insane
                                 </label>
                                 </div>
                                 <div class="form-check">
-                                <input class="form-check-input" type="checkbox" id="easy">
-                                <label class="form-check-label" for="easy">
+                                <input class="form-check-input" type="checkbox" id="extra">
+                                <label class="form-check-label" for="extra">
                                     Extra
                                 </label>
                                 </div>
@@ -164,32 +167,32 @@
                         <div class="form-group row">
                             <div class="col-sm-10">
                                 <div class="form-check">
-                                <input class="form-check-input" type="checkbox" id="easy">
-                                <label class="form-check-label" for="easy">
+                                <input class="form-check-input" type="checkbox" id="easy2">
+                                <label class="form-check-label" for="easy2">
                                     Easy
                                 </label>
                                 </div>
                                 <div class="form-check">
-                                <input class="form-check-input" type="checkbox" id="easy">
-                                <label class="form-check-label" for="easy">
+                                <input class="form-check-input" type="checkbox" id="normal2">
+                                <label class="form-check-label" for="normal2">
                                     Normal
                                 </label>
                                 </div>
                                 <div class="form-check">
-                                <input class="form-check-input" type="checkbox" id="easy">
-                                <label class="form-check-label" for="easy">
+                                <input class="form-check-input" type="checkbox" id="hard2">
+                                <label class="form-check-label" for="hard2">
                                     Hard
                                 </label>
                                 </div>
                                 <div class="form-check">
-                                <input class="form-check-input" type="checkbox" id="easy">
-                                <label class="form-check-label" for="easy">
+                                <input class="form-check-input" type="checkbox" id="insane2">
+                                <label class="form-check-label" for="insane2">
                                     Insane
                                 </label>
                                 </div>
                                 <div class="form-check">
-                                <input class="form-check-input" type="checkbox" id="easy">
-                                <label class="form-check-label" for="easy">
+                                <input class="form-check-input" type="checkbox" id="extra2">
+                                <label class="form-check-label" for="extra2">
                                     Extra
                                 </label>
                                 </div>
@@ -215,7 +218,7 @@
                     <p class="text-danger">Errors</p>
                 </div>
                 <div class="modal-footer">
-                    <button type="button" class="btn btn-mg">Save</button>
+                    <button type="button" class="btn btn-mg" id="savenewmap">Save</button>
                 </div>
             </div>
         </div>

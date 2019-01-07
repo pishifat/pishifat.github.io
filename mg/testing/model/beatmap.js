@@ -15,8 +15,31 @@ class Beatmap
 
         this.categoriesLocked = [];
     }
+
+    addTask(name){
+        name = name.charAt(0).toUpperCase() + name.slice(1);
+        this.tasks.push(new Task(name));
+    }
+
+    addCategoryLock(name){
+        name = name.charAt(0).toUpperCase() + name.slice(1, -1);
+        this.categoriesLocked.push(name);
+    }
+
+    
+}
+
+class Task
+{
+    constructor(name)
+    {
+        this.name = name;
+        this.mappers = [];
+        this.status = "WIP";
+    }
+
 }
 
 
 
-module.exports = {Beatmap};
+module.exports = {Beatmap, Task};
